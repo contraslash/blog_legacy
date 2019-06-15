@@ -3,7 +3,9 @@ Date: 2017-03-15T15:05:43+00:00
 Description: Notas de la conferencia de UI y UX en Google Launchpad Bogotá 2017
 Tags: Google Launchpad,Experiencia de Usuario,UX
 ---
-# 5 Principales problemas de UX en emprendimiento> La experiencia de usuario es diferente a la usabilidad
+# 5 Principales problemas de UX en emprendimiento
+
+> La experiencia de usuario es diferente a la usabilidad
 
 ![Orinal de Billboard](http://i.vimeocdn.com/video/290566319_1280x720.jpg)
 Los orinales son usables, pero Billboard le dió una experiencia increible a los usuarios de sus baños

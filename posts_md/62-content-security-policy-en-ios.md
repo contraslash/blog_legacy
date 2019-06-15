@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: iOS,ionic
 ---
-# Content Security Policy en iOS con ionicDesde la salida de cordova 5.0, el trabajo conectándose a URLs externas es todo un fastidio, sugieren bajar el plugin de [whitelist](https://github.com/apache/cordova-plugin-whitelist) y configurarlo como se sugiere en el *readme.md*, pero vaya sorpresa, a mi no me funcionó.
+# Content Security Policy en iOS con ionic
+
+Desde la salida de cordova 5.0, el trabajo conectándose a URLs externas es todo un fastidio, sugieren bajar el plugin de [whitelist](https://github.com/apache/cordova-plugin-whitelist) y configurarlo como se sugiere en el *readme.md*, pero vaya sorpresa, a mi no me funcionó.
 
 En primera instancia voy a mencionar varios asuntos importantes que pueden salvarle la vida o no a un desarrollador con este problema.
 

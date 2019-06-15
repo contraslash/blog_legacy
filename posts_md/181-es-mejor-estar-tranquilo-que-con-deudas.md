@@ -3,7 +3,9 @@ Date: 2017-09-11T14:49:09+00:00
 Description: Un análisis corto de un capricho, una compra no exitosa, una deuda adquirida y el costo de estar tranquilo
 Tags: Posts
 ---
-# Es mejor estar tranquilo que con deudasPosiblemente sea el primer post no técnico que escriba en este blog, y tal vez el último, pero quiero ponerlo aquí porque como decimos en el trabajo, existen 3 cosas que nos acompañan de por vida: 
+# Es mejor estar tranquilo que con deudas
+
+Posiblemente sea el primer post no técnico que escriba en este blog, y tal vez el último, pero quiero ponerlo aquí porque como decimos en el trabajo, existen 3 cosas que nos acompañan de por vida: 
 
 - Tu familia
 - Tu salud

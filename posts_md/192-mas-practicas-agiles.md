@@ -3,7 +3,9 @@ Date: 2018-03-08T02:43:24+00:00
 Description: Notas de la asignatura Tendencias en Ingeniería de Software donde se especifican algunas prácticas ágiles como Reuniones Diarias, Ciclos de Vida de Software, Refactoring, Retrospectivas y Estándares de Codificación
 Tags: Tendencias en Ingeniería de Software,Metodologías Ágiles
 ---
-# Más prácticas ágiles## Reuniones Diarias
+# Más prácticas ágiles
+
+## Reuniones Diarias
 
 Es una reunión que se hace día a día entre los equipos. Se busca que la duración máxima de 15 minutos, y todos son bienvenidos pueden estar, pero únicamente los involucrados pueden participar
 

@@ -3,7 +3,9 @@ Date: 2016-12-17T15:18:33+00:00
 Description: Singularity is the new kid in the neighborhood. using containers, it allows reproducibility of a computation 
 Tags: Singularity,HTCondor
 ---
-# Using Singularity containers in HTCondor### Introduction
+# Using Singularity containers in HTCondor
+
+### Introduction
 Designed around the notion of extreme mobility of compute and reproducible science, Singularity enables users to have full control of their operating system environment. 
 
 ### Installing Singularity

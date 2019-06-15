@@ -4,6 +4,8 @@ Description:
 Tags: Django
 ---
 # Mostrar errores Formularios Django
+
+
 Tomado de [StackOverflow](http://stackoverflow.com/questions/14647723/django-forms-if-not-valid-show-form-with-error-message)
 ```
 {% if form.errors %}

@@ -3,7 +3,9 @@ Date: 2018-06-08T16:32:48+00:00
 Description: Conceptos fundamentales de los modelos de programación
 Tags: Modelos y Paradigmas de Programación
 ---
-# Conceptos fundamentales de los modelos de programaciónLa programación abarca tres elementos:
+# Conceptos fundamentales de los modelos de programación
+
+La programación abarca tres elementos:
 - Modelo de computación: sistema formal que define un lenguaje y como se ejecutan las instrucciones en una *máquina abstracta*
 - Modelo de programación:  Concepto de técnicas de programación y diseños utilizados para escribir programas en el lenguaje del modelo de computación
 - Técnicas de razonamiento: corrección y eficiencia.

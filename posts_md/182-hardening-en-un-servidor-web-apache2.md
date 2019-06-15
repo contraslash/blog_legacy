@@ -3,7 +3,9 @@ Date: 2017-09-11T17:11:53+00:00
 Description: 5 consejos básicos para mantener tu servidor web apache mas lejos de los atacantes
 Tags: Apache,Security
 ---
-# Hardening en un servidor web Apache2Otra de las deudas técnicas que tenía con este blog era la de algunos tips útiles para realizar un Hardening a un servidor Apache2. A continuación relaciono algunas de las cosas mas importantes:
+# Hardening en un servidor web Apache2
+
+Otra de las deudas técnicas que tenía con este blog era la de algunos tips útiles para realizar un Hardening a un servidor Apache2. A continuación relaciono algunas de las cosas mas importantes:
 
 1. Desactivar las banderas de versión:
   Cuando mostramos la versión de nuestro navegador estamos facilitando la vida del atacante, pues ya restringe el dominio de vulnerabilidades que tendrá que explorar para buscar un vector de ataque.

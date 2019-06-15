@@ -3,7 +3,9 @@ Date: 2016-09-20T15:29:03+00:00
 Description: Enviando Correos con Django desde CPanel
 Tags: Django,CPanel
 ---
-# Usando el Backend de Cpanel para enviar CorreosNunca he sido un gran fan de los hostings compartidos ni de CPanel, pero ya saben, cuando la tierra da limones, hay que hacer limonada.
+# Usando el Backend de Cpanel para enviar Correos
+
+Nunca he sido un gran fan de los hostings compartidos ni de CPanel, pero ya saben, cuando la tierra da limones, hay que hacer limonada.
 
 Recientemente me encuentro trabajando en un proyecto donde usan CPanel como su proveedor de email corporativo y pues tocó configurarlo, y fue demasiado fácil.
 

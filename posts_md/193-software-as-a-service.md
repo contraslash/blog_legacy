@@ -3,7 +3,9 @@ Date: 2018-03-23T13:12:41+00:00
 Description: Notas de clase de la asignatura Tendencias en Ingeniería de Software
 Tags: Arquitectura de Software,Tendencias en Ingeniería de Software,SaaS
 ---
-# Software as a ServiceEl SaaS es un respiro que tiene la industria del software cuando el mercado estaba saturado y la adquisición de nuevos clientes era muy costoso.
+# Software as a Service
+
+El SaaS es un respiro que tiene la industria del software cuando el mercado estaba saturado y la adquisición de nuevos clientes era muy costoso.
 
 ## Qué es SaaS
 Es un modelo en el cual se ofrecen aplicaciones que funcionan en la nube, bajo la modalidad de servicio, y para su acceso se requiere un navegador o cliente especializado a través de internet.

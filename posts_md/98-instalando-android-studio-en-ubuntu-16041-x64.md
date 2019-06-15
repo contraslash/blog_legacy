@@ -3,7 +3,9 @@ Date: 2016-08-30T20:40:32+00:00
 Description: 
 Tags: Android
 ---
-# Instalando android studio en ubuntu 16.04.1 x64 Instalamos estos paquetes
+# Instalando android studio en ubuntu 16.04.1 x64 
+
+Instalamos estos paquetes
 ```
 sudo apt-get install lib32z1 lib32ncurses5 libbz2-1.0:i386 lib32stdc++6
 ```

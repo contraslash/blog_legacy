@@ -3,7 +3,9 @@ Date: 2017-02-07T22:15:47+00:00
 Description: Instalando y configurando Drone.io, un servidor de integración continua, con Gogs.io, un servidor de git, Docker, Apache como proxy inverso en Ubuntu 14.04
 Tags: Apache,Docker,Continuous Integration,Drone,CI
 ---
-# Instalando y Configurando Drone 0.5 en Ubuntu 14.04 Hace tiempo cree la versión 1 de este tutorial, pero con el lanzamiento de drone 0.5, muchas cosas cambiaron, así que tomaré lo relevante de ese post con las nuevas configuraciones necesarias.
+# Instalando y Configurando Drone 0.5 en Ubuntu 14.04 
+
+Hace tiempo cree la versión 1 de este tutorial, pero con el lanzamiento de drone 0.5, muchas cosas cambiaron, así que tomaré lo relevante de ese post con las nuevas configuraciones necesarias.
 
 Usaremos para este tutorial [Gogs](http://gogs.io) un servidor de git muy liviano y escrito en Go y MySQL.
 

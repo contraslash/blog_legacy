@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Seguridad
 ---
-# Instalando joomscan en Ubuntu 14.04Primero son necesarias algunas librerías de perl
+# Instalando joomscan en Ubuntu 14.04
+
+Primero son necesarias algunas librerías de perl
 
 `sudo apt-get install libwww-perl libwww-mechanize-perl libswitch-perl`
 

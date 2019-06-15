@@ -3,7 +3,9 @@ Date: 2016-12-01T21:51:01+00:00
 Description: Notas de la charla de Vigilancia Tecnológica en la apertura del Ecosistema de Innovación Digital
 Tags: Emprendimiento,Vigilancia Tecnológica
 ---
-# Vigilancia Tecnológica> Si no se conocen los planes de la competencia, es muy posible que se vaya a perder cada batalla con la competencia
+# Vigilancia Tecnológica
+
+> Si no se conocen los planes de la competencia, es muy posible que se vaya a perder cada batalla con la competencia
 
 1. **Inteligencia Estratégica**
     En el exterior de la institucion

@@ -3,7 +3,9 @@ Date: 2018-06-08T19:50:44+00:00
 Description: Modelo de programación relacional
 Tags: Modelos y Paradigmas de Programación
 ---
-# Modelo de programación relacionalSe obtiene añadiendo dos conceptos al modelo declarativo:
+# Modelo de programación relacional
+
+Se obtiene añadiendo dos conceptos al modelo declarativo:
 
 ## Escogencia no determinista
 Dado un conjunto de opciones, se escoge cualquiera

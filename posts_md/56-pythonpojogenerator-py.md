@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Python,Buenas Prácticas
 ---
-# pythonPojoGenerator.pyA pesar que no esté bien dicho hablar de un POJO en python, el concepto de encapsulamiento a mi concepto siempre debe estar presente de la manera que se presenta en esta figura cortesía de Java.
+# pythonPojoGenerator.py
+
+A pesar que no esté bien dicho hablar de un POJO en python, el concepto de encapsulamiento a mi concepto siempre debe estar presente de la manera que se presenta en esta figura cortesía de Java.
 
 Y como mi IDE no me genera mis getters y setters, hice mi propio script, usando python, obviamente.
 

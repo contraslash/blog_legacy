@@ -4,6 +4,8 @@ Description:
 Tags: Django,Python
 ---
 # Python virtualenv
+
+
 Como bien saben, de momento soy novato con django, pero con la idea ingenieril de hacer las cosas bien, me encontré con que al igual que con node, python puede ser inmamable con las dependencias, y recomiendan mucho usar un concepto llamado virtualenv, que segun entiendo simplemente crea un ambiente aislado para instalar dependencias de python sin afectar otros proyectos.
 
 Primero necesitamos pip

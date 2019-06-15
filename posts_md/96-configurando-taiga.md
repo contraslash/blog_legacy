@@ -3,7 +3,9 @@ Date: 2016-08-19T19:51:05+00:00
 Description: 
 Tags: Apache,Django,Taiga
 ---
-# Configurando TaigaTaiga es un Software de Manejo de Proyectos desarrollado en Python y Django, de código abierto. La instalación oficial puede encontrarse [aquí](http://taigaio.github.io/taiga-doc/dist/setup-production.html)
+# Configurando Taiga
+
+Taiga es un Software de Manejo de Proyectos desarrollado en Python y Django, de código abierto. La instalación oficial puede encontrarse [aquí](http://taigaio.github.io/taiga-doc/dist/setup-production.html)
 
 ### Requerimientos de Sistema Operativo
 Requerimientos en el servidor web

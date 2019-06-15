@@ -3,7 +3,9 @@ Date: 2016-08-17T17:08:35+00:00
 Description: 
 Tags: Apps.co,SEO,SEM
 ---
-# CEO y SEMSearch Engine Optimization y Search Engine Marketing
+# CEO y SEM
+
+Search Engine Optimization y Search Engine Marketing
 
 Johnny Walker (Video) -> https://www.youtube.com/watch?v=MnSIp76CvUI
 

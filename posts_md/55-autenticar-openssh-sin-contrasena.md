@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Linux
 ---
-# Autenticar OpenSSH sin contraseñaEn el cliente 
+# Autenticar OpenSSH sin contraseña
+
+En el cliente 
 `ssh-keygen -t rsa -b 2048 -v`
 
 Luego

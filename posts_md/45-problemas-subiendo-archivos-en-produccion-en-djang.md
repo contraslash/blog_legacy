@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Apache,Django,Ubuntu
 ---
-# Problemas subiendo archivos en producción con Django y Apache en UbuntuEl tema de la subida de archivos a nuestro servidor siempre es un tema delicado, y molesto en muchas ocasiones por el asunto de los permisos.
+# Problemas subiendo archivos en producción con Django y Apache en Ubuntu
+
+El tema de la subida de archivos a nuestro servidor siempre es un tema delicado, y molesto en muchas ocasiones por el asunto de los permisos.
 
 Una solución del tipo 
 

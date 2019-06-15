@@ -3,7 +3,9 @@ Date: 2018-06-08T18:47:37+00:00
 Description: Modelo de programación con estado explícito
 Tags: Modelos y Paradigmas de Programación
 ---
-# Modelo de programación con estadoEl estado se define como una secuencia de valores en el tiempo que contienen los resultados intermedios de un proceso de computación. En el modelo declarativo, el estado es implícito, mientras que este modelo con estado lo muestra explícito.
+# Modelo de programación con estado
+
+El estado se define como una secuencia de valores en el tiempo que contienen los resultados intermedios de un proceso de computación. En el modelo declarativo, el estado es implícito, mientras que este modelo con estado lo muestra explícito.
 
 El principio de abstracción dicta que un sistema es igual a la suma de su especificación y su implementación.
 

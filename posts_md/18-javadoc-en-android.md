@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: 
 ---
-# JavaDoc en AndroidEn algunas ocasiones deseamos genera un javadoc con nuestro proyecto en Android, pero como somos hispano hablantes, el JavaDoc generado queda bastante feo, por este asunto de los caracteres diatónicos y las ñ.
+# JavaDoc en Android
+
+En algunas ocasiones deseamos genera un javadoc con nuestro proyecto en Android, pero como somos hispano hablantes, el JavaDoc generado queda bastante feo, por este asunto de los caracteres diatónicos y las ñ.
 
 La solución es agregar estos parámetros
 

@@ -3,7 +3,9 @@ Date: 2017-04-06T22:55:26+00:00
 Description: Habilitando CORS en aplicaciones que usan el Framework Web Django
 Tags: Django,CORS
 ---
-# CORS en DjangoEn algunos casos vemos la necesidad de habilitar nuestro servidor para que reciba información de otros servidores, utilizando CORS, cuyas sigas son:
+# CORS en Django
+
+En algunos casos vemos la necesidad de habilitar nuestro servidor para que reciba información de otros servidores, utilizando CORS, cuyas sigas son:
 
 - **C** ross
 - **O** rigin

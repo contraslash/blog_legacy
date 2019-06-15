@@ -3,7 +3,9 @@ Date: 2016-10-01T02:30:41+00:00
 Description: Desencriptando archivos con RC4 y GZip
 Tags: Hacking,Open Speech Corpus,Cifrado
 ---
-# RC4 y Gzip, no pudiste conmigoExiste código que es bello por su estética, su funcionalidad o simplemente por el valor sentimental que le agregamos.
+# RC4 y Gzip, no pudiste conmigo
+
+Existe código que es bello por su estética, su funcionalidad o simplemente por el valor sentimental que le agregamos.
 
 Este, por ejemplo hoy tiene alto valor para mi, pues es el fruto del trabajo de un día, donde tuve que decompilar APKs, traducir código de smali a Java, entender el funcionamiento los streams y los buffers de nuevo y finalmente recurrir a una implementación sencilla en pythonde RC4 y GZip
 ```python

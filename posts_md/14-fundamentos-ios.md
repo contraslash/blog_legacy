@@ -4,6 +4,8 @@ Description:
 Tags: iOS
 ---
 # Fundamentos iOS
+
+
 Persistencia en iOS:  
  CoreDate Framework: Sqlite, UserPreferences, Archivos
 

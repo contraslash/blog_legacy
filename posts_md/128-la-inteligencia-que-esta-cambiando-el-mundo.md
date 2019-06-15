@@ -3,7 +3,9 @@ Date: 2016-11-25T02:05:54+00:00
 Description: La Inteligencia Artificial que está cambiando al Mundo
 Tags: Posts
 ---
-# La inteligencia que está cambiando el mundoCiertamente me ha llamado la atención [este post](https://www.wired.com/2016/11/google-facebook-microsoft-remaking-around-ai/) de [Wired](https://www.wired.com), y no es porque sea un fanboy de todo lo relacionado co la Inteligencia Artificial, o un geek en potencia, sino por el fuerte impacto que ya está teniendo la industria en este tema.
+# La inteligencia que está cambiando el mundo
+
+Ciertamente me ha llamado la atención [este post](https://www.wired.com/2016/11/google-facebook-microsoft-remaking-around-ai/) de [Wired](https://www.wired.com), y no es porque sea un fanboy de todo lo relacionado co la Inteligencia Artificial, o un geek en potencia, sino por el fuerte impacto que ya está teniendo la industria en este tema.
 
 A pesar de que las ideas de hacer computadores pensantes ha existido por mas de 70 años, solo desde hace cerca de 8 años es que estamos teniendo verdaderos acercamientos a esta meta.
 

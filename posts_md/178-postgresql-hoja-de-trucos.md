@@ -3,7 +3,9 @@ Date: 2017-09-04T14:01:45+00:00
 Description: Hoja de trucos y atajos útiles para el manejo de PostgreSQL
 Tags: PostgreSQL
 ---
-# PostgreSQL Hoja de TrucosTraducido de [este gist](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546), 
+# PostgreSQL Hoja de Trucos
+
+Traducido de [este gist](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546), 
 
 Traducción realizada en [este gist](https://gist.github.com/ma0c/c444fa967a570dcfbedcb96b4a0bd909)
 

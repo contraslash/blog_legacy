@@ -3,7 +3,9 @@ Date: 2017-03-13T15:45:49+00:00
 Description: Notas de la presentación del Viaje del Cliente presentado en Google Launchpad Bogotá 2017
 Tags: Emprendimiento,Google Launchpad
 ---
-# Customer JurneyEl viaje del consumidor es el conjunto de puntos donde una organización se encuentra con un cliente en el proceso de la venta
+# Customer Jurney
+
+El viaje del consumidor es el conjunto de puntos donde una organización se encuentra con un cliente en el proceso de la venta
 
 > Obtenido de [este post](http://www.liverpoolchamber.org.uk/2716/section.aspx/2715/phcreative)
 

@@ -3,7 +3,9 @@ Date: 2017-09-13T12:44:28+00:00
 Description: Instalando Freeling 4.0, una librería para Procesamiento de Lenguaje Natural, en Ubuntu 16.04
 Tags: PLN,Ubuntu,Freeling
 ---
-# Instalando Freeling 4.0 en Ubuntu 16Hace tiempo escribí un post sobre [cómo instalar Freeling 4.0 en OSX](http://blog.contraslash.com/instalando-freeling-40-en-osx/) y es tiempo ya de pasar los cambios a producción.
+# Instalando Freeling 4.0 en Ubuntu 16
+
+Hace tiempo escribí un post sobre [cómo instalar Freeling 4.0 en OSX](http://blog.contraslash.com/instalando-freeling-40-en-osx/) y es tiempo ya de pasar los cambios a producción.
 
 Posiblemente en un futuro cercano cree una receta ansible para facilitar el trabajo, pero primero como me manda la praxis, prefiero hacerlo a mano.
 

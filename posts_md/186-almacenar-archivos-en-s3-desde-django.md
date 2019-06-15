@@ -3,7 +3,9 @@ Date: 2017-11-30T17:49:15+00:00
 Description: Como guardar archivos en S3 usando Django
 Tags: Django,AWS,S3
 ---
-# Almacenar Archivos en S3 desde DjangoA pesar de que [ya existe un post similar](http://blog.contraslash.com/archivos-estaticos-en-s3-con-django/), hago necesario escribir la versión condensada para alojar archivos en S3 usando Django.
+# Almacenar Archivos en S3 desde Django
+
+A pesar de que [ya existe un post similar](http://blog.contraslash.com/archivos-estaticos-en-s3-con-django/), hago necesario escribir la versión condensada para alojar archivos en S3 usando Django.
 
 TL;DR
 

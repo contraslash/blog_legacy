@@ -3,7 +3,9 @@ Date: 2016-11-25T02:31:37+00:00
 Description: ¿Cuándo escoger AngularJS y cuando escoger ReactJS?
 Tags: Posts,PWA
 ---
-# Angular vs React, la batalla sin finRecientemente dije, refiriendome a las [PWA](http://tutorialzine.com/2016/09/everything-you-should-know-about-progressive-web-apps/) que el mundo tecnológico se estaba partiendo tan trascendentalmente como hace unos años se dividió entre Microsft y Mac, esta vez de la mano de Google y Facebook con AngularJS y ReactJS.
+# Angular vs React, la batalla sin fin
+
+Recientemente dije, refiriendome a las [PWA](http://tutorialzine.com/2016/09/everything-you-should-know-about-progressive-web-apps/) que el mundo tecnológico se estaba partiendo tan trascendentalmente como hace unos años se dividió entre Microsft y Mac, esta vez de la mano de Google y Facebook con AngularJS y ReactJS.
 
 Tal vez exagero un poco, aún existe un grande y bello mundo por fuera de Javascript, pero es sencillamente imperdible ver como en [Quora](https://quora.com), [Medium](https://medium.com), [StackOverflow](https://stackoverflow.com) y otros sitios ampliamente visitados por programadores se ve correr sangre, no se si a lo Tarantino o a lo Game Of Thrones, entre amantes de Angular y Defensores de React.
 

@@ -3,7 +3,9 @@ Date: 2017-06-23T04:34:57+00:00
 Description: Docker no siempre es la solución, algunos pensamientos sobre cuando es conveniente y cuando no usar la containerización
 Tags: Posts
 ---
-# Docker no siempre es la soluciónDesde hace años me picó el bicho de la curiosidad con el asunto de los contenedores, pero no fue sino hasta hace 6 meses cuando decidí cambiar toda mi infraestructura a swarm, pues consideré que debía entrar en la onda.
+# Docker no siempre es la solución
+
+Desde hace años me picó el bicho de la curiosidad con el asunto de los contenedores, pero no fue sino hasta hace 6 meses cuando decidí cambiar toda mi infraestructura a swarm, pues consideré que debía entrar en la onda.
 
 Luego de algún tiempo explorando opciones, decidí irme por un cluster con Docker Swarm con un Traefik para un proxy inverso, 1 maestro, 2 trabajadores y una instancia dedicada para servir las bases de datos.
 

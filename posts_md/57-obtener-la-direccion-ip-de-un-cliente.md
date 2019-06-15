@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Django
 ---
-# Obtener la dirección IP de un clienteEsta respuesta fue tomada de [aquí](http://stackoverflow.com/questions/4581789/how-do-i-get-user-ip-address-in-django)
+# Obtener la dirección IP de un cliente
+
+Esta respuesta fue tomada de [aquí](http://stackoverflow.com/questions/4581789/how-do-i-get-user-ip-address-in-django)
 
 ```
 def get_client_ip(request):

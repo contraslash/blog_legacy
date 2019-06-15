@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Android,GPS,Direccion
 ---
-# Obtener tu dirección usando Android```
+# Obtener tu dirección usando Android
+
+```
 /**
      * Clase que usa el GeoCoder para obtener la dirección actual
      */

@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: Usando el decorador csrf_exempt de Django para permitir POST a una vista basada en clases
 Tags: Django,Seguridad
 ---
-# CSRF Exempt en vistas basadas en clasesEsto es altamente peligroso, cabe aclarar, porque deja al sitio vulnerable a un [xss](https://es.wikipedia.org/wiki/Cross-site_scripting), pero igual para ambiente de pruebas es útil
+# CSRF Exempt en vistas basadas en clases
+
+Esto es altamente peligroso, cabe aclarar, porque deja al sitio vulnerable a un [xss](https://es.wikipedia.org/wiki/Cross-site_scripting), pero igual para ambiente de pruebas es útil
 
 ```
 from django.views.generic import View

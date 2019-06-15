@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: Instalación de un servidor LAMP en ubuntu, compatible con las imágenes standard de Digital Ocean y Linode. Ideal para instalación de wordpress
 Tags: Linux,Ubuntu,Digital Ocean,Linode
 ---
-# Instalando servidor LAMP en UbuntuUbuntu 14.04
+# Instalando servidor LAMP en Ubuntu
+
+Ubuntu 14.04
 
 ```
 sudo apt-get update

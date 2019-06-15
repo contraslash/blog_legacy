@@ -3,7 +3,9 @@ Date: 2018-05-27T02:15:51+00:00
 Description: Una palabra nueva cada día
 Tags: Posts
 ---
-# Palabra del día- Ínclito: Persona ilustre o conocida
+# Palabra del día
+
+- Ínclito: Persona ilustre o conocida
 - Miriada: Cantidad muy grande o indefinida
 - Lúbrico: Lujurioso o lascivo
 - Barahunda: Ruido o gran confusión

@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Django
 ---
-# Ver SQL de una MigraciónDefinitivamente el ORM de Django es una cosa maravillosa, pero cuando falla, es una mierda.
+# Ver SQL de una Migración
+
+Definitivamente el ORM de Django es una cosa maravillosa, pero cuando falla, es una mierda.
 
 En muchas ocasiones las personas se ven obligadas a realizar los cambios a mano.
 

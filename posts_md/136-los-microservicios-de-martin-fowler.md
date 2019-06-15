@@ -3,7 +3,9 @@ Date: 2016-12-11T18:31:50+00:00
 Description: Una apreciación de la arquitectura orientada a microservicios basada en las opiniones de Martin Fowler en http://www.martinfowler.com/articles/microservices.html
 Tags: Micro Servicios,Arquitectura de Software
 ---
-# Los Microservicios de Martin FowlerDe momento creo que [este post](http://www.martinfowler.com/articles/microservices.html) de Margin Fowler es uno de los más icónicos en la Ingeniería de Software, porque de alguna manera formaliza un concepto arquitectural que emergió hace pocos años, y guía a los desarrolladores en la construcción y adecuación de este modelo descentralizado y distribuido de manejar el software.
+# Los Microservicios de Martin Fowler
+
+De momento creo que [este post](http://www.martinfowler.com/articles/microservices.html) de Margin Fowler es uno de los más icónicos en la Ingeniería de Software, porque de alguna manera formaliza un concepto arquitectural que emergió hace pocos años, y guía a los desarrolladores en la construcción y adecuación de este modelo descentralizado y distribuido de manejar el software.
 
 Parafraseando un poco el artículo, los microservicios son solo un término de la jerga técnica avanzada de los ingenieros de software y se refiere a una estructura de proyecto que cambia la arquitectura monolítica tradicional en una estructura orientada a servicios aislados especializados que convergen bajo una capa controladora que expone las funcionalidades como una sola aplicación. Siendo un poco más técnicos, una arquitectura orientada a microservicios consta de varias aplicaciones que interactuan por medio de APIs, que se despliegan independientemente, se mantienen independientemente y mas importante, se escalan independientemente.
 

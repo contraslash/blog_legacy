@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Django
 ---
-# Recuperación de contraseña personalizadaTomado de [garmoncheg](http://garmoncheg.blogspot.com.au/2012/07/django-resetting-passwords-with.html)
+# Recuperación de contraseña personalizada
+
+Tomado de [garmoncheg](http://garmoncheg.blogspot.com.au/2012/07/django-resetting-passwords-with.html)
 
 Tenía que hacer  una tarea recientemente. Se trataba de agregar una mecanismo para recuperar contraseña en un proyecto de django. Nosotros teníamos nuestro propio sistema de registro funcionando ....
 Era un proyecto del sector corporativo, así que no podías irte registrando por ti mismo. Administradores, probablemente con sincronización  LDAP, registraban tu email/login en el sistema. Así que tenías que definir tu propia contraseña. Por razones de seguridad, no podías registrarte. Punto.

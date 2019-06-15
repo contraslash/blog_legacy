@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: Implementación de un NavigationView en Android usando las librerías de compatiblidad para Material Design de Google
 Tags: Android,Material Design,Enlaces útiles
 ---
-# NavigationView Android MaterialDefinitivamente tener una lista de enlaces útiles  que saquen de apuros es algo maravilloso, y [este artículo](http://blog.xebia.com/2015/06/09/android-design-support-navigationview/) definitivamente me ha sacado de apuros mas de una vez.
+# NavigationView Android Material
+
+Definitivamente tener una lista de enlaces útiles  que saquen de apuros es algo maravilloso, y [este artículo](http://blog.xebia.com/2015/06/09/android-design-support-navigationview/) definitivamente me ha sacado de apuros mas de una vez.
 
 Para la definición del layout principal necesitaremos una estructura similar a esta
 

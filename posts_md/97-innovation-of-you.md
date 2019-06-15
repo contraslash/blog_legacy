@@ -3,7 +3,9 @@ Date: 2016-08-25T00:15:12+00:00
 Description: 
 Tags: Emprendimiento
 ---
-# Innovation of You[The golden circle](https://www.blankcanvas.io/canvases/golden-circle-canvas)
+# Innovation of You
+
+[The golden circle](https://www.blankcanvas.io/canvases/golden-circle-canvas)
 
 [Personal Business Model Canvas](http://businessmodelyou.com)
 

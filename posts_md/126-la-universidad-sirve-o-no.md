@@ -3,7 +3,9 @@ Date: 2016-11-03T23:07:52+00:00
 Description: ¿La academia determina el éxito o simplemente no tiene una correlación con él?
 Tags: Posts
 ---
-# La universidad: ¿sirve o no?Evidentemente es un tema bastante debatido, pero recientemente leí un artículo de hace algunos años reposteado en una página de facebook, escrita en [El confidencial](http://www.elconfidencial.com/alma-corazon-vida/2013-06-28/el-expediente-academico-no-sirve-para-nada-asegura-el-responsable-de-rrhh-de-google_501910/), donde en una entrevista a Laszlo Bock el 'aseguraba' que no existía relación entre la puntuación en las pruebas de aptitud, el expediente académico y el desempeño en la compañía.
+# La universidad: ¿sirve o no?
+
+Evidentemente es un tema bastante debatido, pero recientemente leí un artículo de hace algunos años reposteado en una página de facebook, escrita en [El confidencial](http://www.elconfidencial.com/alma-corazon-vida/2013-06-28/el-expediente-academico-no-sirve-para-nada-asegura-el-responsable-de-rrhh-de-google_501910/), donde en una entrevista a Laszlo Bock el 'aseguraba' que no existía relación entre la puntuación en las pruebas de aptitud, el expediente académico y el desempeño en la compañía.
 
 Dicho artículo me causó mucha curiosidad, así que decidí  echarle un vistazo a la [transcripción original](http://www.nytimes.com/2013/06/20/business/in-head-hunting-big-data-may-not-be-such-a-big-deal.htm), y he encontrado algunos puntos interesantes:
 

@@ -3,7 +3,9 @@ Date: 2017-03-14T14:49:49+00:00
 Description: Notas del taller de Desing Sprint en el evento Google Launchpad 2017
 Tags: Emprendimiento,Google Launchpad
 ---
-# Desing Sprint## ¿Qué es?
+# Desing Sprint
+
+## ¿Qué es?
 Proceso de diseño Guiado por Google basado en Design Thinking. Apunta resolver problemas de diseño en periodos cortos. Se trabaja en equipo y las personas del equipo son personas que pertenecen a diferentes áreas del producto.
 
 ![Metodología Design Sprint](https://developers.google.com/design-sprint/images/home-DS-flow-ill.png)

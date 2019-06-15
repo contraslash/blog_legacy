@@ -3,7 +3,9 @@ Date: 2017-05-18T04:56:38+00:00
 Description: Enlaces útiles a la hora de crear un chatbot
 Tags: Procesamiento de Lenguaje Natural,Chatbot
 ---
-# Recursos importantes para la creación de bots# Herramientas
+# Recursos importantes para la creación de bots
+
+# Herramientas
 
 http://rasa.ai/
 

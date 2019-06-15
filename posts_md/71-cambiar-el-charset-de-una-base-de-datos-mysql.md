@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: MySQL
 ---
-# Cambiar el charset de una base de datos MySQLPara cambiar toda la base de datos
+# Cambiar el charset de una base de datos MySQL
+
+Para cambiar toda la base de datos
 ```
 alter database  DATABASE_NAME character set latin1 collate latin1_swedish_ci;
 ```

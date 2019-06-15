@@ -3,7 +3,9 @@ Date: 2017-03-09T15:04:59+00:00
 Description: Mejores prácticas para el manejo de ramas en Git
 Tags: Buenas Prácticas,Git,Continuous Integration,Automatic Deployment
 ---
-# Mejores Prácticas para el manejo de ramas en GitEste Post está basado en [Branching Best Practices](http://guides.beanstalkapp.com/version-control/branching-best-practices.html), un artículo de [BeanStalk](http://beanstalkapp.com/)
+# Mejores Prácticas para el manejo de ramas en Git
+
+Este Post está basado en [Branching Best Practices](http://guides.beanstalkapp.com/version-control/branching-best-practices.html), un artículo de [BeanStalk](http://beanstalkapp.com/)
 
 ## Introducción
 Comenzar con un sistema de control de versiones puede ser una experiencia que nos abra los ojos. Al comienzo puedes pensar ¿cómo trabajé sin esto? Una vez que tengas los fundamentos básicos de control de versiones, puedes aumentar tu productividad mejorando tu flujo de trabajo. El siguiente paso es aprender a programar en ramas.

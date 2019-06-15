@@ -3,7 +3,9 @@ Date: 2017-02-02T14:29:16+00:00
 Description: Automatizar despliegues de Django con Fabric y Ansible
 Tags: Django,Ansible,Continuous Integration,Automatic Deployment
 ---
-# Automatizar despliegues de Django con Fabric y AnsibleEste post está basado en el post de [Real Python](https://realpython.com) [Automating Django Deployments With Fabric and Ansible](https://realpython.com/blog/python/automating-django-deployments-with-fabric-and-ansible/)
+# Automatizar despliegues de Django con Fabric y Ansible
+
+Este post está basado en el post de [Real Python](https://realpython.com) [Automating Django Deployments With Fabric and Ansible](https://realpython.com/blog/python/automating-django-deployments-with-fabric-and-ansible/)
 
 En este tutorial automatizaremos el proceso de despliegue con Fabric (v1.12.0) y Ansible (v2.1.13) apuntando a estas problemáticas:
 

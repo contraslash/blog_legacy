@@ -3,7 +3,9 @@ Date: 2017-10-05T21:16:08+00:00
 Description: Crear membresías a proyectos con la consola de Django para un proyecto en TAIGA
 Tags: Taiga
 ---
-# Vincular Membership a Proyecto TaigaDesde hace unos 4 meses que me dio la fiebre de los contenedores y quería volver todo un contenedor tuve la genial idea de poner [Taiga](https://taiga.io) en un contenedor, lo bueno fue que lo logré, lo malo es que tuve problemas épicos con los archivos estáticos y configuraciones de correo.
+# Vincular Membership a Proyecto Taiga
+
+Desde hace unos 4 meses que me dio la fiebre de los contenedores y quería volver todo un contenedor tuve la genial idea de poner [Taiga](https://taiga.io) en un contenedor, lo bueno fue que lo logré, lo malo es que tuve problemas épicos con los archivos estáticos y configuraciones de correo.
 
 Para mitigar esto, me veo en la obligación de colocar este código para la vinculación de usuarios de una manera manual.
 

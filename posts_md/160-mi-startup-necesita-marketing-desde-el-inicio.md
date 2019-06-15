@@ -3,7 +3,9 @@ Date: 2017-03-16T15:13:22+00:00
 Description: Notas sobre conferencia de marketing en el evento Google Launchpad Bogota 2017
 Tags: Marketing Digital,Google Launchpad
 ---
-# ¿Mi startup necesita marketing desde el inicio?### Frases comunes:
+# ¿Mi startup necesita marketing desde el inicio?
+
+### Frases comunes:
 
 1. Sin hacer marketing ya tengo 30 clientes, Sin hacer marketing, ya tengo 100 leads, Sin hacer marketing, ya tengo 300 likes en mi página en Facebook
 

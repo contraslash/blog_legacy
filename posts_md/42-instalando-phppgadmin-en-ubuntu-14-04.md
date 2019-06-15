@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Linux,Ubuntu,Digital Ocean
 ---
-# Instalando PHPPgAdmin en Ubuntu 14.04Instalamos
+# Instalando PHPPgAdmin en Ubuntu 14.04
+
+Instalamos
 `sudo apt-get install postgresql postgresql-contrib phppgadmin`
 
 Luego editamos el archivo `/etc/apache2/conf.d/phppgadmin` y comentamos la linea que solo permite conectarse desde localhost y permitimos desde todos

@@ -3,7 +3,9 @@ Date: 2017-03-02T00:07:31+00:00
 Description: Instalación de Joomla en un servidor Ubuntu 16.04 usando VirtualHost de Apache
 Tags: Apache,Ubuntu,Joomla
 ---
-# Instalar Joomla en UbuntuPrimero se redirecciona el dominio @ a la dirección IP del servidor, para esto se ingresa a Godaddy, se selecciona el dominio y se le da Administrar DNS. Luego se edita el registro tipo A de nombre @ para que apunte al servidor y se guarda. 
+# Instalar Joomla en Ubuntu
+
+Primero se redirecciona el dominio @ a la dirección IP del servidor, para esto se ingresa a Godaddy, se selecciona el dominio y se le da Administrar DNS. Luego se edita el registro tipo A de nombre @ para que apunte al servidor y se guarda. 
 
 Para configurar el servidor se ingresa por SSH al servidor y se ejecutan los siguientes comandos
 ```bash

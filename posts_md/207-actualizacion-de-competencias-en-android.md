@@ -3,7 +3,9 @@ Date: 2018-09-30T22:51:46+00:00
 Description: Un compendio de enlaces útiles a la documentación oficial de Android, como han cambiado en los últimos dos años y un índice de enlaces importantes
 Tags: Android
 ---
-# Actualización de competencias en AndroidDiría que han pasado cerca de 6 años desde que inicié el desarrollo de aplicaciones móviles para Android, por esos días recuerdo que se veía todavía muchos dispositivos con android 2.3 Jelly Bean, y Ice Cream apenas estaba de moda, la migración hacia los fragmentos aún era lenta y definitivamente la documentación no estaba como estaba hoy.
+# Actualización de competencias en Android
+
+Diría que han pasado cerca de 6 años desde que inicié el desarrollo de aplicaciones móviles para Android, por esos días recuerdo que se veía todavía muchos dispositivos con android 2.3 Jelly Bean, y Ice Cream apenas estaba de moda, la migración hacia los fragmentos aún era lenta y definitivamente la documentación no estaba como estaba hoy.
 
 Recuerdo que en mi búsqueda de literatura para el aprendizaje, después de depurar bastante encontré un libro muy apropiado llamado [Professional Android](http://www.wrox.com/WileyCDA/WroxTitle/Professional-Android-4th-Edition.productCd-1118949528.html) en su cuarta edición. y era el mejor por mucho.
 

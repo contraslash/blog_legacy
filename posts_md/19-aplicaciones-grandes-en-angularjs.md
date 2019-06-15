@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: 
 ---
-# Aplicaciones Grandes en AngularJSSeguramente cuando tenga mas tiempo traduciré algo de esto
+# Aplicaciones Grandes en AngularJS
+
+Seguramente cuando tenga mas tiempo traduciré algo de esto
 
 http://briantford.com/blog/huuuuuge-angular-apps
 

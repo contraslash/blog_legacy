@@ -3,7 +3,9 @@ Date: 2018-03-07T23:42:59+00:00
 Description: Notas de clase de la Asignatura Tendencias en Ingeniería de Software, donde se estudian los componentes importantes de las arquitecturas ágiles, considerando sus principios, sus características, prácticas recomendadas y retos
 Tags: Arquitectura de Software,Tendencias en Ingeniería de Software,Metodologías Ágiles
 ---
-# Arquitectura ÁgilesLa arquitectura es una visión de trabajo para los desarrolladores, que encapsula las características importantes del diseño existente. Arquitectura de software es un término que se utiliza para describir las múltiples facetas de la estructura del software, el comportamiento, el diseño, la codificación y la documentación.
+# Arquitectura Ágiles
+
+La arquitectura es una visión de trabajo para los desarrolladores, que encapsula las características importantes del diseño existente. Arquitectura de software es un término que se utiliza para describir las múltiples facetas de la estructura del software, el comportamiento, el diseño, la codificación y la documentación.
 
 Una arquitectura es la organización fundamental de un sistema encarnada en sus componentes, sus relaciones entre si y con el medio ambiente, así como los principios rectores de su diseño y evolución.
 

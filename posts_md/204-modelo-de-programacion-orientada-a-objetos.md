@@ -3,7 +3,9 @@ Date: 2018-06-08T19:44:33+00:00
 Description: Modelo de programación orientada a objetos
 Tags: Modelos y Paradigmas de Programación
 ---
-# Modelo de programación orientada a objetosEl modelo de programación orientada a objetos no añade ningún concepto nuevo con respecto del modelo de programación con estado explícito.
+# Modelo de programación orientada a objetos
+
+El modelo de programación orientada a objetos no añade ningún concepto nuevo con respecto del modelo de programación con estado explícito.
 
 ## Objeto
 Se modela como un procedimiento con estado encapsulado

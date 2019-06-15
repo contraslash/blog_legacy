@@ -4,6 +4,8 @@ Description:
 Tags: Android
 ---
 # Instalando android studio en ubuntu 14.04.1 x64
+
+
 necesité todos estos paquetes:
 
 `sudo apt-get install openjdk-7-jdk lib32z1 lib32z1-dev lib32stdc++6 kvm lib32ncurses5 libc6-i386 lib32gcc1 libsdl1.2debian:i386`

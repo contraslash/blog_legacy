@@ -3,7 +3,9 @@ Date: 2016-12-16T04:05:01+00:00
 Description: Opinión sobre el Aprendizaje Profundo de Andrew Ng publicado en MIT Techology Review
 Tags: Inteligencia Artificial,Deep Learning
 ---
-# Deep Learning según Andrew NgAndrew Ng es un científico de la computación chino-estadounidense, cofundador de [coursera](https://coursera.org) y director de investgación en [baidu](https://baidu.com) (el google chino).
+# Deep Learning según Andrew Ng
+
+Andrew Ng es un científico de la computación chino-estadounidense, cofundador de [coursera](https://coursera.org) y director de investgación en [baidu](https://baidu.com) (el google chino).
 
 En mayo 23 de 2016, se publicó esta [corta entrevista](http://events.technologyreview.com/video/watch/andrew-ng-deep-learning/) donde se le hacen preguntas sobre su opinión sobre el Aprendizaje Profundo (Deep Learning). A continuación algunas notas importantes de su entrevista.
 

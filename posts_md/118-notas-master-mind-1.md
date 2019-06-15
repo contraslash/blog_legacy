@@ -3,7 +3,9 @@ Date: 2016-10-12T00:53:15+00:00
 Description: Notas sobre mastermind de mercadeo
 Tags: Mastermind,Marketing Digital
 ---
-# Notas Master mind 1Predectible Revenue de Aaron Ross
+# Notas Master mind 1
+
+Predectible Revenue de Aaron Ross
 
 Prospectiva
 Calificación

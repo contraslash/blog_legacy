@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Django,Python
 ---
-# Configurando una máquina con Django, Apache y VirtualenvPrimero necesitamos un Ubuntu Virgen
+# Configurando una máquina con Django, Apache y Virtualenv
+
+Primero necesitamos un Ubuntu Virgen
 Actualizamos el sistema
  `sudo apt-get update && sudo apt-get upgrade `
 

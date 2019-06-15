@@ -3,7 +3,9 @@ Date: 2017-05-21T13:38:23+00:00
 Description: Inslatar Duckling, la librería para el procesamiento de lenguaje natural en Clojure en OSX
 Tags: Procesamiento de Lenguaje Natural
 ---
-# Instalar Duckling en OSX[Duckling](https://duckling.wit.ai/) es una librería creada por [wit.ai](https://wit.ai) para realizar análisis de lenguaje, originalmente escrita en [Clojure](https://clojure.org/), un dialecto de Lisp implementado sobre la máquina virtual de Java. 
+# Instalar Duckling en OSX
+
+[Duckling](https://duckling.wit.ai/) es una librería creada por [wit.ai](https://wit.ai) para realizar análisis de lenguaje, originalmente escrita en [Clojure](https://clojure.org/), un dialecto de Lisp implementado sobre la máquina virtual de Java. 
 
 Para tener Duckling funcionando, primero debemos instalar Clojure, para lo cual usaremos como base el [este post](http://www.lispcast.com/clojure-mac)
 TL;DR

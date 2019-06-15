@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Django
 ---
-# login_required en Vistas Basadas en ClasesTomado de [aquí](https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#decorating-the-class)
+# login_required en Vistas Basadas en Clases
+
+Tomado de [aquí](https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#decorating-the-class)
 
 ```
 from django.contrib.auth.decorators import login_required

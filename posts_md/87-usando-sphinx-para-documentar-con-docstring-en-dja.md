@@ -3,7 +3,9 @@ Date: 2016-05-24T20:35:28+00:00
 Description: 
 Tags: Django
 ---
-# Usando Sphinx para documentar con docString en DjangoPara usuarios que venimos de Java, la documentación automática de código fuente es una herramienta importante para el mantenimiento de nuestros proyectos.
+# Usando Sphinx para documentar con docString en Django
+
+Para usuarios que venimos de Java, la documentación automática de código fuente es una herramienta importante para el mantenimiento de nuestros proyectos.
 
 El DocString es una herramienta de python para mantener el código entendible a los desarrolladores, y existen herramientas para proporcionar documentación por este medio.
 

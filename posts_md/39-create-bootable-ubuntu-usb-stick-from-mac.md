@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Ubuntu
 ---
-# Creando una memoria booteable con Ubuntu desde macTomado de  [aquí](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx) 
+# Creando una memoria booteable con Ubuntu desde mac
+
+Tomado de  [aquí](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx) 
 
 Primero debemos descargar un iso de ubuntu, puede hacerse desde  [aquí](http://www.ubuntu.com/download/desktop) o desde tu mirror favorito
 

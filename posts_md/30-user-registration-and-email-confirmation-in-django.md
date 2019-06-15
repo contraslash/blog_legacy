@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: Registro y confirmación de usuarios en Django usando GMail
 Tags: Django
 ---
-# Registro de usuarios y confirmación por email en Django> Le sugerimos visitar la  [versión 2.0](http://blog.contraslash.com/registro-de-usuarios-y-confirmacion-por-email-en-d/) de este post
+# Registro de usuarios y confirmación por email en Django
+
+> Le sugerimos visitar la  [versión 2.0](http://blog.contraslash.com/registro-de-usuarios-y-confirmacion-por-email-en-d/) de este post
 
 ##Fuente original: 
 [User registration and email confirmation in Django](http://ipasic.com/article/user-registration-and-email-confirmation-django/) por Ivan Pasic

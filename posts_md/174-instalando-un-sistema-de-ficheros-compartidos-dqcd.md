@@ -3,7 +3,9 @@ Date: 2017-05-31T14:39:19+00:00
 Description: Instalando un sistema de ficheros compartidos con GlusterFS en Ubuntu
 Tags: Ubuntu
 ---
-# Instalando un sistema de ficheros compartidos con GlusterFS en Ubuntuhttps://www.tecmint.com/introduction-to-glusterfs-file-system-and-installation-on-rhelcentos-and-fedora/
+# Instalando un sistema de ficheros compartidos con GlusterFS en Ubuntu
+
+https://www.tecmint.com/introduction-to-glusterfs-file-system-and-installation-on-rhelcentos-and-fedora/
 
 https://www.tecmint.com/perform-self-heal-and-re-balance-operations-in-gluster-file-system/
 

@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Web Apps
 ---
-# Instalando GhostNavegando por ahí me encontré con Ghost un fork de Wordpress y me decidí a probarlo, pero vaya que estaba en nodeJS y como a veces es fastidioso montar servicios en node, django, rails u otros, me decidí hacer esta pequeña guía.
+# Instalando Ghost
+
+Navegando por ahí me encontré con Ghost un fork de Wordpress y me decidí a probarlo, pero vaya que estaba en nodeJS y como a veces es fastidioso montar servicios en node, django, rails u otros, me decidí hacer esta pequeña guía.
 
 Primero necesitamos habilitar un módulo de apache llamado mod_proxy, y adivinen que hace!
 

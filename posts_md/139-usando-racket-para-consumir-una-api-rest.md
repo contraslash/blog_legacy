@@ -3,7 +3,9 @@ Date: 2016-12-15T04:14:02+00:00
 Description: A veces es necesario consumir los recursos de una api que usa la especificación REST desde nuestro programa escrito en Racket, es entonces cuando nos preguntamos ¿cómo podriamos hacerlo?
 Tags: 
 ---
-# Usando Racket para consumir una API RESTConsumir una API Rest en Racket es uno de los menesteres mas sencillos que un programador de este lenguaje puede imaginar, basta con importar un par de librerías para empezar a escribir el programa. En este post (¿si lo entienden?... post), vamos a usar la API pública de [jsonplaceholder](https://jsonplaceholder.typicode.com/) como ejemplo:
+# Usando Racket para consumir una API REST
+
+Consumir una API Rest en Racket es uno de los menesteres mas sencillos que un programador de este lenguaje puede imaginar, basta con importar un par de librerías para empezar a escribir el programa. En este post (¿si lo entienden?... post), vamos a usar la API pública de [jsonplaceholder](https://jsonplaceholder.typicode.com/) como ejemplo:
 
 ### Método Get
 El método mas común en una API REST es el get, el cual te permite tomar toda la información disponible en ese endpoint. De esta forma podemos:

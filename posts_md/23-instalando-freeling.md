@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: PLN
 ---
-# Instalando FreelingPrimero:
+# Instalando Freeling
+
+Primero:
  ```sudo apt-get install libboost-regex-dev libicu-dev
  sudo apt-get install libboost-system-dev libboost-program-options-dev
  ```

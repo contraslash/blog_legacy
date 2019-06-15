@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Django
 ---
-# Reverse Lazy with argsTomado de [StackOverflow](http://stackoverflow.com/questions/9879259/how-to-pass-url-parameter-to-reverse-lazy-in-django-urls-py)
+# Reverse Lazy with args
+
+Tomado de [StackOverflow](http://stackoverflow.com/questions/9879259/how-to-pass-url-parameter-to-reverse-lazy-in-django-urls-py)
 
 en el response:
 ```

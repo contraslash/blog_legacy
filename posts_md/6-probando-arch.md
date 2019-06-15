@@ -4,6 +4,8 @@ Description:
 Tags: Linux
 ---
 # Probando Arch
+
+
 Bueno, no podía graduarme de ingeniero en sistemas sin haber probado arch
 
 Dicen que es odioso, y si, pero dejaré esto por aquí para mi mismo

@@ -3,7 +3,9 @@ Date: 2018-03-23T13:13:21+00:00
 Description: Notas de clase de la asignatura Tendencias en Ingeniería de Software sobre Multi Tenancy
 Tags: Arquitectura de Software,Tendencias en Ingeniería de Software
 ---
-# Multi tenancy## Aspectos importantes antes de definir si se va a utilizar single tenant o multi tenant
+# Multi tenancy
+
+## Aspectos importantes antes de definir si se va a utilizar single tenant o multi tenant
 
 * ¿Cómo lograr confiabilidad y escalabilidad, tanto en un único centro de datos como en múltiples centros de datos ? 
 * ¿Cómo manejar la seguridad, incluyendo la identidad y el control de acceso ? 

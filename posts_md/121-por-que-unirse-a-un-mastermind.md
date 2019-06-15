@@ -3,7 +3,9 @@ Date: 2016-10-16T13:19:51+00:00
 Description: Únete a un mastermind
 Tags: Enlaces útiles,Mastermind
 ---
-# ¿Por qué unirse a un mastermind?Hace varios días tuve la oportunidad de asistir a un mastermind en mi ciudad, y me ha parecido una experiencia maravillosa.
+# ¿Por qué unirse a un mastermind?
+
+Hace varios días tuve la oportunidad de asistir a un mastermind en mi ciudad, y me ha parecido una experiencia maravillosa.
 
 La oportunidad de compartir tus conocimientos y ayudar a otros, mientras también aprendes cosas de alto valor en un solo lugar hacen que sea un espacio que en el que todos saquemos el máximo provecho.
 

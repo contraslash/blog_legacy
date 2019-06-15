@@ -3,7 +3,9 @@ Date: 2016-09-04T22:44:13+00:00
 Description: Montar Carpeta Compartida entre Host y Ubuntu Virtualbox
 Tags: Virtualbox
 ---
-# Montar una carpeta compartida en Ubuntu 14.04 con VirtualboxDespues de realizar la configuracion de la carpeta compartida en nuestro virtual box, ejecutamos este comando para montarla en nuestro sistema de ficheros
+# Montar una carpeta compartida en Ubuntu 14.04 con Virtualbox
+
+Despues de realizar la configuracion de la carpeta compartida en nuestro virtual box, ejecutamos este comando para montarla en nuestro sistema de ficheros
 
 ```
 sudo mount  -o uid=$UID,gid=$(id -g) -t vboxsf  src ~/host

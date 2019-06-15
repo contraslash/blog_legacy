@@ -3,7 +3,9 @@ Date: 2017-05-16T23:24:32+00:00
 Description: Instalación de Freeling en OSX
 Tags: Procesamiento de Lenguaje Natural,Freeling
 ---
-# Instalando Freeling 4.0 en OSXEncuentre la documentación oficial de instalación [aquí](https://talp-upc.gitbooks.io/freeling-user-manual/content/installation.html)
+# Instalando Freeling 4.0 en OSX
+
+Encuentre la documentación oficial de instalación [aquí](https://talp-upc.gitbooks.io/freeling-user-manual/content/installation.html)
 
 Primero necesitaremos descargar el último release de Freeling, que puede encontrarse en el repositorio [oficial de github](https://github.com/TALP-UPC/FreeLing/releases/tag/4.0).
 

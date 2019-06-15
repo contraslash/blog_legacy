@@ -3,7 +3,9 @@ Date: 2016-05-19T02:31:01+00:00
 Description: 
 Tags: CSS,HTML5
 ---
-# Jugando con imagenes y filtros con CSSSiempre me ha parecido muy curioso ese efecto en algunas páginas de dejar algunas imágenes en su footer en blanco y negro y al pasarles el mouse por encima se agrandan un poco y toman su escala de colores.
+# Jugando con imagenes y filtros con CSS
+
+Siempre me ha parecido muy curioso ese efecto en algunas páginas de dejar algunas imágenes en su footer en blanco y negro y al pasarles el mouse por encima se agrandan un poco y toman su escala de colores.
 
 Tomando [esta base](http://jsfiddle.net/27Syr/1206/) y [este post](http://stackoverflow.com/questions/7273927/image-greyscale-with-css-re-color-on-mouse-over), obtuve muy buenos resultados.
 

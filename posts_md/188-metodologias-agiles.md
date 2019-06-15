@@ -3,7 +3,9 @@ Date: 2018-03-07T23:38:30+00:00
 Description: Notas de clase Tendencias de Ingeniería de Software, donde se tocan temas importantes como Metodologías Ágiles, algunos mitos, las razones por las cuales se establecieron sobre las metodologías tradicionales y algunas definiciones puntuales sobre lo que es SCRUM
 Tags: Tendencias en Ingeniería de Software,Metodologías Ágiles,SCRUM
 ---
-# Metodologías ágilesLas metodologías ágiles nacen como una alternativa a metodologías tradicionales.
+# Metodologías ágiles
+
+Las metodologías ágiles nacen como una alternativa a metodologías tradicionales.
 
 Las métodologías ágiles inician manejando proyectos pequeños, pero con el tiempo se dieron cuenta que es posible manejar proyectos de cualquier tamaño con técnicas ágiles.
 

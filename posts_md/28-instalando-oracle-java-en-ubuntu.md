@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Linux
 ---
-# Instalando Oracle Java en Ubuntu```
+# Instalando Oracle Java en Ubuntu
+
+```
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get update
 sudo apt-get install oracle-java8-installer

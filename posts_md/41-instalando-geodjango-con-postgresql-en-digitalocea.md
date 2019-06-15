@@ -4,6 +4,8 @@ Description:
 Tags: Django,Linux,Ubuntu,PostgreSQL,GeoDjango,Digital Ocean
 ---
 # Instalando GeoDjango con Postgresql en DigitalOcean con Ubuntu 14.04
+
+
 apt-get update
 # Instalamos compiladores de C y otro utiles
 sudo apt-get install build-essential

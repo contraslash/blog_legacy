@@ -3,7 +3,9 @@ Date: 2016-10-19T15:22:25+00:00
 Description: Registro con confirmación vía correo electrónico con Gmail y Django
 Tags: Django
 ---
-# Registro de usuarios y confirmación por email en Django 2.0Ha pasado mucho tiempo desde que publiqué [este artículo](http://blog.contraslash.com/user-registration-and-email-confirmation-in-django/), y recientemente recibí un correo solicitando ayuda con la implementación de esta funcionalidad.
+# Registro de usuarios y confirmación por email en Django 2.0
+
+Ha pasado mucho tiempo desde que publiqué [este artículo](http://blog.contraslash.com/user-registration-and-email-confirmation-in-django/), y recientemente recibí un correo solicitando ayuda con la implementación de esta funcionalidad.
 
 Debo confesar que viendo en retrospectiva no está construido de la mejor manera y vale la pena hacer una reimplementación de ciertas cosas, que mencionaré a continuación.
 

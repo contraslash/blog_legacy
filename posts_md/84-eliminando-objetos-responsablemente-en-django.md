@@ -3,7 +3,9 @@ Date: 2016-05-12T15:43:44+00:00
 Description: Eliminar objetos en Django junto con todos los objetos relacionado en cascada
 Tags: Django
 ---
-# Eliminando objetos responsablemente en DjangoUna parte esencial de nuestro CRUD es la D de Delete. Django por defecto soluciona problemas eliminando dependencias en cascada, pero tal cual como se muestra en el administrador de Django, a veces es conveniente mostrarle a nuestro usuario el impacto que puede tener la eliminación de un registro.
+# Eliminando objetos responsablemente en Django
+
+Una parte esencial de nuestro CRUD es la D de Delete. Django por defecto soluciona problemas eliminando dependencias en cascada, pero tal cual como se muestra en el administrador de Django, a veces es conveniente mostrarle a nuestro usuario el impacto que puede tener la eliminación de un registro.
 
 Escarbando en el código fuente del administrador de django, y en [stackoverflow](http://stackoverflow.com/questions/12158714/how-to-show-related-items-using-deleteview-in-django) he encontrado un fragmento de código que puede ser muy útil para esta labor
 

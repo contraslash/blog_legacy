@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Django,Bower
 ---
-# Django y BowerEste post está tomado de [aquí](https://django-bower.readthedocs.org/en/latest/installation.html)
+# Django y Bower
+
+Este post está tomado de [aquí](https://django-bower.readthedocs.org/en/latest/installation.html)
 
 Primero debemos tener instalado bower
 ```

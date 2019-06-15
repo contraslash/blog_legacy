@@ -3,7 +3,9 @@ Date: 2017-01-04T02:28:44+00:00
 Description: Usando widget del administrador de Django FilteredSelectMultiple en una vista personalizada.
 Tags: Django
 ---
-# Select Multiple al estilo del Admin de DjangoDebo admitir que siempre me pareció muy elegante la propuesta de Django en el administrador de usuarios por defecto, donde los permisos se añaden de un panel a otro, como en esta imagen:
+# Select Multiple al estilo del Admin de Django
+
+Debo admitir que siempre me pareció muy elegante la propuesta de Django en el administrador de usuarios por defecto, donde los permisos se añaden de un panel a otro, como en esta imagen:
 ![Administrador de Django, Manejo de Permisos en vista de usuarios por defecto](https://i.stack.imgur.com/ybe24.png)
 
 En un proyecto se me ocurrió utilizar algo similar, pero para mi desgracia, no encontré lo que buscaba, así que decidí usar el que viene en el administrador de Django, y no fue para nada complicado, a continuación una corta abstracción de los pasos necesarios.

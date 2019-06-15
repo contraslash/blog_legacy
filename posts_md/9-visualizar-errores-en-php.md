@@ -4,6 +4,8 @@ Description:
 Tags: PHP
 ---
 # Visualizar errores en PHP
+
+
 Para ver lo que sale en el error.log
 ```
 	ini_set(‘display_startup_errors’,1);  

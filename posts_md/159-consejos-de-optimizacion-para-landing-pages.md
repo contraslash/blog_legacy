@@ -3,7 +3,9 @@ Date: 2017-03-16T01:51:29+00:00
 Description: Consejos de optimización para landing pages basados en el mítico post de Unbounce
 Tags: Emprendimiento,UI
 ---
-# Consejos de Optimización para Landing PagesDefinitivamente la guía de [101 consejos de optimización para Landing Pages](https://unbounce.com/101-landing-page-optimization-tips/) de [Unbounce](https://unbounce.com/) es un artículo que todos debemos leer en algún momento de nuestra vida, pero aquí, un pequeño resumen.
+# Consejos de Optimización para Landing Pages
+
+Definitivamente la guía de [101 consejos de optimización para Landing Pages](https://unbounce.com/101-landing-page-optimization-tips/) de [Unbounce](https://unbounce.com/) es un artículo que todos debemos leer en algún momento de nuestra vida, pero aquí, un pequeño resumen.
 
 1. Fundamentos
   - Envía a las personas a una página relevante y enfocada a ellos: no las envíes a tu página de inicio, que suele estar llena de información irrelevante para el nuevo visitante, enfócate en información relevante y relacionada con el banner que las personas acaban de clickear

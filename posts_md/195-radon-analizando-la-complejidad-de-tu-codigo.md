@@ -3,7 +3,9 @@ Date: 2018-04-12T14:23:17+00:00
 Description: Análisis de complejidad estático de nuestro código en Python utilizando Radon
 Tags: Python
 ---
-# Radon: Analizando la complejidad de tu código[Radon](http://radon.readthedocs.io/en/latest/index.html) es un analizador de código estático enfocado en extraer la complejidad estimada de tu código.
+# Radon: Analizando la complejidad de tu código
+
+[Radon](http://radon.readthedocs.io/en/latest/index.html) es un analizador de código estático enfocado en extraer la complejidad estimada de tu código.
 
 Radon se enfoca en dos áreas importantes:
 

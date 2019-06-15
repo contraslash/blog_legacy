@@ -4,6 +4,8 @@ Description:
 Tags: Android
 ---
 # Crear proyecto de Android desde consola
+
+
 Pero por supuesto que es posible crear un proyecto de android desde consola, primero debemos definir algunas variables de entorno
 
  `ANDROID_HOME=/ruta/al/android/sdk`

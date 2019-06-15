@@ -3,7 +3,9 @@ Date: 2016-08-16T03:51:46+00:00
 Description: 
 Tags: Customer Development,Apps.co
 ---
-# Customer DevelopmentVínculos interesantes
+# Customer Development
+
+Vínculos interesantes
 
 [Marketing Techniques](https://blog.kissmetrics.com/marketing-techniques-that-cost-time-not-money/)
 

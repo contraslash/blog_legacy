@@ -3,7 +3,9 @@ Date: 2017-03-31T19:21:51+00:00
 Description: Provisionando un Docker Swarn en Linode
 Tags: Docker,Linode,Swarm
 ---
-# Iniciando con LinodeCuando finalmente tomé la decisión de cambiarme de lleno a la arquitectura contenedores, decidí echarle un vistazo a mi infraestructura. Hasta el momento he sido un fiel cliente de Digital Ocean, pero tras un percance épico con uno de mis servidores favoritos que lo dejó totalmente inutilizado para usar Docker, decidí considerar otras opciones.
+# Iniciando con Linode
+
+Cuando finalmente tomé la decisión de cambiarme de lleno a la arquitectura contenedores, decidí echarle un vistazo a mi infraestructura. Hasta el momento he sido un fiel cliente de Digital Ocean, pero tras un percance épico con uno de mis servidores favoritos que lo dejó totalmente inutilizado para usar Docker, decidí considerar otras opciones.
 
 Este es el estado de cambio utilizando Linode.
 

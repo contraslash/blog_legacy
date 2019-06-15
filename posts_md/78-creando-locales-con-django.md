@@ -3,7 +3,9 @@ Date: 2016-02-16T17:15:13+00:00
 Description: Usando el módulo de internacionalización i18n en Django para crear traducciones de cadenas en templates y archivos python
 Tags: Django
 ---
-# Creando Locales con DjangoComo primera instancia, necesitamos asegurarnos de tener el Middleware en nuestra lista de Middleware en el archivo *settings.py*
+# Creando Locales con Django
+
+Como primera instancia, necesitamos asegurarnos de tener el Middleware en nuestra lista de Middleware en el archivo *settings.py*
 
 ```
 MIDDLEWARE_CLASSES = [

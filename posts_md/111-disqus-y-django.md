@@ -3,7 +3,9 @@ Date: 2016-10-02T00:36:22+00:00
 Description: Implementación de Disqus en Django
 Tags: Django,Disqus
 ---
-# Disqus y Django[Disqus](https://disqus.com) es una plataforma gratuita de comentarios muy famosa, que nos añadir fácilmente una funcionalidad de comentarios a nuestro sitio.
+# Disqus y Django
+
+[Disqus](https://disqus.com) es una plataforma gratuita de comentarios muy famosa, que nos añadir fácilmente una funcionalidad de comentarios a nuestro sitio.
 
 Desplegarlo junto con [django](https://djangoproject.com) me ha parecido muy sencillo,
 

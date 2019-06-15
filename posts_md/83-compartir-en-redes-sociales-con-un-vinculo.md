@@ -3,7 +3,9 @@ Date: 2016-04-15T01:23:52+00:00
 Description: 
 Tags: Web Apps,Social Media
 ---
-# Compartir en redes sociales con un vínculoEsta respuesta fue tomada de  [Aquí](http://stackoverflow.com/questions/9120539/facebook-share-link-no-javascript)
+# Compartir en redes sociales con un vínculo
+
+Esta respuesta fue tomada de  [Aquí](http://stackoverflow.com/questions/9120539/facebook-share-link-no-javascript)
 
 Y dice
 

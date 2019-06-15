@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: 
 ---
-# Usando HttpsPrimero que todo sin duda que es una joda crear un sitio seguro, o bueno, al menos para el inexperto.
+# Usando Https
+
+Primero que todo sin duda que es una joda crear un sitio seguro, o bueno, al menos para el inexperto.
 
 Primero necesitamos
 

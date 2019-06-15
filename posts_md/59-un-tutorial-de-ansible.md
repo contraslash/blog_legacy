@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Aprovisionamiento,Ansible
 ---
-# Un tutorial de Ansible> Basado en [este post](https://serversforhackers.com/an-ansible-tutorial)
+# Un tutorial de Ansible
+
+> Basado en [este post](https://serversforhackers.com/an-ansible-tutorial)
 
 >Ansible es una herramienta de configuración automática de servidores Agent Free que funciona sobre SSH
 

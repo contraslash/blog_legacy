@@ -3,7 +3,9 @@ Date: 2018-06-08T18:18:32+00:00
 Description: Modelo concurrente declarativo
 Tags: Modelos y Paradigmas de Programación
 ---
-# Modelo concurrente declarativoEl modelo concurrente declarativo extiene del modelo declarativo al añadirle ejecución concurrente. Esto quiere decir que las técnicas usadas para el modelo declarativo también son aplicabables a este modelo, y más importante aún: estos programan son deterministas, porque el no determinismo con el que cuentan es No observable, lo que quiere decir que aunque al interior de un programa no se tenga el control de que se ejecuta en que orden, el resultado siempre será el mismo.
+# Modelo concurrente declarativo
+
+El modelo concurrente declarativo extiene del modelo declarativo al añadirle ejecución concurrente. Esto quiere decir que las técnicas usadas para el modelo declarativo también son aplicabables a este modelo, y más importante aún: estos programan son deterministas, porque el no determinismo con el que cuentan es No observable, lo que quiere decir que aunque al interior de un programa no se tenga el control de que se ejecuta en que orden, el resultado siempre será el mismo.
 
 ## Hilos
 Para la implementación de este paradigma, se extiende la máquina abstracta que ahora no cuenta con una sola pila semántica sino muchas, las cuales representa un hilo, o un espacio de ejecución propio que comparte el mismo almacén de variables declarativas.

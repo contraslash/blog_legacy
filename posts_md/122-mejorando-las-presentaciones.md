@@ -3,7 +3,9 @@ Date: 2016-10-16T21:21:24+00:00
 Description: Consejos de TED.com para mejorar las presentaciones
 Tags: Enlaces útiles,Presentaciones
 ---
-# Mejorando las presentacionesRecientemente encontré [este post](http://blog.ted.com/10-tips-for-better-slide-decks/) de [TED](http://ted.com) y me pareció genial. 
+# Mejorando las presentaciones
+
+Recientemente encontré [este post](http://blog.ted.com/10-tips-for-better-slide-decks/) de [TED](http://ted.com) y me pareció genial. 
 
 Brevemente resumiré los tips que recomienda para mejorar las presentaciones.
 

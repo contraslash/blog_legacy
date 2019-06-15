@@ -3,7 +3,9 @@ Date: 2018-03-07T23:44:46+00:00
 Description: Notas de la asignatura Tendencias en Ingeniería de Software, donde se repasan algunas prácticas ágiles como el Release Planning, Sprint Planning, Sprint BackLog, Tablero digital de tareas, Par programador y Continuous Integrations
 Tags: Continuous Integration,Tendencias en Ingeniería de Software,Metodologías Ágiles
 ---
-# Agile Management## Release planning
+# Agile Management
+
+## Release planning
 
 Conocido como plan de proyecto, es el conjunto de historias de usuario agrupadas por release o versiones que se ponen a disposición de los usuarios, también lo encontramos como plan de versiones o pland e entrega
 

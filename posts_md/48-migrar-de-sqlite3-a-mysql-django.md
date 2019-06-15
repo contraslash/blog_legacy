@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Django,Ubuntu,MySQL,SQLite3
 ---
-# Migrar de sqlite3 a MySQL DjangoLas migraciones de base de datos, independiente de la razón, siempre son fastiosas
+# Migrar de sqlite3 a MySQL Django
+
+Las migraciones de base de datos, independiente de la razón, siempre son fastiosas
 
 Si aún no está instalado MySQL, instalarlo 
 

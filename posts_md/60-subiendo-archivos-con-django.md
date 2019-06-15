@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: Cómo subir archivos de imágenes en Django e instalar Pillow en Ubuntu
 Tags: Django,pil,pillow
 ---
-# Subiendo archivos con Django######En nuestro archivo de URLs
+# Subiendo archivos con Django
+
+######En nuestro archivo de URLs
 ```
 from django.views.static import serve as serve_static_files
 from . import settings

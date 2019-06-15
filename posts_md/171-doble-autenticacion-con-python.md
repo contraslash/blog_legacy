@@ -3,7 +3,9 @@ Date: 2017-05-26T03:40:19+00:00
 Description: Implementar un segundo Factor de Autenticación con Python y Google Authenticator
 Tags: Seguridad
 ---
-# Doble autenticación con pythonDebo confesar varias cosas cosas:
+# Doble autenticación con python
+
+Debo confesar varias cosas cosas:
 
 1. A pesar que me migré a Linode, aún conservo algunos servicios en Digital Ocean, solo porque me ha dado pereza terminar de migrarlos.
 1. Me llamó mucho la atención que DO implementara un segundo facor de autenticación con [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2).

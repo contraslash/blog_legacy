@@ -3,7 +3,9 @@ Date: 2016-12-06T14:47:07+00:00
 Description: 15 maneras distintas para validar tu producto mínimo viable
 Tags: Emprendimiento
 ---
-# 15 Maneras de Probar un MVP> Este artículo está basado en [este post](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product/) de [The Next Web](http://thenextweb.com/)
+# 15 Maneras de Probar un MVP
+
+> Este artículo está basado en [este post](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product/) de [The Next Web](http://thenextweb.com/)
 
 Los Productos Mínimos Viables o MVP (Minimum viable product) son esas primeras aproximaciones a la materialización de una idea de negocio que tenemos y estamos intentand validar, y esta etapa, la etapa de validación, es muy valiosa en la construcción del modelo de negocio, pues nos da la apreciación de nuestros futuros clientes o usuarios sobre nuestro producto,  y si en realidad va a ser apreciado en el mercado.
 

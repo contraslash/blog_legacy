@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Android,Google Maps
 ---
-# Configurando Google Maps a la vieja escuelaPrimero necesitamos la firma de nuestro equipo, si estás en sistemas Xnix 
+# Configurando Google Maps a la vieja escuela
+
+Primero necesitamos la firma de nuestro equipo, si estás en sistemas Xnix 
 `keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android`
 
 Si estás en Windows

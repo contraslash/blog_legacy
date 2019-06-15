@@ -3,7 +3,9 @@ Date: 2016-08-17T16:17:01+00:00
 Description: 
 Tags: Customer Development,Apps.co
 ---
-# Experimentos # Customer Development
+# Experimentos 
+
+# Customer Development
 
 Stages of develop
 

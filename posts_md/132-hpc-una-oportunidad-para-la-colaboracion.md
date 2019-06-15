@@ -3,7 +3,9 @@ Date: 2016-12-01T19:41:40+00:00
 Description: Notas de la conferencia de HPC (High Performance Computing) en el ámbito de Innovación Digital patrocinado por la alcadía de Cali
 Tags: HPC
 ---
-# HPC: Una oportunidad para la colaboraciónDesde siempre, el ser humano ha querido comprender las cosas a las que se enfrenta. En el siglo pasado, se usaban las simulaciones para responder esas preguntas, pero en la actualidad contamos con datos de una dimensión tan alta, que hace algunos años era impensable. En el CERN, tan solo en un segundo se pueden capturar Petabytes de información.
+# HPC: Una oportunidad para la colaboración
+
+Desde siempre, el ser humano ha querido comprender las cosas a las que se enfrenta. En el siglo pasado, se usaban las simulaciones para responder esas preguntas, pero en la actualidad contamos con datos de una dimensión tan alta, que hace algunos años era impensable. En el CERN, tan solo en un segundo se pueden capturar Petabytes de información.
 
 Es por esta razón que el HPC (High Performance Computing) gana tanto impacto, pues nos ayuda a responder preguntas de tan alta complejidad.
 

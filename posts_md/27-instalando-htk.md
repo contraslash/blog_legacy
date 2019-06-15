@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: PLN
 ---
-# Instalando HTKPara instalar htk es necesario descargar la ultima versión de `http://htk.eng.cam.ac.uk/download.shtml`
+# Instalando HTK
+
+Para instalar htk es necesario descargar la ultima versión de `http://htk.eng.cam.ac.uk/download.shtml`
 
 Yo necesité instalar esto (estoy en 64bits)
 

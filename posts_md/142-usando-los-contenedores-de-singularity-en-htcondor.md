@@ -3,7 +3,9 @@ Date: 2016-12-20T21:29:43+00:00
 Description: Singularity es el nuevo jugador en el juego de los contenedores, enfocado a experimentos científicos y a facilitar la portabilidad y movilidad de los mismos. 
 Tags: Singularity,HTCondor
 ---
-# Usando los contenedores de Singularity en HTCondor### Introducción
+# Usando los contenedores de Singularity en HTCondor
+
+### Introducción
 Singularity ha sido diseñado al rededor de la idea de brindar mobilidad y reproducibilidad de experimientos computacionales a los programas, ademas, permite  a los usuarios tener un control pleno del sistema operativo. 
 
 ### Instalando Singularity

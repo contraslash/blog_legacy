@@ -3,7 +3,9 @@ Date: 2017-05-03T21:38:40+00:00
 Description: Precauciones con SSH para realizar despliegue automático
 Tags: Continuous Integration,Automatic Deployment,ssh
 ---
-# Precauciones con SSHSSH es un protocolo seguro para ejecutar comandos de manera remota, pero permitir el acceso remoto a nuestros servidores, específicamente a nuestros servidores de producción siempre es un altamente riesgoso.
+# Precauciones con SSH
+
+SSH es un protocolo seguro para ejecutar comandos de manera remota, pero permitir el acceso remoto a nuestros servidores, específicamente a nuestros servidores de producción siempre es un altamente riesgoso.
 
 Existen configuraciones que permiten que este riesgo se minimice, como definir que el usuario root no pueda autenticarse, o denegar todos los accesos con contraseña; herramientas como fail2ban nos dan un respiro mas con respecto a la seguridad, pero en ocaciones, estas medidas de seguridad no nos dan las libertades necesarias como para realizar procesos automáticos, específicamente el despliegue.
 

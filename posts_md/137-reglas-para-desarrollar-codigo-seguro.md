@@ -3,7 +3,9 @@ Date: 2016-12-12T21:00:09+00:00
 Description: Reglas para desarrollar código seguro para segmentos críticos del proyecto, basado en un artículo de Gerard J. Holzmann, del Laboratorio de código fiable de la NASA
 Tags: Buenas Prácticas
 ---
-# Reglas para desarrollar código seguroLas siguientes reglas están extraidas de [este artículo](http://spinroot.com/gerard/pdf/P10.pdf) de Gerard J. Holzmann. 
+# Reglas para desarrollar código seguro
+
+Las siguientes reglas están extraidas de [este artículo](http://spinroot.com/gerard/pdf/P10.pdf) de Gerard J. Holzmann. 
 
 La mayoría de programadores siguen una guía de estilos para programar, pero usualmente estas guías no muestran la calidad del código. La mayoría de guías suelen estar enfocadas a un Lenguaje de programación o a un Framework en específico y presentan mas un manual de como debería verse en vez de cómo debería funcionar.
 

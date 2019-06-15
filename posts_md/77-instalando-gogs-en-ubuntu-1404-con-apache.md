@@ -3,7 +3,9 @@ Date: 2016-02-01T01:02:28+00:00
 Description: Instalando Gogs en Ubuntu 14.04 con Apache
 Tags: Apache,Ubuntu,Gogs
 ---
-# Instalando Gogs en Ubuntu 14.04 con Apache Primero, como mandan las buenas practicas, creemos un usuario git
+# Instalando Gogs en Ubuntu 14.04 con Apache 
+
+Primero, como mandan las buenas practicas, creemos un usuario git
 ```
 useradd git
 mkdir /home/git/

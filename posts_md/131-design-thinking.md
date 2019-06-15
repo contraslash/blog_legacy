@@ -3,7 +3,9 @@ Date: 2016-12-01T14:45:51+00:00
 Description: Notas de una conferencia de Design Thinking dada por IBM en el ámbito del taller de innovación abierta por la alcaldía de Santiago de Cali
 Tags: Emprendimiento,Design Thinking
 ---
-# Design ThinkingDiseñada en Stanford, adquirida por IBM hace cerca de 30 años y ampliamente practicada al interior de la organización
+# Design Thinking
+
+Diseñada en Stanford, adquirida por IBM hace cerca de 30 años y ampliamente practicada al interior de la organización
 
 1. Resultados *Human Centered*, requieren una empatía con el cliente
 1. Enregar resultados a escala requiere de trabajar en equipo (Se enfoca ampliamente en metodología ágil)

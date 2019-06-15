@@ -3,7 +3,9 @@ Date: 2016-09-15T03:49:28+00:00
 Description: Añadir un procesador de contexto que muestre la url actual del sitio
 Tags: Django
 ---
-# Creando un Context Processor para tener la url del sitioTomado de [aquí](http://stackoverflow.com/questions/1451138/how-can-i-get-the-domain-name-of-my-site-within-a-django-template)
+# Creando un Context Processor para tener la url del sitio
+
+Tomado de [aquí](http://stackoverflow.com/questions/1451138/how-can-i-get-the-domain-name-of-my-site-within-a-django-template)
 
 ```
 from django.contrib.sites.shortcuts import get_current_site

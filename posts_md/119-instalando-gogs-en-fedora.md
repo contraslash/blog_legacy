@@ -3,7 +3,9 @@ Date: 2016-10-12T17:47:55+00:00
 Description: Instalando Gogs con Apache en Fedora
 Tags: Apache,Gogs,Fedora
 ---
-# Instalando Gogs en FedoraRealmente no es Fedora, es Amazon Linux AMI 2016.03, pero para efectos prácticos funcionan igual.
+# Instalando Gogs en Fedora
+
+Realmente no es Fedora, es Amazon Linux AMI 2016.03, pero para efectos prácticos funcionan igual.
 
 El tutorial original es [este](http://blog.contraslash.com/instalando-gogs-en-ubuntu-1404-con-apache/) y lo seguiré paso a paso pero traduciendo a lenguaje yum.
 

@@ -3,7 +3,9 @@ Date: 2018-05-04T21:02:24+00:00
 Description: Modelo de Programación Concurrente por Paso de Mensajes
 Tags: Modelos y Paradigmas de Programación
 ---
-# Programación Concurrente por Paso de Mensajes## Definición
+# Programación Concurrente por Paso de Mensajes
+
+## Definición
 
 La programación concurrente por paso de mensajes es un estilo de programación donde entidades independientes se comunican asíncronamente por medio de mensajes.
 

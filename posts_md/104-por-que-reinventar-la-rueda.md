@@ -3,7 +3,9 @@ Date: 2016-09-07T14:45:22+00:00
 Description: 
 Tags: Posts
 ---
-# ¿Por qué reinventar la rueda?Ayer volví a escuchar esa frase que siempre me ha causado un fastidio increíble:
+# ¿Por qué reinventar la rueda?
+
+Ayer volví a escuchar esa frase que siempre me ha causado un fastidio increíble:
 
 -*Si, porque no hay que re inventar la rueda*
 

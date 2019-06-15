@@ -3,7 +3,9 @@ Date: 2017-03-17T15:02:48+00:00
 Description: Guía corta para la autenticación por llaves SSH a un servidor Gogs
 Tags: Git,Gogs,Continuous Integration,Automatic Deployment
 ---
-# Autenticación a Gogs por SSHUno de los pasos mas importantes a la hora de realizar despliegue automático es que tu servidor pueda obtener los cambios en su rama respectiva sin necesidad de intervención humana, y por lo general nuestros repositorios son privados, de tal manera que autenticarse por SSH es una excelente opción.
+# Autenticación a Gogs por SSH
+
+Uno de los pasos mas importantes a la hora de realizar despliegue automático es que tu servidor pueda obtener los cambios en su rama respectiva sin necesidad de intervención humana, y por lo general nuestros repositorios son privados, de tal manera que autenticarse por SSH es una excelente opción.
 
 Como primera instancia, en el cliente que recibirá los cambios, en este caso servidor de staging/testing/production debemos generar una llave SSH, para eso utilizamos el siguiente comando
 

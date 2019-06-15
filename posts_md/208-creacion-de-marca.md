@@ -3,7 +3,9 @@ Date: 2018-10-01T19:36:49+00:00
 Description: Un corto resumen del workshop de creación de marca de ProjekLabs, que considera aspectos importantes del diseño de una expresión no necesariamente gráfica del producto o servicio y conceptos clave para crear un buen diseño de marca.
 Tags: Emprendimiento
 ---
-# Creación de MarcaObjetivos generales
+# Creación de Marca
+
+Objetivos generales
 
 1. Consolidar el esfuerzo del capital humano hacia una visión unificada de marca
 1. Identificar oportunidades de acción (en el ciclo comercial) para generar mejoras al modelo de experiencial

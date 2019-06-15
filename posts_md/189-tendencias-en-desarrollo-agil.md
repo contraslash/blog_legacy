@@ -3,7 +3,9 @@ Date: 2018-03-07T23:40:49+00:00
 Description: Notas de clase de la asignatura Tendencias en Ingeniería de Software, donde se estudia el uso de algunas prácticas ágiles, como son las Historias de Usuario, el Product BackLog, La estimación y el Planning Poker
 Tags: Tendencias en Ingeniería de Software,Metodologías Ágiles,SCRUM
 ---
-# Tendencias en desarrollo Ágil## Historias de usuario: 
+# Tendencias en desarrollo Ágil
+
+## Historias de usuario: 
 
 En requerimiento es una descripción formal, pero una historia de usuario es una definición informa. Una historia de usuario describe al funcionalidad que será valiosa tanto para el osuario o el comprador de un software [Mike Kohn 2004].
 

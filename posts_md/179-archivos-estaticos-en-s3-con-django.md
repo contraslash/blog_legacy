@@ -3,7 +3,9 @@ Date: 2017-09-05T20:37:55+00:00
 Description: Cómo utilizar AWS S3 para servir archivos estáticos con Django
 Tags: Django,AWS,S3
 ---
-# Archivos estáticos en S3 con DjangoDebo confesar que tenía una deuda técnica con el blog desde hace un par de meses por no haber traducido oportunamente [este post](https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/). Afortunadamente aún estamos a tiempo.
+# Archivos estáticos en S3 con Django
+
+Debo confesar que tenía una deuda técnica con el blog desde hace un par de meses por no haber traducido oportunamente [este post](https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/). Afortunadamente aún estamos a tiempo.
 
 Como primera instancia necesitaremos [crear un Bucket en S3](http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html)
 

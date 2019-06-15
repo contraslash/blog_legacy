@@ -3,7 +3,9 @@ Date: 2017-09-07T15:14:58+00:00
 Description: Los tipos de registro DNS permiten identificar un nombre de dominio y relacionarlo con una dirección IP o un valor específico, los mas comunes son A, CNAME, NS, MX y TXT donde cada uno tiene su propio significado
 Tags: DNS
 ---
-# ¿Qué significan los tipos de registro DNS?Desde hace tiempo que vengo involucrado con servidores DNS y muchas veces me preguntaba que significan ese montón de tipos de registros que hay, así que el día de hoy decidí investigar un poco mas mientras realizaba una migración de godaddy a AWS 53:
+# ¿Qué significan los tipos de registro DNS?
+
+Desde hace tiempo que vengo involucrado con servidores DNS y muchas veces me preguntaba que significan ese montón de tipos de registros que hay, así que el día de hoy decidí investigar un poco mas mientras realizaba una migración de godaddy a AWS 53:
 
 La especificación formal está definida en el [RFC 1035](https://tools.ietf.org/html/rfc1035) y ha sido modificada en múltiples ocaciones, pero en este documento podemos encontrar respuesta a lo que son los tipos de registro mas comunes:
 

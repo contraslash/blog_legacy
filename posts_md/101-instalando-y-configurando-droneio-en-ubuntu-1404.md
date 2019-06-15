@@ -3,7 +3,9 @@ Date: 2016-09-03T03:38:05+00:00
 Description: 
 Tags: Continuous Integration,Drone,CI
 ---
-# Instalando y Configurando Drone.io en Ubuntu 14.04Este tutorial está basado en [este tutorial](http://readme.drone.io/setup/overview/)
+# Instalando y Configurando Drone.io en Ubuntu 14.04
+
+Este tutorial está basado en [este tutorial](http://readme.drone.io/setup/overview/)
 
 Debemos instalar primero Docker, si no lo has hecho, revisa este [post](http://blog.contraslash.com/instalando-docker-en-ubuntu-1404/)
 

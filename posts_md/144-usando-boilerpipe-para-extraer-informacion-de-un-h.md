@@ -3,7 +3,9 @@ Date: 2017-01-25T18:21:53+00:00
 Description: Usando Boilerpipe para extraer información de un documento html con Python
 Tags: Python,Extraccion de Informacion
 ---
-# Usando Boilerpipe para extraer información de un HTML con PythonPrimero nos aseguramos que tenemos Java instalados
+# Usando Boilerpipe para extraer información de un HTML con Python
+
+Primero nos aseguramos que tenemos Java instalados
 Podemos descargar desde [el sitio oficial](https://java.com/en/download/) o usarl openjdk en ubuntu 14.04
 
 ```

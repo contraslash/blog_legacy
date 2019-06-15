@@ -4,6 +4,8 @@ Description:
 Tags: Django
 ---
 # Multiples Models en un Form Django
+
+
 Dando mis primeros pasos en django, me encontré con el ligero problema de no saber como subir datos a varios modelos desde una sola vista, bueno inicialmente me di cuenta que en un template view puedo hacer algo como 
 
 ```

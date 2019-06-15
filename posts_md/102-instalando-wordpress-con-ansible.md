@@ -3,7 +3,9 @@ Date: 2016-09-04T04:29:21+00:00
 Description: 
 Tags: Aprovisionamiento,Ansible,Wordpress
 ---
-# Instalando Wordpress con Ansible y Ubuntu 16.04Este tutorial está basado en [este tutorial](https://www.digitalocean.com/community/tutorials/how-to-automate-installing-wordpress-on-ubuntu-14-04-using-ansible) de Digital Ocean
+# Instalando Wordpress con Ansible y Ubuntu 16.04
+
+Este tutorial está basado en [este tutorial](https://www.digitalocean.com/community/tutorials/how-to-automate-installing-wordpress-on-ubuntu-14-04-using-ansible) de Digital Ocean
 
 Como pre requisito está tener instalado Ansible
 

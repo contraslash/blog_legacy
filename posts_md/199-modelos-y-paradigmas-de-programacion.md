@@ -3,7 +3,9 @@ Date: 2018-06-08T16:02:50+00:00
 Description: Introducción a los modelos y paradigmas de programación
 Tags: Modelos y Paradigmas de Programación
 ---
-# Modelos y Paradigmas de ProgramaciónLos modelos y paradigmas de programación son principios subyacentes a la implementación de cada lenguaje de programación. Entender estos conceptos permite que se pueda utilizar de una manera adecuada cada uno de estas optimizaciones a la hora de resolver algún tipo de problema.
+# Modelos y Paradigmas de Programación
+
+Los modelos y paradigmas de programación son principios subyacentes a la implementación de cada lenguaje de programación. Entender estos conceptos permite que se pueda utilizar de una manera adecuada cada uno de estas optimizaciones a la hora de resolver algún tipo de problema.
 
 No existe ningún paradigma o modelo que sea el más adecuado para resolver todo tipo de problemas. Por esta razón algún paradigma o modelo puede aproximarse mejor a la manera natural de resolver un problema
 

@@ -3,7 +3,9 @@ Date: 2016-12-06T01:11:21+00:00
 Description: Recursos útiles para iniciar la programación con el Lenguaje de Programación Go
 Tags: Go,GoLang
 ---
-# Go, el Nuevo CDesde hace tiempo comencé a cogerle un afecto reacio a Go y me parece que es una opción interesante para explorar desde el punto de vista de rendimiento.
+# Go, el Nuevo C
+
+Desde hace tiempo comencé a cogerle un afecto reacio a Go y me parece que es una opción interesante para explorar desde el punto de vista de rendimiento.
 
 Dejaré una serie de enlaces que en lo personal me parecen supremamente útiles para cualquier persona interesada en aprender este Lenguaje de programación
 

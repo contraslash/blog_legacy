@@ -3,7 +3,9 @@ Date: 2017-04-20T04:03:08+00:00
 Description: Extracción de texto desde una imagen usando Tesseract-OCR
 Tags: Extraccion de Informacion
 ---
-# Extracción de texto desde una imagen usando Tesseract-OCRHace tiempo escribí un post sobre [Boilerpipe](http://blog.contraslash.com/usando-boilerpipe-para-extraer-informacion-de-un-h/), una herramienta para extraer texto de documentos html. Hoy mostraré [Tesseract](https://github.com/tesseract-ocr/tesseract) Un OCR.
+# Extracción de texto desde una imagen usando Tesseract-OCR
+
+Hace tiempo escribí un post sobre [Boilerpipe](http://blog.contraslash.com/usando-boilerpipe-para-extraer-informacion-de-un-h/), una herramienta para extraer texto de documentos html. Hoy mostraré [Tesseract](https://github.com/tesseract-ocr/tesseract) Un OCR.
 
 Primero definamos OCR:
 

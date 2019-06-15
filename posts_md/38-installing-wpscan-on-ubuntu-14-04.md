@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Seguridad
 ---
-# Instalando wpscan en Ubuntu 14.04Primero necesitas instalar algunas dependencias
+# Instalando wpscan en Ubuntu 14.04
+
+Primero necesitas instalar algunas dependencias
 `sudo apt-get install ruby-dev libxslt1-dev libxml2-dev libcurl4-gnutls-dev`
 
 Ahora [clona](https://github.com/wpscanteam/wpscan)  o [descarga](http://wpscan.org/) wpscan 

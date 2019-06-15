@@ -3,7 +3,9 @@ Date: 2016-01-29T06:42:23+00:00
 Description: 
 Tags: Web Apps
 ---
-# StackEdit, el editor de los diosesDefinitivamente Markdown llegó para quedarse, no es que no me guste Ghost, pero es hora de darle una probada a stackedit.
+# StackEdit, el editor de los dioses
+
+Definitivamente Markdown llegó para quedarse, no es que no me guste Ghost, pero es hora de darle una probada a stackedit.
 
 Como aún soy un novato en node.js, estas aclaraciones puede que le sirvan a otro novato como yo.
 
