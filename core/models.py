@@ -68,7 +68,7 @@ for p in all_posts:
 
 f = open("README.md", "w+")
 for p in all_posts:
-    f.write("- [{id}-{nombre}](posts_md/{id}-{nombre}.md)\n".format(id=p.id, nombre=p.title))
+    f.write("- [{id}-{nombre}]('posts_md/{id}-{slug}.md)\n".format(id=p.id, nombre=p.title,slug=p.slug))
 
 f.close()
 
