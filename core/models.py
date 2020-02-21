@@ -1,6 +1,7 @@
 from django.db import models
+from rest_framework import serializers
 
-# Create your models here.
+
 class BlogEnginePost(models.Model):
     title = models.CharField(max_length=250)
     slug = models.CharField(unique=True, max_length=50)
@@ -11,9 +12,11 @@ class BlogEnginePost(models.Model):
     created = models.DateTimeField()
     modified = models.DateTimeField()
     short_description = models.TextField()
+
     class Meta:
         managed = False
         db_table = 'blog_engine_post'
+
 
 class BlogEngineTag(models.Model):
     name = models.CharField(max_length=100)
@@ -24,6 +27,7 @@ class BlogEngineTag(models.Model):
         managed = False
         db_table = 'blog_engine_tag'
 
+
 class BlogEnginePostTags(models.Model):
     post = models.ForeignKey(BlogEnginePost, models.DO_NOTHING)
     tag = models.ForeignKey('BlogEngineTag', models.DO_NOTHING)
@@ -33,7 +37,6 @@ class BlogEnginePostTags(models.Model):
         db_table = 'blog_engine_post_tags'
         unique_together = (('post', 'tag'),)
 
-from rest_framework import serializers
 
 class BlogSerializer(serializers.ModelSerializer):
     class Meta:
@@ -47,29 +50,3 @@ class BlogSerializer(serializers.ModelSerializer):
             'created'
 
         ]
-"""
-
-from core import models
-
-all_posts = models.BlogEnginePost.objects.all()
-all_post_serializerd = models.BlogSerializer(all_posts,  many=True).data
-
-for p in all_posts:
-    f = open("posts_md/{}-{}.md".format(p.id,p.slug), "w+")
-    f.write("Title: {}\n".format(p.title))
-    f.write("Date: {}\n".format(p.created.isoformat()))
-    f.write("Description: {}\n".format(p.short_description))
-    tags = models.BlogEnginePostTags.objects.filter(post=p)
-    f.write("Tags: {}\n".format(",".join((tag.tag.name for tag in tags))))
-    f.write("---\n")
-    f.write("# {}\n\n".format(p.title))
-    f.write(p.body_markdown)
-    f.close()
-
-f = open("README.md", "w+")
-for p in all_posts:
-    f.write("- [{id}-{nombre}]('posts_md/{id}-{slug}.md)\n".format(id=p.id, nombre=p.title,slug=p.slug))
-
-f.close()
-
-"""

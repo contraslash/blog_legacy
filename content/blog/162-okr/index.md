@@ -1,0 +1,171 @@
+---
+title: "OKR"
+date: "2017-03-17T19:30:20+00:00"
+description: "Objective and Key Results en el evento Google Launchad Bogotá 2017"
+tags: "Emprendimiento,Google Launchpad"
+---
+# OKR
+
+Diferente de KPI (Key Performance Indicator)
+OKR = Objectives & Key Results
+
+> Strategy and goals over a specified amount of time for your organization
+Nos permiten definir la estrategia y el rumbo para donde va la compañía.
+
+En Google se planean OKRs anuales y se revisan cada trimestre.
+
+![Uber plans on Napkin](http://abovethecrowd.com/wp-content/uploads/2014/07/sacks.png)
+Planes de Uber
+
+Ejemplo de OKRs con Uber
+
+O1: Increase Drivers
+
+  - KR1: Increase driver base in each city by 20%
+  - KR2: Increase driver average session to 26 h/week in all active cities
+
+O2: Increase Geographic Coverage of drivers
+
+  - K1: Increase Coverage of Tier1 Cities to 100%
+  - K2: Increase coverage for all active Tier2 cities to 75%
+  - K3: Decrease pickup time to < 10m globally during peak hours of usage
+
+> Los objetivos siempre son ambiciosos
+> Los Key Result siempre deben poderse medir numéricamente.
+
+### Los objetivos deben ser numéricos
+Para que podamos mantener el foco, para que podamos ver el progreso.
+Debería ser muy sencillo entender todos los objetivos y resultados clave.
+
+#### Los OKR nos permiten ser responsable. 
+Todos los miembros de la organizacieon pueden entender como contribuir con la misión.
+Mantiene las espectativas claras entre todos los eqiumos y miembros individuales
+
+## Si no está en los OKRs no es importante.
+
+> Cómo cumplir los OKRs es el desafío de tu equipo
+
+> El 65% de los fracasos se atribuyen a problemas internos entre los fundadores
+
+![Goal Difficult vs Performance](http://www.workboard.com/images/blog/8-tactics-for-successful-goals-difficulty.png)
+Entre mas difíciles son nuestros objetivos, mejor desempeño vamos a tener
+> Libro recomendado [In the Plex](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1455875724)
+
+
+## Cómo diseñar buenos OKRs
+
+1. Diseñar OKRs de la manera correcta.
+
+  1. ¿Cuales son las prioridades para las siguientes 12 semanas?
+    - Escribir todas las prioridades para los siguientes 3 meses
+    - Compartir con los compañeros del grupo
+  1. Categorizar las prioridades 
+     ![Matriz de Importancia vs Urgencia](http://www.julienrio.com/marketing/pictures/julienrio.com_eisenhower_box.JPG)
+      Los OKRs viven en lo Importante Y No Urgente
+
+  ### Objetivos:
+
+    - Lo que intentas lograr
+    - Debe ser significante e inspirador
+    - Ambicioso y debe hacernos sentir un poco inconfortable (Unconfortably Exited)
+    - Debe ser cualitativo
+
+    ### Resultados Claves:
+
+    - Como sabemos que estamos logrando progreso
+    - Deben ser numéricos y fáciles de medir (0-1.0)
+    - Deben comenzar el trimestre con el 50% de confianza
+    > Si colocamos los objetivos bajos, no vamos a tener un buen desempeño
+    Se recomienda no tener mas de 3 Objetivos
+
+  Los que pudieron haber sido los **O** de Google en 2011: 
+
+    - Construir la mejor plataforma de hardware y software 
+    - Liderar las búsquedas
+    - Proveer el sistema de ads mas completo en el mercado
+    - Hacer que Google esté disponible en todo el mundo
+
+  Lo que pudieron haber sido los **KR** de Google en 2011
+
+    - Aumentar el RPM  un X% (Revenue Per Thousand)
+    - Aumentar los ingresos  $X Millones
+    - Definir una nueva métrica para los gastos de los anunciantes e incrementarlo un X%
+    - Aumentar la taza de ejecución de un nuevo tipo de anuncio en $X Millones anuales
+    - Aumentar la satisfacción del cliente en la facilidad de implementación en un X% 
+    - X JBPs with X% reveue growth
+
+  > Cambiar KR de "Mejorar la UX de un producto Y" a "Mejorar la satisfacción de los usuarios en un X%"
+
+1. Escribir los OKRs
+  En función de las prioridades para las siguientes semanas, encontremos cuales son los Objetivos y las Resultados Clave
+
+    - Asegurate que los Objetivos sean aspiracionales y ambiciosos
+    - Asegúrate que las Resultados Clave sean medibles
+
+  Los objetivos deben ser entendidos por todo mundo
+
+1. Medir los OKRs
+  Debemos definir cual va a ser el lugar de aceptación, usualmente se coloca entre el 0.6 y 0.7.
+
+  Las calificaciones malas pueden ser vistos como información para refinar los siguientes OKRs, y pueden ser una señal de
+
+    - Necesitamos aprender mas
+    - Necesitamos mas tiempo/dinero/humanos
+    - Resultados inamovibles y que no se pueden lograr, así que no vale la pena prestarle atención
+
+  Los **O** se califican como el promedio de todos los **KR**
+
+
+Existen dos tipos de OKRs
+
+  1. OKRs de compromiso
+    - Deben lograrse
+    - Deben ajustarse o reagendar recursos para asegurar que se cumplan
+    - El resultado esperado es 1.0, cualquier resultado inferior necesita ser explicado
+
+  1. OKR aspiracionales
+    - Proyectos aspiracionales sin resultados claros desde el comienzo
+
+
+## Metodologías para mejorar los OKRs 
+
+1. ¿Cuales son los desafíos mas grande en adoptar esta aproximación?
+
+    - Escribe cuales son los 3 desafíos mas importantes 
+    - Sugiere como superarlos
+
+1. Introducir los OKRs por primera vez
+
+  1. Tips
+
+    - Comenzar con un equipo pequeño de administración
+    - Comiencen con un **O** y 4 **KR**
+    - No apliques OKR a todos los proyectos
+    - Si aún no llegas a Product Market Fit, no implementes OKR
+
+  1. Crear procesos de arriba a abajo, pero dejar el espacio para que los OKRs de abajo vayan hacia arriba:
+
+    - OKRs Corporativos
+    - OKRs de Areas o Producto
+    - OKRs de equipos
+    - OKRs individuales
+
+  1. Definir lineas de tiempo
+
+    - Arrancar calificando los OKRs del trimestre pasado.
+    - Calificar de la mitad del cuarto y hacer todo lo posible por no cambiar los OKRs
+
+    > "When you are tired of saying it, they are starting to hear"
+    -Jeff Weiner, LinkedIn
+
+OKRs != Evaluación de desempeño
+
+No hacer| Hacer
+-|
+Espera hasta que se finalice cada ciclo| Háganlos trimestralmente
+Base them on OKR completion (leads to Sandbagging| Ten a un empleado que haga un resumen de los logros
+Intenta ser bueno "Bueno"| Que sean rápidos
+
+
+> Enlace de [ReWork](https://rework.withgoogle.com/)
+
