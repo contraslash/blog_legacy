@@ -1,0 +1,630 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><style id="typography.js">html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block}audio:not([controls]){display:none;height:0}progress{vertical-align:baseline}[hidden],template{display:none}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit;font-weight:bolder}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}svg:not(:root){overflow:hidden}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}button,input,optgroup,select,textarea{font:inherit;margin:0}optgroup{font-weight:700}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-input-placeholder{color:inherit;opacity:.54}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}html{font:100%/1.75 'Merriweather','Georgia',serif;box-sizing:border-box;overflow-y:scroll;}*{box-sizing:inherit;}*:before{box-sizing:inherit;}*:after{box-sizing:inherit;}body{color:hsla(0,0%,0%,0.9);font-family:'Merriweather','Georgia',serif;font-weight:400;word-wrap:break-word;font-kerning:normal;-moz-font-feature-settings:"kern", "liga", "clig", "calt";-ms-font-feature-settings:"kern", "liga", "clig", "calt";-webkit-font-feature-settings:"kern", "liga", "clig", "calt";font-feature-settings:"kern", "liga", "clig", "calt";}img{max-width:100%;margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}h1{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:Montserrat,sans-serif;font-weight:900;text-rendering:optimizeLegibility;font-size:2.5rem;line-height:1.1;}h2{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:1.73286rem;line-height:1.1;}h3{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:1.4427rem;line-height:1.1;}h4{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:1rem;line-height:1.1;letter-spacing:0.140625em;text-transform:uppercase;}h5{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:0.83255rem;line-height:1.1;}h6{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:0.75966rem;line-height:1.1;font-style:italic;}hgroup{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}ul{margin-left:1.75rem;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;list-style-position:outside;list-style-image:none;list-style:disc;}ol{margin-left:1.75rem;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;list-style-position:outside;list-style-image:none;}dl{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}dd{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}p{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}figure{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}pre{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;font-size:0.85rem;line-height:1.75rem;}table{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;font-size:1rem;line-height:1.75rem;border-collapse:collapse;width:100%;}fieldset{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}blockquote{margin-left:-1.75rem;margin-right:1.75rem;margin-top:0;padding-bottom:0;padding-left:1.42188rem;padding-right:0;padding-top:0;margin-bottom:1.75rem;font-size:1.20112rem;line-height:1.75rem;color:hsla(0,0%,0%,0.59);font-style:italic;border-left:0.32813rem solid hsla(0,0%,0%,0.9);}form{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}noscript{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}iframe{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}hr{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:calc(1.75rem - 1px);background:hsla(0,0%,0%,0.2);border:none;height:1px;}address{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}b{font-weight:700;}strong{font-weight:700;}dt{font-weight:700;}th{font-weight:700;}li{margin-bottom:calc(1.75rem / 2);}ol li{padding-left:0;}ul li{padding-left:0;}li > ol{margin-left:1.75rem;margin-bottom:calc(1.75rem / 2);margin-top:calc(1.75rem / 2);}li > ul{margin-left:1.75rem;margin-bottom:calc(1.75rem / 2);margin-top:calc(1.75rem / 2);}blockquote *:last-child{margin-bottom:0;}li *:last-child{margin-bottom:0;}p *:last-child{margin-bottom:0;}li > p{margin-bottom:calc(1.75rem / 2);}code{font-size:0.85rem;line-height:1.75rem;}kbd{font-size:0.85rem;line-height:1.75rem;}samp{font-size:0.85rem;line-height:1.75rem;}abbr{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;}acronym{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;}abbr[title]{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;text-decoration:none;}thead{text-align:left;}td,th{text-align:left;border-bottom:1px solid hsla(0,0%,0%,0.12);font-feature-settings:"tnum";-moz-font-feature-settings:"tnum";-ms-font-feature-settings:"tnum";-webkit-font-feature-settings:"tnum";padding-left:1.16667rem;padding-right:1.16667rem;padding-top:0.875rem;padding-bottom:calc(0.875rem - 1px);}th:first-child,td:first-child{padding-left:0;}th:last-child,td:last-child{padding-right:0;}blockquote > :last-child{margin-bottom:0;}blockquote cite{font-size:1rem;line-height:1.75rem;color:hsla(0,0%,0%,0.9);font-weight:400;}blockquote cite:before{content:"— ";}ul,ol{margin-left:0;}@media only screen and (max-width:480px){ul,ol{margin-left:1.75rem;}blockquote{margin-left:-1.3125rem;margin-right:0;padding-left:0.98438rem;}}h1,h2,h3,h4,h5,h6{margin-top:3.5rem;}a{box-shadow:0 1px 0 0 currentColor;color:#007acc;text-decoration:none;}a:hover,a:active{box-shadow:none;}mark,ins{background:#007acc;color:white;padding:0.10938rem 0.21875rem;text-decoration:none;}a.gatsby-resp-image-link{box-shadow:none;}</style><style data-href="/blog/styles.6e50da1a5581862dc05b.css">@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:100;src:local("Montserrat Thin "),local("Montserrat-Thin"),url(/blog/static/montserrat-latin-100-191cc9f50f3b76b9617cb383f19acb7d.woff2) format("woff2"),url(/blog/static/montserrat-latin-100-370318464551d5f25b0f0a78f374faac.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:100;src:local("Montserrat Thin italic"),local("Montserrat-Thinitalic"),url(/blog/static/montserrat-latin-100italic-bdeaeb79db315697bd173a55b097dc18.woff2) format("woff2"),url(/blog/static/montserrat-latin-100italic-ecf7d49386e8f265878e735db34a7c4b.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:200;src:local("Montserrat Extra Light "),local("Montserrat-Extra Light"),url(/blog/static/montserrat-latin-200-85d5ef9db7f2dc6979172a4a3b2c57cb.woff2) format("woff2"),url(/blog/static/montserrat-latin-200-1fc98e126a3d152549240e6244d7e669.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:200;src:local("Montserrat Extra Light italic"),local("Montserrat-Extra Lightitalic"),url(/blog/static/montserrat-latin-200italic-49095760a498d024fe1a85a078850df9.woff2) format("woff2"),url(/blog/static/montserrat-latin-200italic-fe46cf8b9462c820457d3bf537e4057f.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:300;src:local("Montserrat Light "),local("Montserrat-Light"),url(/blog/static/montserrat-latin-300-7c3daf12b706645b5d3710f863a4da04.woff2) format("woff2"),url(/blog/static/montserrat-latin-300-8dc95fab9cf98d02ca8d76e97d3dff60.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:300;src:local("Montserrat Light italic"),local("Montserrat-Lightitalic"),url(/blog/static/montserrat-latin-300italic-f20b178ca2024a5eac8e42e6649db86c.woff2) format("woff2"),url(/blog/static/montserrat-latin-300italic-3fe16939288856e8e828fa2661bf2354.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:400;src:local("Montserrat Regular "),local("Montserrat-Regular"),url(/blog/static/montserrat-latin-400-bc3aa95dca08f5fee5291e34959c27bc.woff2) format("woff2"),url(/blog/static/montserrat-latin-400-8102c4838f9e3d08dad644290a9cb701.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:400;src:local("Montserrat Regular italic"),local("Montserrat-Regularitalic"),url(/blog/static/montserrat-latin-400italic-5cad650422a7184467af5a4d17b264c4.woff2) format("woff2"),url(/blog/static/montserrat-latin-400italic-d191f22af3bb50902b99ac577f81a322.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:500;src:local("Montserrat Medium "),local("Montserrat-Medium"),url(/blog/static/montserrat-latin-500-92d16e458625f4d2c8940f6bdca0ff09.woff2) format("woff2"),url(/blog/static/montserrat-latin-500-8b763220218ffc11c57c84ddb80e7b26.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:500;src:local("Montserrat Medium italic"),local("Montserrat-Mediumitalic"),url(/blog/static/montserrat-latin-500italic-47bfcca6b69d6a9acca7a8bff17193e2.woff2) format("woff2"),url(/blog/static/montserrat-latin-500italic-72c01f753c3940c0b9cb6bf2389caddf.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:600;src:local("Montserrat SemiBold "),local("Montserrat-SemiBold"),url(/blog/static/montserrat-latin-600-6fb1b5623e528e27c18658fecf5ee0ee.woff2) format("woff2"),url(/blog/static/montserrat-latin-600-7c839d15a6f54e7025ba8c0c4b333e8f.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:600;src:local("Montserrat SemiBold italic"),local("Montserrat-SemiBolditalic"),url(/blog/static/montserrat-latin-600italic-60789af1c9338ed1a9546722ec54b4f7.woff2) format("woff2"),url(/blog/static/montserrat-latin-600italic-f3d4de8d0afb19e777c79032ce828e3d.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:700;src:local("Montserrat Bold "),local("Montserrat-Bold"),url(/blog/static/montserrat-latin-700-39d93cf678c740f9f6b2b1cfde34bee3.woff2) format("woff2"),url(/blog/static/montserrat-latin-700-80f10bd382f0df1cd650fec59f3c9394.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:700;src:local("Montserrat Bold italic"),local("Montserrat-Bolditalic"),url(/blog/static/montserrat-latin-700italic-ba136d97b14e82284dd595e257f11c47.woff2) format("woff2"),url(/blog/static/montserrat-latin-700italic-8c98142b425630821139c24bd1698700.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:800;src:local("Montserrat ExtraBold "),local("Montserrat-ExtraBold"),url(/blog/static/montserrat-latin-800-b7018be9ed6cd94da8b6675b3a468c3b.woff2) format("woff2"),url(/blog/static/montserrat-latin-800-9a9befcf50d64f9d2d19d8b1d1984add.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:800;src:local("Montserrat ExtraBold italic"),local("Montserrat-ExtraBolditalic"),url(/blog/static/montserrat-latin-800italic-540ffdd223d1a9ad3d4e678e1a23372e.woff2) format("woff2"),url(/blog/static/montserrat-latin-800italic-897086f99f4e1f45e6b1e9368527d0bc.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:900;src:local("Montserrat Black "),local("Montserrat-Black"),url(/blog/static/montserrat-latin-900-58cd789700850375b834e8b6776002eb.woff2) format("woff2"),url(/blog/static/montserrat-latin-900-26d42c9428780e545a540bbb50c84bce.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:900;src:local("Montserrat Black italic"),local("Montserrat-Blackitalic"),url(/blog/static/montserrat-latin-900italic-451157bc8861fe54f523b3669a3def71.woff2) format("woff2"),url(/blog/static/montserrat-latin-900italic-a8ec4957e1c24f5793305763ad9845b3.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:300;src:local("Merriweather Light "),local("Merriweather-Light"),url(/blog/static/merriweather-latin-300-b1158cfcd4aacb9d8fb61625e37af46a.woff2) format("woff2"),url(/blog/static/merriweather-latin-300-cc7de05e166e90320d7d896e0f72a19d.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:300;src:local("Merriweather Light italic"),local("Merriweather-Lightitalic"),url(/blog/static/merriweather-latin-300italic-8fe52a48089d6ebe46db0b8e7cc66263.woff2) format("woff2"),url(/blog/static/merriweather-latin-300italic-e1331f5397c2a673f9d3765138debdb5.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:400;src:local("Merriweather Regular "),local("Merriweather-Regular"),url(/blog/static/merriweather-latin-400-8276fdb72ae8f4714d4e6eba704cc39f.woff2) format("woff2"),url(/blog/static/merriweather-latin-400-69f09800f4f6479d06e44eba837df872.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:400;src:local("Merriweather Regular italic"),local("Merriweather-Regularitalic"),url(/blog/static/merriweather-latin-400italic-3a9be9ea9f7aa4af6de7307df21d9fc0.woff2) format("woff2"),url(/blog/static/merriweather-latin-400italic-d76079ed7541a433a54f79316de086e9.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:700;src:local("Merriweather Bold "),local("Merriweather-Bold"),url(/blog/static/merriweather-latin-700-fa534be7ffa380e39a7f6e03bf9a5e03.woff2) format("woff2"),url(/blog/static/merriweather-latin-700-ba56ea84b8084b7ff9677f50d3cd81bd.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:700;src:local("Merriweather Bold italic"),local("Merriweather-Bolditalic"),url(/blog/static/merriweather-latin-700italic-1ef5edaaa20ae53ea50399884c5e48c6.woff2) format("woff2"),url(/blog/static/merriweather-latin-700italic-534bc9e7ce93c73d73426e46acd78092.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:900;src:local("Merriweather Black "),local("Merriweather-Black"),url(/blog/static/merriweather-latin-900-7528fb70e8a4a82c7305e72ff43ac25f.woff2) format("woff2"),url(/blog/static/merriweather-latin-900-3799b6e2f5ed3fcccf9d7a708d7419fa.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:900;src:local("Merriweather Black italic"),local("Merriweather-Blackitalic"),url(/blog/static/merriweather-latin-900italic-e1b4d2aaa78e12ad84aaf8a56321e4c2.woff2) format("woff2"),url(/blog/static/merriweather-latin-900italic-2ae22f731b3424e8dbb4b37f7ca6e708.woff) format("woff")}code[class*=language-],pre[class*=language-]{color:#000;background:none;text-shadow:0 1px #fff;font-family:Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;font-size:1em;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-hyphens:none;-ms-hyphens:none;hyphens:none}code[class*=language-]::selection,code[class*=language-] ::selection,pre[class*=language-]::selection,pre[class*=language-] ::selection{text-shadow:none;background:#b3d4fc}@media print{code[class*=language-],pre[class*=language-]{text-shadow:none}}pre[class*=language-]{padding:1em;margin:.5em 0;overflow:auto}:not(pre)>code[class*=language-],pre[class*=language-]{background:#f5f2f0}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#708090}.token.punctuation{color:#999}.token.namespace{opacity:.7}.token.boolean,.token.constant,.token.deleted,.token.number,.token.property,.token.symbol,.token.tag{color:#905}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{color:#690}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url{color:#9a6e3a;background:hsla(0,0%,100%,.5)}.token.atrule,.token.attr-value,.token.keyword{color:#07a}.token.class-name,.token.function{color:#dd4a68}.token.important,.token.regex,.token.variable{color:#e90}.token.bold,.token.important{font-weight:700}.token.italic{font-style:italic}.token.entity{cursor:help}</style><meta name="generator" content="Gatsby 2.19.19"/><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml"/><link rel="icon" href="/blog/icons/icon-48x48.png?v=edf3d310d67f8284a562bc3a58c3e761"/><link rel="manifest" href="/blog/manifest.webmanifest"/><meta name="theme-color" content="#663399"/><link rel="apple-touch-icon" sizes="48x48" href="/blog/icons/icon-48x48.png?v=edf3d310d67f8284a562bc3a58c3e761"/><link rel="apple-touch-icon" sizes="72x72" href="/blog/icons/icon-72x72.png?v=edf3d310d67f8284a562bc3a58c3e761"/><link rel="apple-touch-icon" sizes="96x96" href="/blog/icons/icon-96x96.png?v=edf3d310d67f8284a562bc3a58c3e761"/><link rel="apple-touch-icon" sizes="144x144" href="/blog/icons/icon-144x144.png?v=edf3d310d67f8284a562bc3a58c3e761"/><link rel="apple-touch-icon" sizes="192x192" href="/blog/icons/icon-192x192.png?v=edf3d310d67f8284a562bc3a58c3e761"/><link rel="apple-touch-icon" sizes="256x256" href="/blog/icons/icon-256x256.png?v=edf3d310d67f8284a562bc3a58c3e761"/><link rel="apple-touch-icon" sizes="384x384" href="/blog/icons/icon-384x384.png?v=edf3d310d67f8284a562bc3a58c3e761"/><link rel="apple-touch-icon" sizes="512x512" href="/blog/icons/icon-512x512.png?v=edf3d310d67f8284a562bc3a58c3e761"/><title data-react-helmet="true">Automatizar despliegues de Django con Fabric y Ansible | Blog de Contraslash (Legacy)</title><meta data-react-helmet="true" name="description" content="Automatizar despliegues de Django con Fabric y Ansible"/><meta data-react-helmet="true" property="og:title" content="Automatizar despliegues de Django con Fabric y Ansible"/><meta data-react-helmet="true" property="og:description" content="Automatizar despliegues de Django con Fabric y Ansible"/><meta data-react-helmet="true" property="og:type" content="website"/><meta data-react-helmet="true" name="twitter:card" content="summary"/><meta data-react-helmet="true" name="twitter:creator" content="Mauricio Collazos"/><meta data-react-helmet="true" name="twitter:title" content="Automatizar despliegues de Django con Fabric y Ansible"/><meta data-react-helmet="true" name="twitter:description" content="Automatizar despliegues de Django con Fabric y Ansible"/><link as="script" rel="preload" href="/blog/webpack-runtime-6cee4707e51ef2f691f0.js"/><link as="script" rel="preload" href="/blog/styles-e6de4e09d8d0519894be.js"/><link as="script" rel="preload" href="/blog/app-7f4c457f706f4e3532a0.js"/><link as="script" rel="preload" href="/blog/commons-59e31ba80b4fbbf15d8a.js"/><link as="script" rel="preload" href="/blog/component---src-templates-blog-post-js-91f25cbabea324181e2e.js"/><link as="fetch" rel="preload" href="/blog/page-data/146-automatizar-despliegues-de-django-con-fabric-y-ans/page-data.json" crossorigin="anonymous"/></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div style="margin-left:auto;margin-right:auto;max-width:42rem;padding:2.625rem 1.3125rem"><header><h3 style="font-family:Montserrat, sans-serif;margin-top:0"><a style="box-shadow:none;text-decoration:none;color:inherit" href="/blog/">Blog de Contraslash (Legacy)</a></h3></header><main><article><header><h1 style="margin-top:1.75rem;margin-bottom:0">Automatizar despliegues de Django con Fabric y Ansible</h1><p style="font-size:0.83255rem;line-height:1.75rem;display:block;margin-bottom:1.75rem">February 02, 2017</p></header><section><h1>Automatizar despliegues de Django con Fabric y Ansible</h1>
+<p>Este post está basado en el post de <a href="https://realpython.com">Real Python</a> <a href="https://realpython.com/blog/python/automating-django-deployments-with-fabric-and-ansible/">Automating Django Deployments With Fabric and Ansible</a></p>
+<p>En este tutorial automatizaremos el proceso de despliegue con Fabric (v1.12.0) y Ansible (v2.1.13) apuntando a estas problemáticas:</p>
+<ol>
+<li>Escalamiento: Cuando se trata de escalar una aplicaión web para manejar miles de peticiones diarias, un solo servidor no es una buena aproximación. Puesto simple, cuando el servidor se aproxima al máximo uso de CPU, se pueden causar tiempos de carga lentos, que eventualmente llevan al servidor a un fallo. Para solucionar esto, la aplicación debe escalar para ejecutarse en mas de un servidor, entonces los servidores pueden manejar <em>acumulativamente</em> mas peticiones concurrentes.</li>
+<li>Redundancia: Desplegar una aplicaión manualmente en un nuevo servidor implica un montón de trabajo repetido, con muchas probabilidades de un herror humano. Automatizar este proceso es clave.</li>
+</ol>
+<p>Específicamente automatizaremos:</p>
+<ol>
+<li>Agregar un usuario nuevo no root</li>
+<li>Configurar el servidor</li>
+<li>Halar el código desde un repositorio en Github</li>
+<li>Instalar las dependencias</li>
+<li>Usar la aplicación como un servicio.</li>
+</ol>
+<h2>Configuración</h2>
+<p>Comencemos por crear una nueva instancia de servidor Fedora 25, automáticamente vamos a utilizar una llave SSH con un script de Fabric. Como el proceso de escalamiento debe ser escalable, vamos a crear un repositorio separado para almacenar todos los scripts de aprovisionamiento. Vamos a crear un nuevo directorio local, y vamos a crear y activar un ambiente virtual usando Python 2.7</p>
+<blockquote>
+<p>Fabric no soporta python 3, por eso usamos python 2.7, pero no te preocupes, usaremos python 3.5 cuando aprovisionemos nuestro servidor.</p>
+</blockquote>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">mkdir automated-deployments
+cd automated-deployments
+virtualenv env
+source env/bin/activate</code></pre></div>
+<h2>Configuración de Fabric</h2>
+<p>Fabric es una herramienta para automatizar rutinas de consola sobre SSH, y lo usaremos para:</p>
+<ol>
+<li>Configurar las llaves SSH</li>
+<li>Asegurar las contraseñas</li>
+<li>Instalar las dependencias de Ansible</li>
+<li>Actualizar el servidor.</li>
+</ol>
+<p>Comencemos por instalar Fabric</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">pip install fabric==1.12.0</code></pre></div>
+<p>Creemos una nueva carpeta llamada “prod” y agreguemos un nuevo archivo llamado fabfile.py para tener todos los scripts de Fabric</p>
+<p><em>prod/fabfile.py</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">import os
+from fabric.contrib.files import sed
+from fabric.api import env, local, run
+from fabric.api import env
+
+# Inicializar el directorio base
+abs_dir_path = os.path.dirname(
+    os.path.dirname(os.path.abspath(__file__)))
+
+
+# Declara las variables de entorno globales
+
+# Usuario root
+env.user = &#39;root&#39;
+
+# Lista de las direcciones IP remotas
+env.hosts = [&#39;&lt;remote-server-ip&gt;&#39;]
+
+# Contraseña del servidor remoto
+env.password = &#39;&lt;remote-server-password&gt;&#39;
+
+# Nombre completo del usuario
+env.full_name_user = &#39;&lt;your-name&gt;&#39;
+
+# Grupo del usuario
+env.user_group = &#39;deployers&#39;
+
+# Usuario de el grupo anterior
+env.user_name = &#39;deployer&#39;
+
+# Ruta a la llave SSH
+env.ssh_keys_dir = os.path.join(abs_dir_path, &#39;ssh-keys&#39;)</code></pre></div>
+<p>Toma nota de los comentarios. Y asegúrate de agregar los datos correctos en las variables de <code class="language-text">env</code></p>
+<h2>Configurar las llaves SSH</h2>
+<p>Agrega el siguiente código al fabfile.py</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">def start_provision():
+    &quot;&quot;&quot;
+    Comenzar el aprovisionamiento del servidor
+    &quot;&quot;&quot;
+    # Crear un nuevo directorio para el nuevo servidor remoto
+    env.ssh_keys_name = os.path.join(
+        env.ssh_keys_dir, env.host_string + &#39;_prod_key&#39;)
+    local(&#39;ssh-keygen -t rsa -b 2048 -f {0}&#39;.format(env.ssh_keys_name))
+    local(&#39;cp {0} {1}/authorized_keys&#39;.format(
+        env.ssh_keys_name + &#39;.pub&#39;, env.ssh_keys_dir))
+    # Prevenir que el root pueda conectarse remotamente desde un cliente SSH
+    sed(&#39;/etc/ssh/sshd_config&#39;, &#39;^UsePAM yes&#39;, &#39;UsePAM no&#39;)
+    sed(&#39;/etc/ssh/sshd_config&#39;, &#39;^PermitRootLogin yes&#39;,
+        &#39;PermitRootLogin no&#39;)
+    sed(&#39;/etc/ssh/sshd_config&#39;, &#39;^#PasswordAuthentication yes&#39;,
+        &#39;PasswordAuthentication no&#39;)
+
+    install_ansible_dependencies()
+    create_deployer_group()
+    create_deployer_user()
+    upload_keys()
+    set_selinux_permissive()
+    run(&#39;service sshd reload&#39;)
+    upgrade_server()</code></pre></div>
+<p>Esta función actua como el punto de entrada para el Script de Fabric. Lanza una serioe de otras funciones que van a ser explicadas en otros pasos, explicitamente:</p>
+<ol>
+<li>Genera un nuevo par de llaves SSH en una ruta especificada en el sistema local</li>
+<li>Copia el contenido de la llave pública al archivo <em>authorized_keys</em></li>
+<li>Realiza los cambios al archivo remoto <em>sshd_config</em> para prevenir el ingreso del root y deshabilitar el ingreso sin contraseña</li>
+</ol>
+<blockquote>
+<p>Prevenir el acceso del usuario root por SSH es un paso opcional, pero es recomendado porque asegura que ningún ingreso tenga permisos de superusuario</p>
+</blockquote>
+<p>Cree un directorio para tus claves ssh en la raiz del proyecto.</p>
+<h2>Asegurar las contraseñas de los usuarios</h2>
+<p>Este paso incluye la adición de tres funciones diferentes, cada una se ejecuta en serie, para configurar el aseguramiento de las contraseñas</p>
+<p><strong>Crear un grupo para despliegues</strong></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">def create_deployer_group():
+    &quot;&quot;&quot;
+    Crea un grupo de usuarios para todos los desarrolladores del proyecto
+    &quot;&quot;&quot;
+    run(&#39;groupadd {}&#39;.format(env.user_group))
+    run(&#39;mv /etc/sudoers /etc/sudoers-backup&#39;)
+    run(&#39;(cat /etc/sudoers-backup; echo &quot;%&#39; +
+        env.user_group + &#39; ALL=(ALL) ALL&quot;) &gt; /etc/sudoers&#39;)
+    run(&#39;chmod 440 /etc/sudoers&#39;)</code></pre></div>
+<p>Aquí se crea un nuevo grupo llamado <code class="language-text">deployers</code> y se le habilita permisos de super administrador, así que los usuarios pueden realizar procesos con privilegios de superadministradores</p>
+<p><strong>Crear usuario</strong></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">def create_deployer_user():
+    &quot;&quot;&quot;
+    Crear un usuario para el grupo
+    &quot;&quot;&quot;
+    run(&#39;adduser -c &quot;{}&quot; -m -g {} {}&#39;.format(
+        env.full_name_user, env.user_group, env.user_name))
+    run(&#39;passwd {}&#39;.format(env.user_name))
+    run(&#39;usermod -a -G {} {}&#39;.format(env.user_group, env.user_name))
+    run(&#39;mkdir /home/{}/.ssh&#39;.format(env.user_name))
+    run(&#39;chown -R {} /home/{}/.ssh&#39;.format(env.user_name, env.user_name))
+    run(&#39;chgrp -R {} /home/{}/.ssh&#39;.format(
+        env.user_group, env.user_name))</code></pre></div>
+<p>Esta función:</p>
+<ol>
+<li>Agrega un nuevo usuario al grupo <code class="language-text">deployers</code>, que definimos en la última función</li>
+<li>Define el directorio SSH para almacenar las llaves SSH y dar los permisos al grupo y usuario para acceder a este directorio</li>
+</ol>
+<p><strong>Subir las llaves SSH</strong></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">def upload_keys():
+    &quot;&quot;&quot;
+    Subir las llaves públicas y privadas SSH al servidor remoto por SCP
+    &quot;&quot;&quot;
+    scp_command = &#39;scp {} {}/authorized_keys {}@{}:~/.ssh&#39;.format(
+        env.ssh_keys_name + &#39;.pub&#39;,
+        env.ssh_keys_dir,
+        env.user_name,
+        env.host_string
+    )
+    local(scp_command)</code></pre></div>
+<p>Aquí nosotros:</p>
+<ol>
+<li>Subimos las llaves SSH creadas localmente al servidor remoto entonces usuarios no root pueden ingresar por SSH sin ingresar la contraseña</li>
+<li>Copia la llave pública al servidor remoto en el directorio <em>ssh-keys</em></li>
+</ol>
+<h2>Instalar dependencias de Ansible</h2>
+<p>Agregar la siguiente función para instalar las dependencias para Ansible</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">def install_ansible_dependencies():
+    &quot;&quot;&quot;
+    Instala el módulo python-dnf así que Ansible puede comunicarse con el manejador de paquetes de Fedora
+    &quot;&quot;&quot;
+    run(&#39;dnf install -y python-dnf&#39;)</code></pre></div>
+<blockquote>
+<p>Ten en cuenta que estamos utilizando una distribución de Linux en específico, usando el módulo DNF, que puede variar en otras distribuciones</p>
+</blockquote>
+<h2>Definir el modo permisivo de SELinux</h2>
+<p>La siguiente función define SELinux a un modo permisivo. Esto es hecho para prevenir cualquier error 502 arrojado por NginX.</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">def set_selinux_permissive():
+    &quot;&quot;&quot;
+    Define SELinux pa un modo permisivo/deshabilitado
+    &quot;&quot;&quot;
+    # Para permissos
+    run(&#39;sudo setenforce 0&#39;)</code></pre></div>
+<blockquote>
+<p>De nuevo es una función específica de Fedora</p>
+</blockquote>
+<p>Actualizar el servidor
+Finalmente podemos actualizar el servidor</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">def upgrade_server():
+    &quot;&quot;&quot;
+    Actualizar el servidor como un usuario root
+    &quot;&quot;&quot;
+    run(&#39;dnf upgrade -y&#39;)
+    # Comando opcioanl (necesario para Fedora 25)
+    run(&#39;dnf install -y python&#39;)
+    run(&#39;reboot&#39;)</code></pre></div>
+<h1>Verificación de sanidad</h1>
+<p>Con eso, hemos terminado el script de Fabric, Antes de ejecutarlo, asegúrate de entrar al servidor y cambiar la contraseña de root</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">ssh root@&lt;server-ip-address&gt;
+You are required to change your password immediately (root enforced)
+Changing password for root.
+(current) UNIX password:
+New password:
+Retype new password:</code></pre></div>
+<p>Asegurate de actualizar <code class="language-text">env.password</code> con la nueva contraseña. Sal del servidor y vuelve a la terminal local, y luego ejecuta Fabric</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">fab -f ./prod/fabfile.py start_provision</code></pre></div>
+<p>Si todo fue bien, las nuevas llaves SSH serán generadas y se te preguntará para crear una nueva contraseña, asegurate de hacer esto</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:</code></pre></div>
+<p>Un número de tareas se ejecutarán. Después de que el usuario <code class="language-text">deployer</code> es creado, se te preguntará para agregar una contraseña para el usuario</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">[104.236.66.172] out: Changing password for user deployer.</code></pre></div>
+<p>Donde vas a tener que ingresar luego de que las llaves son subidas</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">deployer@104.236.66.172s password:</code></pre></div>
+<p>Después que este script se ejecute exitosamente, tu no podrás ser capaz de ingresar por ssh como root. En vez de eso, puedes ingresar como el usuario no root <code class="language-text">deployer</code></p>
+<p>Prueba esto </p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">ssh root@&lt;server-ip-address&gt;
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic).</code></pre></div>
+<p>Esto es lo esperado. Entonces para autenticarte neccesitaras algo como:</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">ssh -i ./ssh-keys/104.236.66.172_prod_key deployer@104.236.66.172</code></pre></div>
+<p>Para ingresar correctamente</p>
+<h2>Ansible</h2>
+<p>Ansible es una herramienta de manejo de configuraciones y aprovisionamiento usada para automatizar el despliegue de tareas usando SSH.</p>
+<p>Puedes ejecutar tareas individuales de Ansible en servidores de aplicaciones desde tu consola remotamente y ejecutar tareas en caliente. Las tareas también pueden ser combinadas en un libro de recetas, una colección de muchas recetas, donde cada receta define algunas tareas específicas que son requeridas durante el proceso de despliegue. Ellos son ajecutados contra servidores de aplicaciones durante el proceso de despliegue. Los libros de revetas son escritos en YAML</p>
+<h3>Libros de revetas</h3>
+<p>Los libros de recetas consisten en una arquitectura modular como sigue:</p>
+<ol>
+<li>Hosts: especifican todas las direcciones IP o nombres de dominio de los servidores remotos para orquestar. Los libros de recetas siempre apuntan a un grupo de hosts</li>
+<li>Roles: están divididas en subpartes. Veamos algunas :</li>
+<li>Task: son una colección de múltiples tareas que necesitan ejecutarse durante el proceso de ejecución</li>
+<li>Handlers: proveen una manera de disparar un conjunto de operaciones cuando un módulo hace un cambio en el servidor remoto</li>
+<li>Templates: en este contexto, son usados generalmente para definir algunos archivos de configuración de módulos, como nginx</li>
+<li>Variables: Son una lista simple de parejas llave-valor donde cada llave (una variable) es mapeada a un valor. </li>
+</ol>
+<h3>Ejemplo de libro de recetas</h3>
+<p>Veamos un ejemplo de receta en un solo archivo</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">---
+# My Ansible playbook for configuring Nginx
+- hosts: all
+
+  vars:
+    http_port: 80
+    app_name: django_bootstrap
+
+  tasks:
+    - name: Install nginx
+      dnf: name=nginx state=latest
+
+    - name: Create nginx config file
+      template: src=django_bootstrap.conf dest=/etc/nginx/conf.d/{{ app_name }}.conf
+      become: yes
+      notify:
+        - restart nginx
+
+  handlers:
+    - name: Restart nginx
+      service: name=nginx state=restarted enabled=yes
+      become: yes</code></pre></div>
+<p>Aquí hemos definido lo siguiente:</p>
+<ol>
+<li>Host: como <code class="language-text">hosts: all</code>, que representa que el libro de recetas se ejecutará en todos los servidores listados en el archivo de inventario</li>
+<li>Variables <code class="language-text">http_port: 8 y</code>app<em>name: django</em>bootstrap` para usar en la plantilla</li>
+<li>Task para instalar nginx, definir la configuración del mismo y reiniciarlo</li>
+<li>Handler para reiniciar el serivicio</li>
+</ol>
+<h3>Configurción de los libros de recetas</h3>
+<p>Vamos a configurar un libro de recetas para Django. Agreguemos <em>deploy.yml</em> al directorio “prod”</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# This playbook deploys the whole app stack
+##
+- name: apply common configuration to server
+  hosts: all
+  user: deployer
+  roles:
+    - common</code></pre></div>
+<p>El código anterior, junta los host, usuarios y roles</p>
+<h3>Hosts</h3>
+<p>Agrega un archivo <em>host</em> de texto plano en la carpeta “prod” para listar los servidores bajo sus respectivos grupos.</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">[common]
+&lt;server-ip-address&gt;</code></pre></div>
+<p>En el código anterior, common se refiere a un grupo, bajo el cual se listan un conjunto de direcciones ip.</p>
+<h3>Variables</h3>
+<p>Ahora definimos las variables que serán usadas en los roles. Agrega una nueva carpeta dentro de “prod” llamada <em>group_vars</em>, luego crea un archivo llamado <em>all</em> con formato de texto plano en esa carpeta, aquí definimos las variables para comenzar</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text"># App Name
+app_name: django_bootstrap
+
+# Deployer User and Groups
+deployer_user: deployer
+deployer_group: deployers
+
+# SSH Keys Directory
+ssh_dir: &lt;path-to-your-ssh-keys&gt;</code></pre></div>
+<h3>Roles</h3>
+<p>De nuevo los roles son una colección de diferentes recetas, y todas se ejecutan bajo un rol específico. Crea un nuevo directorio llamado <em>roles</em> en la carpeta prod y luego dentro de roles, una carpeta <em>common</em> , luego crea carpetas con los siguientes nombres task, handlers y templates. De esta manera </p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">??? prod
+?   ??? deploy.yml
+?   ??? fabfile.py
+?   ??? group_vars
+?   ?   ??? all
+?   ??? hosts
+?   ??? roles
+?       ??? common
+?           ??? handlers
+?           ??? tasks
+?           ??? templates
+??? ssh-keys
+    ??? 104.236.66.172_prod_key
+    ??? 104.236.66.172_prod_key.pub
+    ??? authorized_keys</code></pre></div>
+<p>Ahora dentro de task creamos un archivo de texto plano llamado <em>main.yml</em> que servirá como punto de entrada al rol.</p>
+<p>El contenido de este será</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Configure the server for the Django app
+##
+- include: 01_server.yml
+- include: 02_git.yml
+- include: 03_postgres.yml
+- include: 04_dependencies.yml
+- include: 05_migrations.yml
+- include: 06_nginx.yml
+- include: 07_gunicorn.yml
+- include: 08_systemd.yml
+# - include: 09_fix-502.yml</code></pre></div>
+<p>Ahora veremos cada uno de estos archivos</p>
+<p><em>01_server.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Update the DNF package cache and install packages as a root user
+##
+- name: Install required packages
+  dnf: name={{item}} state=latest
+  become: yes
+  with_items:
+    - vim
+    - fail2ban
+    - python3-devel
+    - python-virtualenv
+    - python3-virtualenv
+    - python-devel
+    - gcc
+    - libselinux-python
+    - redhat-rpm-config
+    - libtiff-devel
+    - libjpeg-devel
+    - libzip-devel
+    - freetype-devel
+    - lcms2-devel
+    - libwebp-devel
+    - tcl-devel
+    - tk-devel
+    - policycoreutils-devel</code></pre></div>
+<p>Aquí está una lista de todos los paquetes que van a ser instalados</p>
+<p><em>02_git.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Clone and pull the repo
+##
+- name: Set up git configuration
+  dnf: name=git state=latest
+  become: yes
+
+- name: Clone or pull the latest code
+  git: repo={{ code_repository_url }}
+        dest={{ app_dir }}</code></pre></div>
+<p>y agrega las siguientes variables a <em>group_vars/all</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text"># Github Code&#39;s Repo URL
+code_repository_url: https://github.com/realpython/django-bootstrap
+
+# App Directory
+app_dir: /home/{{ deployer_user }}/{{app_name}}</code></pre></div>
+<p><em>03_postgres.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Set up and configure postgres
+##
+- name: Install and configure db
+  dnf: name={{item}} state=latest
+  become: yes
+  with_items:
+    - postgresql-server
+    - postgresql-contrib
+    - postgresql-devel
+    - python-psycopg2
+
+- name: Run initdb command
+  raw: postgresql-setup initdb
+  become: yes
+
+- name: Start and enable postgres
+  service: name=postgresql enabled=yes state=started
+  become: yes
+
+- name: Create database
+  postgresql_db: name={{ app_name }}
+  become_user: postgres
+  become: yes
+
+- name: Configure a new postgresql user
+  postgresql_user: db={{ app_name }}
+                                name={{ db_user }}
+                                password={{ db_password }}
+                                priv=ALL
+                                role_attr_flags=NOSUPERUSER
+  become: yes
+  become_user: postgres
+  notify:
+    - restart postgres</code></pre></div>
+<p>y en <em>group_vars/all</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text"># DB Configuration
+db_url: postgresql://{{deployer_user}}:{{db_password}}@localhost/{{app_name}}
+db_password: thisissomeseucrepassword
+db_name: &quot;{{ app_name }}&quot;
+db_user: &quot;{{ deployer_user }}&quot;</code></pre></div>
+<p>Cambia <code class="language-text">db_password</code> con una contraseña segura.</p>
+<p>Ahora crea un archivo <em>main.yml</em> en <em>handlers</em> con lo siguiente</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">- name: restart postgres
+  service: name=postgresql state=restarted
+  become: yes</code></pre></div>
+<p><em>04_dependencies.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Set up all the dependencies in a virtualenv required by the Django app
+##
+- name: Create a virtualenv directory
+  file: path={{ venv_dir }} state=directory
+
+- name: Install dependencies
+  pip:    requirements={{ app_dir }}/requirements.txt
+          virtualenv={{ venv_dir }}
+          virtualenv_python=python3.5
+
+- name: Create the .env file for running ad-hoc python commands in our virtualenv
+  template: src=env.j2 dest={{ app_dir }}/.env
+  become: yes</code></pre></div>
+<p>y en <em>group_vars/all</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text"># Application Dependencies Setup
+venv_dir: &#39;/home/{{ deployer_user }}/envs/{{ app_name }}&#39;
+venv_python: &#39;{{ venv_dir }}/bin/python3.5&#39;</code></pre></div>
+<p>y crea un archivo <em>env.j2</em> en la carpeta templates</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">#!/bin/bash
+export DEBUG=&quot;True&quot;
+export DATABASE_URL=&quot;postgresql://deployer:thisissomeseucrepassword@localhost/django_bootstrap&quot;
+export DJANGO_SECRET_KEY=&quot;changeme&quot;
+export DJANGO_SETTINGS_MODULE=&quot;config.settings.production&quot;</code></pre></div>
+<blockquote>
+<p>Ten mucho cuidado con las variables de ambiente y sus valores en <em>env.j2</em>, desde que son usadas por el proyecto.</p>
+</blockquote>
+<p><em>05_migrations.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Run db migrations and get all static files
+##
+- name: Make migrations
+  shell: &quot;. {{ app_dir }}/.env; {{ venv_python }} {{ app_dir }}/manage.py makemigrations &quot;
+  become: yes
+
+- name: Migrate database
+  django_manage: app_path={{ app_dir }}
+                                 command=migrate
+                                 virtualenv={{ venv_dir }}
+
+- name: Get all static files
+  django_manage: app_path={{ app_dir }}
+                                 command=collectstatic
+                                 virtualenv={{ venv_dir }}
+  become: yes</code></pre></div>
+<p><em>06_nginx.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Configure nginx web server
+##
+- name: Set up nginx config
+  dnf: name=nginx state=latest
+  become: yes
+
+- name: Write nginx conf file
+  template: src=django_bootstrap.conf dest=/etc/nginx/conf.d/{{ app_name }}.conf
+  become: yes
+  notify:
+    - restart nginx</code></pre></div>
+<p>En <em>group_vars/all</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text"># Remote Server Details
+server_ip: &lt;remote-server-ip&gt;
+wsgi_server_port: 8000</code></pre></div>
+<p>y en <em>handlers/main.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">- name: restart nginx
+  service: name=nginx state=restarted enabled=yes
+  become: yes</code></pre></div>
+<p>Crea una plantilla llamada <em>django_bootstrap.conf</em> en <em>templates</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">upstream app_server {
+    server 127.0.0.1:{{ wsgi_server_port }} fail_timeout=0;
+}
+
+server {
+    listen 80;
+    server_name {{ server_ip }};
+    access_log /var/log/nginx/{{ app_name }}-access.log;
+    error_log /var/log/nginx/{{ app_name }}-error.log info;
+
+    keepalive_timeout 5;
+
+    # path for staticfiles
+    location /static {
+            autoindex on;
+            alias {{ app_dir }}/staticfiles/;
+    }
+
+    location / {
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header Host $http_host;
+        proxy_redirect off;
+
+        if (!-f $request_filename) {
+            proxy_pass http://app_server;
+            break;
+        }
+    }
+}</code></pre></div>
+<p><em>07_gunicorn.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Set up Gunicorn and configure systemd to execute gunicorn_start script
+##
+- name: Create a deploy directory
+  file: path={{ deploy_dir }} state=directory
+  become: yes
+
+- name: Create the gunicorn_start script for running our app from systemd service
+  template: src=gunicorn_start
+                    dest={{ deploy_dir }}/gunicorn_start
+  become: yes
+
+- name: Make the gunicorn_start script executable
+  raw: cd {{ deploy_dir }}; chmod +x gunicorn_start
+  become: yes</code></pre></div>
+<p>y en <em>groups_vars/all</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text"># Deploy Dir in App Directory
+deploy_dir: &#39;{{ app_dir }}/deploy&#39;
+
+# WSGI Vars
+django_wsgi_module: config.wsgi
+django_settings_module: config.settings.production
+django_secret_key: &#39;changeme&#39;
+database_url: &#39;{{ db_url }}&#39;</code></pre></div>
+<p>y en <em>templates/gunicorn_start</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">#!/bin/bash
+
+### Define script variables
+
+# Name of the app
+NAME=&#39;{{ app_name }}&#39;
+# Path to virtualenv
+VIRTUALENV=&#39;{{ venv_dir }}&#39;
+# Django Project Directory
+DJANGODIR=&#39;{{ app_dir }}&#39;
+# The user to run as
+USER={{ deployer_user }}
+# The group to run as
+GROUP={{deployer_group }}
+# Number of worker processes Gunicorn should spawn
+NUM_WORKERS=3
+# Settings file that Gunicorn should use
+DJANGO_SETTINGS_MODULE={{django_settings_module}}
+# WSGI module name
+DJANGO_WSGI_MODULE={{ django_wsgi_module }}
+
+
+### Activate virtualenv and create environment variables
+
+echo &quot;Starting $NAME as `whoami`&quot;
+# Activate the virtual environment
+cd $VIRTUALENV
+source bin/activate
+cd $DJANGODIR
+# Defining the Environment Variables
+export DJANGO_SECRET_KEY=&#39;{{ django_secret_key }}&#39;
+export DATABASE_URL=&#39;{{ db_url }}&#39;
+export DJANGO_SETTINGS_MODULE=$DJANGO_SETTINGS_MODULE
+export PYTHONPATH=$DJANGODIR:$PYTHONPATH
+
+
+### Start Gunicorn
+
+exec gunicorn ${DJANGO_WSGI_MODULE}:application \
+        --name $NAME \
+        --workers $NUM_WORKERS \
+        --user=$USER --group=$GROUP \
+        --log-level=debug \
+        --bind=127.0.0.1:8000</code></pre></div>
+<p><em>08_systemd.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Set up systemd for executing gunicorn_start script
+##
+- name: write a systemd service file
+  template: src=django-bootstrap.service
+                    dest=/etc/systemd/system
+  become: yes
+  notify:
+    - restart app
+    - restart nginx</code></pre></div>
+<p>Un nuevo template llamado <em>django-bootstrap.service</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">#!/bin/sh
+
+[Unit]
+Description=Django Web App
+After=network.target
+
+[Service]
+PIDFile=/var/run/djangoBootstrap.pid
+User={{ deployer_user }}
+Group={{ deployer_group }}
+ExecStart=/bin/sh {{ deploy_dir }}/gunicorn_start
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target</code></pre></div>
+<p>y lo siguiente a <em>handlers/main.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">- name: restart app
+  service: name=django-bootstrap state=restarted enabled=yes
+  become: yes</code></pre></div>
+<p><em>09_fix-502.yml</em></p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">##
+# Fix the 502 nginx error post deployment
+#
+- name: Fix nginx 502 error
+  raw: cd ~; cat /var/log/audit/audit.log | grep nginx | grep denied | audit2allow -M mynginx; semodule -i mynginx.pp
+  become: yes</code></pre></div>
+<h2>Verificación</h2>
+<p>Ahora usaremos Ansible instalado en nuestro ambiente virtual  para realizar las pruebas</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">pip install ansible==2.1.3</code></pre></div>
+<p>Ahora creamos un nuevo archivo llamado <em>deploy_prod.sh</em> en la carpeta raiz del proyecto y aseguremonos de colocar la dirección IP correcta</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">#!/bin/bash
+
+ansible-playbook ./prod/deploy.yml --private-key=./ssh_keys&lt;server-ip&gt;_prod_key -K -u deployer -i ./prod/hosts -vvv</code></pre></div>
+<p>y luego lo ejecutamos</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">sh deploy_prod.sh</code></pre></div>
+<p>Si existen errores, revisa la terminal para ver como arreglarlos. Una vez terminado podrás usar el script de despliegue y luego podrás visitar la IP para verificar que el sitio web de django está activo</p>
+<p>asegurate de descomentar esta linea en <em>prod/roles/common/tasks/main.yml</em> si ves un mensaje de error 502, que indica que hay un problema entre nginx y gunicorn</p>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text"># - include: 09_fix-502.yml</code></pre></div>
+<h2>Conclusión</h2>
+<p>Este post provee un conocimiento básico de como puedes automatizar la configuración de un servidor con Fabric y Ansible. Los libros de recetas de Ansible son muy poderosos desde que puedes automatizar casi cualquier tarea del servidor con un archivo YAML. Espero que ahora puedas empezar a automatizar tus tareas de servidor usando Ansible y sus libros de recetas.</p>
+<p>Todo el código fuente se encuentra en <a href="https://github.com/realpython/automated-deployments">el repositorio oficial de Real Python</a></p>
+<blockquote>
+<p>La propiedad intelectual de este post pertenece a  <a href="https://realpython.com/">The Real Python</a>, para solicitar la remoción de este post, por favor comuníquese a <a href="mailto:ma0@contraslash.com">ma0@contraslash.com</a></p>
+</blockquote></section><hr style="margin-bottom:1.75rem"/><footer><div style="display:flex;margin-bottom:4.375rem"><div class=" gatsby-image-wrapper" style="position:relative;overflow:hidden;display:inline-block;width:50px;height:50px;margin-right:0.875rem;margin-bottom:0;min-width:50px;border-radius:100%"><img aria-hidden="true" src="data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAUBAgME/8QAFwEBAAMAAAAAAAAAAAAAAAAAAgABA//aAAwDAQACEAMQAAABtTuWpVlGVPBk0HAFf//EABsQAAICAwEAAAAAAAAAAAAAAAECAxMAESMk/9oACAEBAAEFAnOlgZ7cvIZnEYuxj6ZjxjOh/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQEiH/2gAIAQMBAT8BwqOP/8QAGREAAQUAAAAAAAAAAAAAAAAAAAEQEiEx/9oACAECAQE/AbJCY3//xAAgEAABAgUFAAAAAAAAAAAAAAABABECAxASITFBYYGR/9oACAEBAAY/Ai2qYx3A0tPifYlsLBBT8qX3T//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQVH/2gAIAQEAAT8hRVcZF9KXnJkRaRWsbCd3oQNMD6x1eoRshVw76T//2gAMAwEAAgADAAAAENvoAP/EABkRAAIDAQAAAAAAAAAAAAAAAAABESExUf/aAAgBAwEBPxCEpsj00xYf/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEQESExUf/aAAgBAgEBPxBNs0X5A9n/xAAeEAEBAQACAQUAAAAAAAAAAAABEQAhMUFRYXGBkf/aAAgBAQABPxClwdnV0whQo4lO/wAzyyrjkGw+cZbkILxecbfXBH7zSeBntAmta2n5uEBbXZ4N/9k=" alt="Mauricio Collazos" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;object-position:center;opacity:1;transition-delay:500ms;border-radius:50%"/><noscript><picture><source srcset="/blog/static/4f27694bd7811d13157e5e488ad64f43/99438/profile-pic.jpg 1x,
+/blog/static/4f27694bd7811d13157e5e488ad64f43/aba1d/profile-pic.jpg 1.5x,
+/blog/static/4f27694bd7811d13157e5e488ad64f43/b315d/profile-pic.jpg 2x" /><img loading="lazy" width="50" height="50" srcset="/blog/static/4f27694bd7811d13157e5e488ad64f43/99438/profile-pic.jpg 1x,
+/blog/static/4f27694bd7811d13157e5e488ad64f43/aba1d/profile-pic.jpg 1.5x,
+/blog/static/4f27694bd7811d13157e5e488ad64f43/b315d/profile-pic.jpg 2x" src="/blog/static/4f27694bd7811d13157e5e488ad64f43/99438/profile-pic.jpg" alt="Mauricio Collazos" style="position:absolute;top:0;left:0;opacity:1;width:100%;height:100%;object-fit:cover;object-position:center"/></picture></noscript></div><p>Written by <strong>Mauricio Collazos</strong> who lives and works in San Francisco building useful things.<!-- --> <a href="https://twitter.com/kylemathews">You should follow him on Twitter</a></p></div></footer></article><nav><ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0"><li><a rel="prev" href="/blog/145-eliminar-archivos-recursivamente-por-extension/">← <!-- -->Eliminar Archivos Recursivamente por extensión</a></li><li><a rel="next" href="/blog/147-un-jarvis-simple-en-python/">Un jarvis simple en Python<!-- --> →</a></li></ul></nav></main><footer>© <!-- -->2020<!-- -->, Built with<!-- --> <a href="https://www.gatsbyjs.org">Gatsby</a></footer></div></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/146-automatizar-despliegues-de-django-con-fabric-y-ans/";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"app":["/app-7f4c457f706f4e3532a0.js"],"component---src-templates-blog-post-js":["/component---src-templates-blog-post-js-91f25cbabea324181e2e.js"],"component---src-pages-404-js":["/component---src-pages-404-js-a2f8b45d223d87b6d480.js"],"component---src-pages-index-js":["/component---src-pages-index-js-064783c65d7de9adfd28.js"]};/*]]>*/</script><script src="/blog/component---src-templates-blog-post-js-91f25cbabea324181e2e.js" async=""></script><script src="/blog/commons-59e31ba80b4fbbf15d8a.js" async=""></script><script src="/blog/app-7f4c457f706f4e3532a0.js" async=""></script><script src="/blog/styles-e6de4e09d8d0519894be.js" async=""></script><script src="/blog/webpack-runtime-6cee4707e51ef2f691f0.js" async=""></script></body></html>
