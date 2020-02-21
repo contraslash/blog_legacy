@@ -5,3 +5,5 @@ blog_legacy_env
 node_modules
 .cache
 
+public
+
