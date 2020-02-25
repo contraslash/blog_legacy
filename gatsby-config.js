@@ -5,7 +5,7 @@ module.exports = {
     description: ``,
     siteUrl: `https://contraslash.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ma0collazos`,
     },
   },
   plugins: [
