@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog de Contraslash (Legacy)]]></title><description><![CDATA[Blog de Contraslash (Legacy)]]></description><link>https://contraslash.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 Feb 2020 17:20:44 GMT</lastBuildDate><item><title><![CDATA[Creación de Marca]]></title><description><![CDATA[Creación de Marca Objetivos generales Consolidar el esfuerzo del capital humano hacia una visión unificada de marca Identificar…]]></description><link>https://contraslash.com/208-creacion-de-marca/</link><guid isPermaLink="false">https://contraslash.com/208-creacion-de-marca/</guid><pubDate>Mon, 01 Oct 2018 19:36:49 GMT</pubDate><content:encoded>&lt;h1&gt;Creación de Marca&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog de Contraslash (Legacy)]]></title><description><![CDATA[Blog de Contraslash (Legacy)]]></description><link>https://contraslash.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 25 Feb 2020 12:38:08 GMT</lastBuildDate><item><title><![CDATA[Creación de Marca]]></title><description><![CDATA[Creación de Marca Objetivos generales Consolidar el esfuerzo del capital humano hacia una visión unificada de marca Identificar…]]></description><link>https://contraslash.com/208-creacion-de-marca/</link><guid isPermaLink="false">https://contraslash.com/208-creacion-de-marca/</guid><pubDate>Mon, 01 Oct 2018 19:36:49 GMT</pubDate><content:encoded>&lt;h1&gt;Creación de Marca&lt;/h1&gt;
 &lt;p&gt;Objetivos generales&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Consolidar el esfuerzo del capital humano hacia una visión unificada de marca&lt;/li&gt;
@@ -5293,7 +5293,13 @@ sudo service apache2 reload&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &amp;lt;/VirtualHost&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sudo a2ensite gogs.example.com.conf
 sudo service apache2 restart&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Y ya está&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Welcome to Ghost]]></title><description><![CDATA[Welcome to Ghost You’re live! Nice. We’ve put together a little post to introduce you to the Ghost editor and get you started. You can…]]></description><link>https://contraslash.com/1-welcome-to-ghost/</link><guid isPermaLink="false">https://contraslash.com/1-welcome-to-ghost/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Welcome to Ghost&lt;/h1&gt;
+&lt;p&gt;Y ya está&lt;/p&gt;</content:encoded></item><item><title><![CDATA[EditText Android no Editable]]></title><description><![CDATA[EditText Android no Editable]]></description><link>https://contraslash.com/10-edittext-android-no-editable/</link><guid isPermaLink="false">https://contraslash.com/10-edittext-android-no-editable/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;EditText Android no Editable&lt;/h1&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;edittext&amp;gt;
+    ... 
+    android:clickable=&amp;quot;false&amp;quot;  
+    android:cursorVisible=&amp;quot;false&amp;quot;  
+    android:focusable=&amp;quot;false&amp;quot;  
+    android:focusableInTouchMode=&amp;quot;false&amp;quot;/&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Welcome to Ghost]]></title><description><![CDATA[Welcome to Ghost You’re live! Nice. We’ve put together a little post to introduce you to the Ghost editor and get you started. You can…]]></description><link>https://contraslash.com/1-welcome-to-ghost/</link><guid isPermaLink="false">https://contraslash.com/1-welcome-to-ghost/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Welcome to Ghost&lt;/h1&gt;
 &lt;p&gt;You’re live! Nice. We’ve put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code class=&quot;language-text&quot;&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
 &lt;h2&gt;Getting Started&lt;/h2&gt;
 &lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it’s a shorthand way to manage your post formatting as you write!&lt;/p&gt;
@@ -5338,13 +5344,7 @@ sudo service apache2 restart&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3&gt;Advanced Usage&lt;/h3&gt;
 &lt;p&gt;There’s one fantastic secret about Markdown. If you want, you can write plain old HTML and it’ll still work! Very flexible.&lt;/p&gt;
 &lt;input type=&quot;text&quot; placeholder=&quot;I&apos;m an input field!&quot; /&gt;
-&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[EditText Android no Editable]]></title><description><![CDATA[EditText Android no Editable]]></description><link>https://contraslash.com/10-edittext-android-no-editable/</link><guid isPermaLink="false">https://contraslash.com/10-edittext-android-no-editable/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;EditText Android no Editable&lt;/h1&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;edittext&amp;gt;
-    ... 
-    android:clickable=&amp;quot;false&amp;quot;  
-    android:cursorVisible=&amp;quot;false&amp;quot;  
-    android:focusable=&amp;quot;false&amp;quot;  
-    android:focusableInTouchMode=&amp;quot;false&amp;quot;/&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Problemas con el mod_rewrite en VirtualHost]]></title><description><![CDATA[Problemas con el mod_rewrite en VirtualHost Si, es de novatos cometer este tipo de errores, pero hay que asegurarse que si el VirtualHost…]]></description><link>https://contraslash.com/11-problemas-con-el-mod_rewrite-en-virtualhost/</link><guid isPermaLink="false">https://contraslash.com/11-problemas-con-el-mod_rewrite-en-virtualhost/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Problemas con el mod_rewrite en VirtualHost&lt;/h1&gt;
+&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Problemas con el mod_rewrite en VirtualHost]]></title><description><![CDATA[Problemas con el mod_rewrite en VirtualHost Si, es de novatos cometer este tipo de errores, pero hay que asegurarse que si el VirtualHost…]]></description><link>https://contraslash.com/11-problemas-con-el-mod_rewrite-en-virtualhost/</link><guid isPermaLink="false">https://contraslash.com/11-problemas-con-el-mod_rewrite-en-virtualhost/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Problemas con el mod_rewrite en VirtualHost&lt;/h1&gt;
 &lt;p&gt;Si, es de novatos cometer este tipo de errores, pero hay que asegurarse que si el VirtualHost que tenemos habilitado, necesita mod_rewrite, o en general otro módulo, debemos autorizarlo en el site.conf&lt;/p&gt;
 &lt;p&gt;específicamente para mod_rewrite:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;directory&amp;gt;
@@ -5492,20 +5492,24 @@ ProxyPass / http://localhost:2368/&lt;/code&gt;
 &lt;blockquote&gt;
 &lt;p&gt;La empresa XYZ se fundó en 1971 y ha estado ofreciendo “cosas” de calidad al público desde entonces. Situada en Madrid, XYZ emplea a más de 2.000 personas y hace todo tipo de cosas sorprendentes para la comunidad de Madrid.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Si eres nuevo en WordPress deberías ir a &lt;a href=&quot;http://ma0c.me/wp-admin/&quot;&gt;tu escritorio&lt;/a&gt; para borrar esta página y crear páginas nuevas con tu propio contenido. ¡Pásalo bien!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Go Home Screen Android]]></title><description><![CDATA[Go Home Screen Android]]></description><link>https://contraslash.com/24-go-home-screen-android/</link><guid isPermaLink="false">https://contraslash.com/24-go-home-screen-android/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Go Home Screen Android&lt;/h1&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    Intent startMain = new Intent(Intent.ACTION_MAIN);
-    startMain.addCategory(Intent.CATEGORY_HOME);
-    startMain.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-    startActivity(startMain);&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Documentación Angular]]></title><description><![CDATA[Documentación Angular De nuevo, esto es solo una nota para mi yo del futuro, cuando quiera documentar con Angular http://stackoverflow.com…]]></description><link>https://contraslash.com/21-documentacion-angular/</link><guid isPermaLink="false">https://contraslash.com/21-documentacion-angular/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Documentación Angular&lt;/h1&gt;
-&lt;p&gt;De nuevo, esto es solo una nota para mi yo del futuro, cuando quiera documentar con Angular&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/questions/21285960/jsdoc-with-angularjs&quot;&gt;http://stackoverflow.com/questions/21285960/jsdoc-with-angularjs&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Cordova e iOS]]></title><description><![CDATA[Cordova e iOS Definitivamente a ratos Apache Cordova es un real fastidio, mas aún si se trata de un proyecto para iOS, bueno, de por sí…]]></description><link>https://contraslash.com/22-cordova-e-ios/</link><guid isPermaLink="false">https://contraslash.com/22-cordova-e-ios/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Cordova e iOS&lt;/h1&gt;
+&lt;p&gt;Si eres nuevo en WordPress deberías ir a &lt;a href=&quot;http://ma0c.me/wp-admin/&quot;&gt;tu escritorio&lt;/a&gt; para borrar esta página y crear páginas nuevas con tu propio contenido. ¡Pásalo bien!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Cordova e iOS]]></title><description><![CDATA[Cordova e iOS Definitivamente a ratos Apache Cordova es un real fastidio, mas aún si se trata de un proyecto para iOS, bueno, de por sí…]]></description><link>https://contraslash.com/22-cordova-e-ios/</link><guid isPermaLink="false">https://contraslash.com/22-cordova-e-ios/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Cordova e iOS&lt;/h1&gt;
 &lt;p&gt;Definitivamente a ratos Apache Cordova es un real fastidio, mas aún si se trata de un proyecto para iOS, bueno, de por sí programar para iOS es un fastidio.&lt;/p&gt;
 &lt;p&gt;Bueno, en primera instancia, para que se compile bien los plugins hay que o realizar un cordova prepare después de cada cambio o buscar un archivo llamado copy-www-build-step.sh que regularmente en CarpetadelProyecto/platform/cordova/lib.&lt;/p&gt;
 &lt;p&gt;Ahí basta con copiar los archivos de nuestra carpeta www y la carpeta del www en el proyecto así que queda algo como&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;cp -fR ../../www/ www/ 
 SRC_DIR=&amp;quot;www/&amp;quot;
 ...&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Y en principio eso soluciona mucísimos problemas&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando Freeling]]></title><description><![CDATA[Instalando Freeling Primero:  pero resulta que tambien necesito     Luego, si sale algo como 
+&lt;p&gt;Y en principio eso soluciona mucísimos problemas&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Documentación Angular]]></title><description><![CDATA[Documentación Angular De nuevo, esto es solo una nota para mi yo del futuro, cuando quiera documentar con Angular http://stackoverflow.com…]]></description><link>https://contraslash.com/21-documentacion-angular/</link><guid isPermaLink="false">https://contraslash.com/21-documentacion-angular/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Documentación Angular&lt;/h1&gt;
+&lt;p&gt;De nuevo, esto es solo una nota para mi yo del futuro, cuando quiera documentar con Angular&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/questions/21285960/jsdoc-with-angularjs&quot;&gt;http://stackoverflow.com/questions/21285960/jsdoc-with-angularjs&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Go Home Screen Android]]></title><description><![CDATA[Go Home Screen Android]]></description><link>https://contraslash.com/24-go-home-screen-android/</link><guid isPermaLink="false">https://contraslash.com/24-go-home-screen-android/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Go Home Screen Android&lt;/h1&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    Intent startMain = new Intent(Intent.ACTION_MAIN);
+    startMain.addCategory(Intent.CATEGORY_HOME);
+    startMain.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+    startActivity(startMain);&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Go Home Screen Android]]></title><description><![CDATA[Go Home Screen Android]]></description><link>https://contraslash.com/25-go-home-screen-android-2/</link><guid isPermaLink="false">https://contraslash.com/25-go-home-screen-android-2/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Go Home Screen Android&lt;/h1&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;        Intent startMain = new Intent(Intent.ACTION_MAIN);
+        startMain.addCategory(Intent.CATEGORY_HOME);
+        startMain.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        startActivity(startMain);&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Instalando Freeling]]></title><description><![CDATA[Instalando Freeling Primero:  pero resulta que tambien necesito     Luego, si sale algo como 
  toca 
 editar 
 colocar en las lineas del boost…]]></description><link>https://contraslash.com/23-instalando-freeling/</link><guid isPermaLink="false">https://contraslash.com/23-instalando-freeling/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando Freeling&lt;/h1&gt;
@@ -5528,11 +5532,29 @@ endif&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 make
 sudo make install &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt; y ya
-:D &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Go Home Screen Android]]></title><description><![CDATA[Go Home Screen Android]]></description><link>https://contraslash.com/25-go-home-screen-android-2/</link><guid isPermaLink="false">https://contraslash.com/25-go-home-screen-android-2/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Go Home Screen Android&lt;/h1&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;        Intent startMain = new Intent(Intent.ACTION_MAIN);
-        startMain.addCategory(Intent.CATEGORY_HOME);
-        startMain.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-        startActivity(startMain);&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Instalando Oracle Java en Ubuntu]]></title><description><![CDATA[Instalando Oracle Java en Ubuntu Obtenido de webupd8]]></description><link>https://contraslash.com/28-instalando-oracle-java-en-ubuntu/</link><guid isPermaLink="false">https://contraslash.com/28-instalando-oracle-java-en-ubuntu/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando Oracle Java en Ubuntu&lt;/h1&gt;
+:D &lt;/p&gt;</content:encoded></item><item><title><![CDATA[StackEdit, el editor de los dioses]]></title><description><![CDATA[StackEdit, el editor de los dioses Definitivamente Markdown llegó para quedarse, no es que no me guste Ghost, pero es hora de darle una…]]></description><link>https://contraslash.com/26-stackedit-el-editor-de-los-dioses/</link><guid isPermaLink="false">https://contraslash.com/26-stackedit-el-editor-de-los-dioses/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;StackEdit, el editor de los dioses&lt;/h1&gt;
+&lt;p&gt;Definitivamente Markdown llegó para quedarse, no es que no me guste Ghost, pero es hora de darle una probada a stackedit.&lt;/p&gt;
+&lt;p&gt;Como aún soy un novato en node.js, estas aclaraciones puede que le sirvan a otro novato como yo.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm install
+bower install&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Con eso se puede dejar listo un proyecto para comenzar.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;VirtualHost tu.ip:tu.puerto&amp;gt;
+        ServerName nombre.de.tu.sitio.web
+        ServerAdmin tu@correo.com
+        ProxyPreserveHost on
+        ProxyPass / http://tu.ip:puerto.del.servicio/
+
+        ErrorLog /tu/archivo/de/errores
+        CustomLog /tu/archivo/de/control/de/acceso
+&amp;lt;/VirtualHost&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Esto deja listo apache para redireccionar las peticiones http a tu puerto, claro no olvides instalar el mod_proxy&lt;/p&gt;
+&lt;p&gt;Y ya, ahí tengo mi copia de stackedit.io en stackedit.ma0c.me :D&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando HTK]]></title><description><![CDATA[Instalando HTK Para instalar htk es necesario descargar la ultima versión de  Yo necesité instalar esto (estoy en 64bits)]]></description><link>https://contraslash.com/27-instalando-htk/</link><guid isPermaLink="false">https://contraslash.com/27-instalando-htk/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando HTK&lt;/h1&gt;
+&lt;p&gt;Para instalar htk es necesario descargar la ultima versión de &lt;code class=&quot;language-text&quot;&gt;http://htk.eng.cam.ac.uk/download.shtml&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Yo necesité instalar esto (estoy en 64bits)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sudo apt-get install libc6-dev-i386
+sudo apt-get install libx11-dev:i386
+make all
+sudo make install&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Instalando Oracle Java en Ubuntu]]></title><description><![CDATA[Instalando Oracle Java en Ubuntu Obtenido de webupd8]]></description><link>https://contraslash.com/28-instalando-oracle-java-en-ubuntu/</link><guid isPermaLink="false">https://contraslash.com/28-instalando-oracle-java-en-ubuntu/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando Oracle Java en Ubuntu&lt;/h1&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get update
 sudo apt-get install oracle-java8-installer&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -5541,13 +5563,26 @@ Solucion:
 Tomado de stackoverflow]]></description><link>https://contraslash.com/29-instalando-android-studio-en-un-ubuntu-de-64-bits/</link><guid isPermaLink="false">https://contraslash.com/29-instalando-android-studio-en-un-ubuntu-de-64-bits/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando Android Studio en un Ubuntu de 64 bits&lt;/h1&gt;
 &lt;p&gt;Error: &lt;code class=&quot;language-text&quot;&gt;Unable to run mksdcard SDK tool&lt;/code&gt;
 Solucion: &lt;code class=&quot;language-text&quot;&gt;sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6&lt;/code&gt;
-Tomado de &lt;a href=&quot;sudo%20apt-get%20install%20lib32z1%20lib32ncurses5%20lib32bz2-1.0%20lib32stdc++6&quot;&gt;stackoverflow&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando HTK]]></title><description><![CDATA[Instalando HTK Para instalar htk es necesario descargar la ultima versión de  Yo necesité instalar esto (estoy en 64bits)]]></description><link>https://contraslash.com/27-instalando-htk/</link><guid isPermaLink="false">https://contraslash.com/27-instalando-htk/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando HTK&lt;/h1&gt;
-&lt;p&gt;Para instalar htk es necesario descargar la ultima versión de &lt;code class=&quot;language-text&quot;&gt;http://htk.eng.cam.ac.uk/download.shtml&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Yo necesité instalar esto (estoy en 64bits)&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sudo apt-get install libc6-dev-i386
-sudo apt-get install libx11-dev:i386
-make all
-sudo make install&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Registro de usuarios y confirmación por email en Django]]></title><description><![CDATA[Registro de usuarios y confirmación por email en Django Le sugerimos visitar la  versión 2.0 de este post Fuente original: User registration…]]></description><link>https://contraslash.com/30-user-registration-and-email-confirmation-in-django/</link><guid isPermaLink="false">https://contraslash.com/30-user-registration-and-email-confirmation-in-django/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Registro de usuarios y confirmación por email en Django&lt;/h1&gt;
+Tomado de &lt;a href=&quot;sudo%20apt-get%20install%20lib32z1%20lib32ncurses5%20lib32bz2-1.0%20lib32stdc++6&quot;&gt;stackoverflow&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Que onda geeks]]></title><description><![CDATA[Que onda geeks Tenemos a un poco de marmotas trabajando en el nuevo sitio, pero somos un poco ansiosos, asi que luego de frustrarnos por 3…]]></description><link>https://contraslash.com/3-que-onda-geeks/</link><guid isPermaLink="false">https://contraslash.com/3-que-onda-geeks/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Que onda geeks&lt;/h1&gt;
+&lt;p&gt;Tenemos a un poco de marmotas trabajando en el nuevo sitio, pero somos un poco ansiosos, asi que luego de frustrarnos por 30 minutos intentando configurar Joomla, decidimos pasar a WordPress, y vaya que es hermoso :’)&lt;/p&gt;
+&lt;p&gt;Pronto comenzaremos con nuestros tutoriales de Android y NodeJS, realmente esperamos que les sirvan un poco.&lt;/p&gt;
+&lt;p&gt;Con algo parecido al cariño,&lt;/p&gt;
+&lt;p&gt;Ma0&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mostrar errores Formularios Django]]></title><description><![CDATA[Mostrar errores Formularios Django Tomado de StackOverflow]]></description><link>https://contraslash.com/31-show-errors-django/</link><guid isPermaLink="false">https://contraslash.com/31-show-errors-django/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Mostrar errores Formularios Django&lt;/h1&gt;
+&lt;p&gt;Tomado de &lt;a href=&quot;http://stackoverflow.com/questions/14647723/django-forms-if-not-valid-show-form-with-error-message&quot;&gt;StackOverflow&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{% if form.errors %}
+    {% for field in form %}
+        {% for error in field.errors %}
+            &amp;lt;div class=&amp;quot;alert alert-error&amp;quot;&amp;gt;
+                &amp;lt;strong&amp;gt;{{ error|escape }}&amp;lt;/strong&amp;gt;
+            &amp;lt;/div&amp;gt;
+        {% endfor %}
+    {% endfor %}
+    {% for error in form.non_field_errors %}
+        &amp;lt;div class=&amp;quot;alert alert-error&amp;quot;&amp;gt;
+            &amp;lt;strong&amp;gt;{{ error|escape }}&amp;lt;/strong&amp;gt;
+        &amp;lt;/div&amp;gt;
+    {% endfor %}
+{% endif %}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Registro de usuarios y confirmación por email en Django]]></title><description><![CDATA[Registro de usuarios y confirmación por email en Django Le sugerimos visitar la  versión 2.0 de este post Fuente original: User registration…]]></description><link>https://contraslash.com/30-user-registration-and-email-confirmation-in-django/</link><guid isPermaLink="false">https://contraslash.com/30-user-registration-and-email-confirmation-in-django/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Registro de usuarios y confirmación por email en Django&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Le sugerimos visitar la  &lt;a href=&quot;http://blog.contraslash.com/registro-de-usuarios-y-confirmacion-por-email-en-d/&quot;&gt;versión 2.0&lt;/a&gt; de este post&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -5750,44 +5785,7 @@ url(r&amp;#39;^sign_up/&amp;#39;, (&amp;#39;yourappname.views.register_user&amp;
 &lt;p&gt;Espero que lo hayas encontrado entretenido y útil&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Si consideras que hay un error en la traducción o existe algo que se pueda mejorar, no dudes en mandarme un &lt;a href=&quot;mailto://ma0@contraslash.com&quot;&gt;email&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Que onda geeks]]></title><description><![CDATA[Que onda geeks Tenemos a un poco de marmotas trabajando en el nuevo sitio, pero somos un poco ansiosos, asi que luego de frustrarnos por 3…]]></description><link>https://contraslash.com/3-que-onda-geeks/</link><guid isPermaLink="false">https://contraslash.com/3-que-onda-geeks/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Que onda geeks&lt;/h1&gt;
-&lt;p&gt;Tenemos a un poco de marmotas trabajando en el nuevo sitio, pero somos un poco ansiosos, asi que luego de frustrarnos por 30 minutos intentando configurar Joomla, decidimos pasar a WordPress, y vaya que es hermoso :’)&lt;/p&gt;
-&lt;p&gt;Pronto comenzaremos con nuestros tutoriales de Android y NodeJS, realmente esperamos que les sirvan un poco.&lt;/p&gt;
-&lt;p&gt;Con algo parecido al cariño,&lt;/p&gt;
-&lt;p&gt;Ma0&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mostrar errores Formularios Django]]></title><description><![CDATA[Mostrar errores Formularios Django Tomado de StackOverflow]]></description><link>https://contraslash.com/31-show-errors-django/</link><guid isPermaLink="false">https://contraslash.com/31-show-errors-django/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Mostrar errores Formularios Django&lt;/h1&gt;
-&lt;p&gt;Tomado de &lt;a href=&quot;http://stackoverflow.com/questions/14647723/django-forms-if-not-valid-show-form-with-error-message&quot;&gt;StackOverflow&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{% if form.errors %}
-    {% for field in form %}
-        {% for error in field.errors %}
-            &amp;lt;div class=&amp;quot;alert alert-error&amp;quot;&amp;gt;
-                &amp;lt;strong&amp;gt;{{ error|escape }}&amp;lt;/strong&amp;gt;
-            &amp;lt;/div&amp;gt;
-        {% endfor %}
-    {% endfor %}
-    {% for error in form.non_field_errors %}
-        &amp;lt;div class=&amp;quot;alert alert-error&amp;quot;&amp;gt;
-            &amp;lt;strong&amp;gt;{{ error|escape }}&amp;lt;/strong&amp;gt;
-        &amp;lt;/div&amp;gt;
-    {% endfor %}
-{% endif %}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[StackEdit, el editor de los dioses]]></title><description><![CDATA[StackEdit, el editor de los dioses Definitivamente Markdown llegó para quedarse, no es que no me guste Ghost, pero es hora de darle una…]]></description><link>https://contraslash.com/26-stackedit-el-editor-de-los-dioses/</link><guid isPermaLink="false">https://contraslash.com/26-stackedit-el-editor-de-los-dioses/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;StackEdit, el editor de los dioses&lt;/h1&gt;
-&lt;p&gt;Definitivamente Markdown llegó para quedarse, no es que no me guste Ghost, pero es hora de darle una probada a stackedit.&lt;/p&gt;
-&lt;p&gt;Como aún soy un novato en node.js, estas aclaraciones puede que le sirvan a otro novato como yo.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm install
-bower install&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Con eso se puede dejar listo un proyecto para comenzar.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;VirtualHost tu.ip:tu.puerto&amp;gt;
-        ServerName nombre.de.tu.sitio.web
-        ServerAdmin tu@correo.com
-        ProxyPreserveHost on
-        ProxyPass / http://tu.ip:puerto.del.servicio/
-
-        ErrorLog /tu/archivo/de/errores
-        CustomLog /tu/archivo/de/control/de/acceso
-&amp;lt;/VirtualHost&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Esto deja listo apache para redireccionar las peticiones http a tu puerto, claro no olvides instalar el mod_proxy&lt;/p&gt;
-&lt;p&gt;Y ya, ahí tengo mi copia de stackedit.io en stackedit.ma0c.me :D&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Curso de Python]]></title><description><![CDATA[Curso de Python Sin duda, es de lo mejor que he encontrado en materia de como aprender a usar bien python: python-course.eu]]></description><link>https://contraslash.com/34-curso-de-python/</link><guid isPermaLink="false">https://contraslash.com/34-curso-de-python/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Curso de Python&lt;/h1&gt;
-&lt;p&gt;Sin duda, es de lo mejor que he encontrado en materia de como aprender a usar bien python:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.python-course.eu/&quot;&gt;python-course.eu&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Recuperación de contraseña personalizada]]></title><description><![CDATA[Recuperación de contraseña personalizada Tomado de garmoncheg Tenía que hacer  una tarea recientemente. Se trataba de agregar una mecanismo…]]></description><link>https://contraslash.com/32-custom-password-recovery/</link><guid isPermaLink="false">https://contraslash.com/32-custom-password-recovery/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Recuperación de contraseña personalizada&lt;/h1&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Recuperación de contraseña personalizada]]></title><description><![CDATA[Recuperación de contraseña personalizada Tomado de garmoncheg Tenía que hacer  una tarea recientemente. Se trataba de agregar una mecanismo…]]></description><link>https://contraslash.com/32-custom-password-recovery/</link><guid isPermaLink="false">https://contraslash.com/32-custom-password-recovery/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Recuperación de contraseña personalizada&lt;/h1&gt;
 &lt;p&gt;Tomado de &lt;a href=&quot;http://garmoncheg.blogspot.com.au/2012/07/django-resetting-passwords-with.html&quot;&gt;garmoncheg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Tenía que hacer  una tarea recientemente. Se trataba de agregar una mecanismo para recuperar contraseña en un proyecto de django. Nosotros teníamos nuestro propio sistema de registro funcionando …
 Era un proyecto del sector corporativo, así que no podías irte registrando por ti mismo. Administradores, probablemente con sincronización  LDAP, registraban tu email/login en el sistema. Así que tenías que definir tu propia contraseña. Por razones de seguridad, no podías registrarte. Punto.&lt;/p&gt;
@@ -5942,7 +5940,26 @@ El equipo{{ site_name }}.
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;urlpatterns = patterns(&amp;#39;&amp;#39;,
     url(r&amp;#39;^coolresource/(?P&amp;lt;param&amp;gt;\d+)/$&amp;#39;, 
         RedirectSomewhere.as_view()),
-)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Configurando una máquina con Django, Apache y Virtualenv]]></title><description><![CDATA[Configurando una máquina con Django, Apache y Virtualenv Primero necesitamos un Ubuntu Virgen
+)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Curso de Python]]></title><description><![CDATA[Curso de Python Sin duda, es de lo mejor que he encontrado en materia de como aprender a usar bien python: python-course.eu]]></description><link>https://contraslash.com/34-curso-de-python/</link><guid isPermaLink="false">https://contraslash.com/34-curso-de-python/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Curso de Python&lt;/h1&gt;
+&lt;p&gt;Sin duda, es de lo mejor que he encontrado en materia de como aprender a usar bien python:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.python-course.eu/&quot;&gt;python-course.eu&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Orden de instalación de programas en un PC nuevo]]></title><description><![CDATA[Orden de instalación de programas en un PC nuevo Definitivamente el orden en el que se instalan las cosas en un pc, define mucho sobre la…]]></description><link>https://contraslash.com/36-orden-de-instalacion-de-programas-en-un-pc-nuevo/</link><guid isPermaLink="false">https://contraslash.com/36-orden-de-instalacion-de-programas-en-un-pc-nuevo/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Orden de instalación de programas en un PC nuevo&lt;/h1&gt;
+&lt;p&gt;Definitivamente el orden en el que se instalan las cosas en un pc, define mucho sobre la personalidad y prioridades de las personas.&lt;/p&gt;
+&lt;p&gt;En mi caso, el orden es:
+Google Chrome
+Dropbox
+JDK Java
+VirtualBox
+Vagrant
+XCode
+Android Studio
+Pycharm&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando joomscan en Ubuntu 14.04]]></title><description><![CDATA[Instalando joomscan en Ubuntu 14.04 Primero son necesarias algunas librerías de perl  Luego basta con descargar descomprimir y disfrutar…]]></description><link>https://contraslash.com/37-installing-joomscan-ubuntu-14-04/</link><guid isPermaLink="false">https://contraslash.com/37-installing-joomscan-ubuntu-14-04/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando joomscan en Ubuntu 14.04&lt;/h1&gt;
+&lt;p&gt;Primero son necesarias algunas librerías de perl&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;sudo apt-get install libwww-perl libwww-mechanize-perl libswitch-perl&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Luego basta con descargar descomprimir y disfrutar&lt;/p&gt;
+&lt;p&gt;Aquí está el &lt;a href=&quot;http://sourceforge.net/projects/joomscan/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Para realizar un escaneo, debe usarse un comando como este
+&lt;code class=&quot;language-text&quot;&gt;perl joomscan.pl -u http://joomla.site.domain&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Basado en &lt;a href=&quot;http://samiux.blogspot.com/2013/05/howto-joomscan-on-ubuntu-desktop-1204.html&quot;&gt;este&lt;/a&gt; post&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Configurando una máquina con Django, Apache y Virtualenv]]></title><description><![CDATA[Configurando una máquina con Django, Apache y Virtualenv Primero necesitamos un Ubuntu Virgen
 Actualizamos el sistema
   Instalamos pip y las…]]></description><link>https://contraslash.com/35-configurando-una-maquina-con-django-apache-y-virtu/</link><guid isPermaLink="false">https://contraslash.com/35-configurando-una-maquina-con-django-apache-y-virtu/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Configurando una máquina con Django, Apache y Virtualenv&lt;/h1&gt;
 &lt;p&gt;Primero necesitamos un Ubuntu Virgen
@@ -5991,24 +6008,7 @@ Actualizamos el sistema
 &amp;lt;/VirtualHost&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt; luego&lt;/p&gt;
 &lt;p&gt; &lt;code class=&quot;language-text&quot;&gt;sudo a2ensite nombredominio.com&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;sudo service apache2 reload&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Orden de instalación de programas en un PC nuevo]]></title><description><![CDATA[Orden de instalación de programas en un PC nuevo Definitivamente el orden en el que se instalan las cosas en un pc, define mucho sobre la…]]></description><link>https://contraslash.com/36-orden-de-instalacion-de-programas-en-un-pc-nuevo/</link><guid isPermaLink="false">https://contraslash.com/36-orden-de-instalacion-de-programas-en-un-pc-nuevo/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Orden de instalación de programas en un PC nuevo&lt;/h1&gt;
-&lt;p&gt;Definitivamente el orden en el que se instalan las cosas en un pc, define mucho sobre la personalidad y prioridades de las personas.&lt;/p&gt;
-&lt;p&gt;En mi caso, el orden es:
-Google Chrome
-Dropbox
-JDK Java
-VirtualBox
-Vagrant
-XCode
-Android Studio
-Pycharm&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando joomscan en Ubuntu 14.04]]></title><description><![CDATA[Instalando joomscan en Ubuntu 14.04 Primero son necesarias algunas librerías de perl  Luego basta con descargar descomprimir y disfrutar…]]></description><link>https://contraslash.com/37-installing-joomscan-ubuntu-14-04/</link><guid isPermaLink="false">https://contraslash.com/37-installing-joomscan-ubuntu-14-04/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando joomscan en Ubuntu 14.04&lt;/h1&gt;
-&lt;p&gt;Primero son necesarias algunas librerías de perl&lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;sudo apt-get install libwww-perl libwww-mechanize-perl libswitch-perl&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Luego basta con descargar descomprimir y disfrutar&lt;/p&gt;
-&lt;p&gt;Aquí está el &lt;a href=&quot;http://sourceforge.net/projects/joomscan/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Para realizar un escaneo, debe usarse un comando como este
-&lt;code class=&quot;language-text&quot;&gt;perl joomscan.pl -u http://joomla.site.domain&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Basado en &lt;a href=&quot;http://samiux.blogspot.com/2013/05/howto-joomscan-on-ubuntu-desktop-1204.html&quot;&gt;este&lt;/a&gt; post&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando wpscan en Ubuntu 14.04]]></title><description><![CDATA[Instalando wpscan en Ubuntu 14.04 Primero necesitas instalar algunas dependencias
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;sudo service apache2 reload&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando wpscan en Ubuntu 14.04]]></title><description><![CDATA[Instalando wpscan en Ubuntu 14.04 Primero necesitas instalar algunas dependencias
  Ahora clona  o descarga wpscan  Descomprime la carpeta…]]></description><link>https://contraslash.com/38-installing-wpscan-on-ubuntu-14-04/</link><guid isPermaLink="false">https://contraslash.com/38-installing-wpscan-on-ubuntu-14-04/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando wpscan en Ubuntu 14.04&lt;/h1&gt;
 &lt;p&gt;Primero necesitas instalar algunas dependencias
 &lt;code class=&quot;language-text&quot;&gt;sudo apt-get install ruby-dev libxslt1-dev libxml2-dev libcurl4-gnutls-dev&lt;/code&gt;&lt;/p&gt;
@@ -6019,8 +6019,7 @@ Pycharm&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando jooms
 sudo bundle install&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Disgruta&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ruby wpscan http://wordpress.site.domain&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Basado en  &lt;a href=&quot;https://hackertarget.com/wpscan-install-ubuntu/&quot;&gt;este&lt;/a&gt; post&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Correr PocketSphinx con voxforge0.2]]></title><description><![CDATA[Correr PocketSphinx con voxforge0.2]]></description><link>https://contraslash.com/4-correr-pocketsphinx-con-voxforge0-2/</link><guid isPermaLink="false">https://contraslash.com/4-correr-pocketsphinx-con-voxforge0-2/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Correr PocketSphinx con voxforge0.2&lt;/h1&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;pocketsphinx_continuous -hmm ~/Desktop/Tesis/corpus/voxforge-es-0.2/model_parameters/voxforge_es_sphinx.cd_ptm_3000/ -lm ~/Desktop/Tesis/corpus/voxforge-es-0.2/etc/voxforge_es_sphinx.transcription.test.lm -dict ~/Desktop/Tesis/corpus/voxforge-es-0.2/etc/voxforge_es_sphinx.dic -infile ~/Desktop/Tesis/test/pruebadesonidonumero1.wav&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Creando una memoria booteable con Ubuntu desde mac]]></title><description><![CDATA[Creando una memoria booteable con Ubuntu desde mac Tomado de  aquí  Primero debemos descargar un iso de ubuntu, puede hacerse desde  aquí o…]]></description><link>https://contraslash.com/39-create-bootable-ubuntu-usb-stick-from-mac/</link><guid isPermaLink="false">https://contraslash.com/39-create-bootable-ubuntu-usb-stick-from-mac/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Creando una memoria booteable con Ubuntu desde mac&lt;/h1&gt;
+&lt;p&gt;Basado en  &lt;a href=&quot;https://hackertarget.com/wpscan-install-ubuntu/&quot;&gt;este&lt;/a&gt; post&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Creando una memoria booteable con Ubuntu desde mac]]></title><description><![CDATA[Creando una memoria booteable con Ubuntu desde mac Tomado de  aquí  Primero debemos descargar un iso de ubuntu, puede hacerse desde  aquí o…]]></description><link>https://contraslash.com/39-create-bootable-ubuntu-usb-stick-from-mac/</link><guid isPermaLink="false">https://contraslash.com/39-create-bootable-ubuntu-usb-stick-from-mac/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Creando una memoria booteable con Ubuntu desde mac&lt;/h1&gt;
 &lt;p&gt;Tomado de  &lt;a href=&quot;http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx&quot;&gt;aquí&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;Primero debemos descargar un iso de ubuntu, puede hacerse desde  &lt;a href=&quot;http://www.ubuntu.com/download/desktop&quot;&gt;aquí&lt;/a&gt; o desde tu mirror favorito&lt;/p&gt;
 &lt;p&gt;Luego convertimos el .iso a un .img&lt;/p&gt;
@@ -6033,19 +6032,9 @@ sudo bundle install&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;PD: dd toma bastante tiempo, así que ve por un café o algo así&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Recuerda que N es el número del disco donde vas a instalar ubuntu, no queremos  borrar el disco duro&lt;/p&gt;
-&lt;p&gt;Y eso es todo, ya puedes instalar ubuntu desde tu memoria&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Install Java Manually]]></title><description><![CDATA[Install Java Manually http://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04]]></description><link>https://contraslash.com/40-install-java-manually/</link><guid isPermaLink="false">https://contraslash.com/40-install-java-manually/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Install Java Manually&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04&quot;&gt;http://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando PHPPgAdmin en Ubuntu 14.04]]></title><description><![CDATA[Instalando PHPPgAdmin en Ubuntu 14.04 Instalamos
- Luego editamos el archivo  y comentamos la linea que solo permite conectarse desde…]]></description><link>https://contraslash.com/42-instalando-phppgadmin-en-ubuntu-14-04/</link><guid isPermaLink="false">https://contraslash.com/42-instalando-phppgadmin-en-ubuntu-14-04/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando PHPPgAdmin en Ubuntu 14.04&lt;/h1&gt;
-&lt;p&gt;Instalamos
-&lt;code class=&quot;language-text&quot;&gt;sudo apt-get install postgresql postgresql-contrib phppgadmin&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Luego editamos el archivo &lt;code class=&quot;language-text&quot;&gt;/etc/apache2/conf.d/phppgadmin&lt;/code&gt; y comentamos la linea que solo permite conectarse desde localhost y permitimos desde todos&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;order deny,allow
-deny from all
-# allow from 127.0.0.0/255.0.0.0 ::1/128
-allow from all&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Luego copiamos nuestro archivo de configuración a la carpeta de configuraciones de apache y reiniciamos el servicio&lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;sudo cp /etc/apache2/conf.d/phppgadmin /etc/apache2/conf-enabled/phppgadmin.conf&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;sudo service apache2 restart&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando GeoDjango con Postgresql en DigitalOcean con Ubuntu 14.04]]></title><description><![CDATA[Instalando GeoDjango con Postgresql en DigitalOcean con Ubuntu 14.04 apt-get update Instalamos compiladores de C y otro utiles sudo apt-get…]]></description><link>https://contraslash.com/41-instalando-geodjango-con-postgresql-en-digitalocea/</link><guid isPermaLink="false">https://contraslash.com/41-instalando-geodjango-con-postgresql-en-digitalocea/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando GeoDjango con Postgresql en DigitalOcean con Ubuntu 14.04&lt;/h1&gt;
+&lt;p&gt;Y eso es todo, ya puedes instalar ubuntu desde tu memoria&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Correr PocketSphinx con voxforge0.2]]></title><description><![CDATA[Correr PocketSphinx con voxforge0.2]]></description><link>https://contraslash.com/4-correr-pocketsphinx-con-voxforge0-2/</link><guid isPermaLink="false">https://contraslash.com/4-correr-pocketsphinx-con-voxforge0-2/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Correr PocketSphinx con voxforge0.2&lt;/h1&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;pocketsphinx_continuous -hmm ~/Desktop/Tesis/corpus/voxforge-es-0.2/model_parameters/voxforge_es_sphinx.cd_ptm_3000/ -lm ~/Desktop/Tesis/corpus/voxforge-es-0.2/etc/voxforge_es_sphinx.transcription.test.lm -dict ~/Desktop/Tesis/corpus/voxforge-es-0.2/etc/voxforge_es_sphinx.dic -infile ~/Desktop/Tesis/test/pruebadesonidonumero1.wav&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Install Java Manually]]></title><description><![CDATA[Install Java Manually http://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04]]></description><link>https://contraslash.com/40-install-java-manually/</link><guid isPermaLink="false">https://contraslash.com/40-install-java-manually/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Install Java Manually&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04&quot;&gt;http://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando GeoDjango con Postgresql en DigitalOcean con Ubuntu 14.04]]></title><description><![CDATA[Instalando GeoDjango con Postgresql en DigitalOcean con Ubuntu 14.04 apt-get update Instalamos compiladores de C y otro utiles sudo apt-get…]]></description><link>https://contraslash.com/41-instalando-geodjango-con-postgresql-en-digitalocea/</link><guid isPermaLink="false">https://contraslash.com/41-instalando-geodjango-con-postgresql-en-digitalocea/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando GeoDjango con Postgresql en DigitalOcean con Ubuntu 14.04&lt;/h1&gt;
 &lt;p&gt;apt-get update&lt;/p&gt;
 &lt;h1&gt;Instalamos compiladores de C y otro utiles&lt;/h1&gt;
 &lt;p&gt;sudo apt-get install build-essential&lt;/p&gt;
@@ -6089,7 +6078,18 @@ cd postgis-2.1.5&lt;/p&gt;
 &lt;p&gt;sudo apt-get install libpq-dev libxml2-dev&lt;/p&gt;
 &lt;p&gt;./configure
 make
-sudo make install&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Configurando Google Maps a la vieja escuela]]></title><description><![CDATA[Configurando Google Maps a la vieja escuela Primero necesitamos la firma de nuestro equipo, si estás en sistemas Xnix 
+sudo make install&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalando PHPPgAdmin en Ubuntu 14.04]]></title><description><![CDATA[Instalando PHPPgAdmin en Ubuntu 14.04 Instalamos
+ Luego editamos el archivo  y comentamos la linea que solo permite conectarse desde…]]></description><link>https://contraslash.com/42-instalando-phppgadmin-en-ubuntu-14-04/</link><guid isPermaLink="false">https://contraslash.com/42-instalando-phppgadmin-en-ubuntu-14-04/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalando PHPPgAdmin en Ubuntu 14.04&lt;/h1&gt;
+&lt;p&gt;Instalamos
+&lt;code class=&quot;language-text&quot;&gt;sudo apt-get install postgresql postgresql-contrib phppgadmin&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Luego editamos el archivo &lt;code class=&quot;language-text&quot;&gt;/etc/apache2/conf.d/phppgadmin&lt;/code&gt; y comentamos la linea que solo permite conectarse desde localhost y permitimos desde todos&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;order deny,allow
+deny from all
+# allow from 127.0.0.0/255.0.0.0 ::1/128
+allow from all&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Luego copiamos nuestro archivo de configuración a la carpeta de configuraciones de apache y reiniciamos el servicio&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;sudo cp /etc/apache2/conf.d/phppgadmin /etc/apache2/conf-enabled/phppgadmin.conf&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;sudo service apache2 restart&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Configurando Google Maps a la vieja escuela]]></title><description><![CDATA[Configurando Google Maps a la vieja escuela Primero necesitamos la firma de nuestro equipo, si estás en sistemas Xnix 
  Si estás en Windows…]]></description><link>https://contraslash.com/43-configurando-google-maps-a-la-vieja-escuela/</link><guid isPermaLink="false">https://contraslash.com/43-configurando-google-maps-a-la-vieja-escuela/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Configurando Google Maps a la vieja escuela&lt;/h1&gt;
 &lt;p&gt;Primero necesitamos la firma de nuestro equipo, si estás en sistemas Xnix
 &lt;code class=&quot;language-text&quot;&gt;keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android&lt;/code&gt;&lt;/p&gt;
@@ -6115,7 +6115,20 @@ sudo apt install php7.0 php7.0-mysql libapache2-mod-php7.0 php7.0-cli php7.0-cgi
 &lt;p&gt;En muchas ocasiones entiendo porque muchos desarrolladores prefieren un hosting compartido que haga el trabajo sucio (en la mayoría de ocasiones mal hecho) por ellos, y pequeños detalles como el que les mencionaré es uno de ellos.&lt;/p&gt;
 &lt;p&gt;Érase una vez un joven que estaba migrando su proyecto de Desarrollo a Producción, ese proyecto usaba REST Framework y su módulo de autenticación por tokens, pero olvidó poner en su VirtualHost la siguiente línea&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;WSGIPassAuthorization On&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Ello hizo que perdiera 40 minutos preguntándose porque siempre le aparecía el error de falta de autenticación.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A propósito de errores de novatos con Apache y Django]]></title><description><![CDATA[A propósito de errores de novatos con Apache y Django Antes de en serio comenzar con este menaje, no olviden instalar la librería de apache…]]></description><link>https://contraslash.com/47-a-proposito-de-errores-de-novatos-con-apache-y-dja/</link><guid isPermaLink="false">https://contraslash.com/47-a-proposito-de-errores-de-novatos-con-apache-y-dja/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;A propósito de errores de novatos con Apache y Django&lt;/h1&gt;
+&lt;p&gt;Ello hizo que perdiera 40 minutos preguntándose porque siempre le aparecía el error de falta de autenticación.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Problemas subiendo archivos en producción con Django y Apache en Ubuntu]]></title><description><![CDATA[Problemas subiendo archivos en producción con Django y Apache en Ubuntu El tema de la subida de archivos a nuestro servidor siempre es un…]]></description><link>https://contraslash.com/45-problemas-subiendo-archivos-en-produccion-en-djang/</link><guid isPermaLink="false">https://contraslash.com/45-problemas-subiendo-archivos-en-produccion-en-djang/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Problemas subiendo archivos en producción con Django y Apache en Ubuntu&lt;/h1&gt;
+&lt;p&gt;El tema de la subida de archivos a nuestro servidor siempre es un tema delicado, y molesto en muchas ocasiones por el asunto de los permisos.&lt;/p&gt;
+&lt;p&gt;Una solución del tipo &lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;chmod -R 777 /var/www/html&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;es algo que no debe pasarnos por la cabeza&lt;/p&gt;
+&lt;p&gt;un &lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;chown -R www-data:www-data /var/www/html&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;No es tan mala, pero nos mete en serios problemas si secuestran el usuario de apache.&lt;/p&gt;
+&lt;p&gt;Una solución razonable, la encontré en este &lt;a href=&quot;http://stackoverflow.com/questions/21797372/django-errno-13-permission-denied-var-www-media-animals-user-uploads&quot;&gt;post&lt;/a&gt; de StackOverflow&lt;/p&gt;
+&lt;p&gt;Es bastante límpia, creamos un grupo nuevo, añadimos www-data al grupo, definimos el grupo de /var/www/html al nuevo grupo y luego al sistema de carpetas le damos permisos de tipo 770, que termina hacienod un poco mas seguro nuestro sistema&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sudo groupadd varwwwusers
+sudo adduser www-data varwwwusers
+sudo chgrp -R varwwwusers /var/www/html
+sudo chmod -R 770 /var/www/html&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[A propósito de errores de novatos con Apache y Django]]></title><description><![CDATA[A propósito de errores de novatos con Apache y Django Antes de en serio comenzar con este menaje, no olviden instalar la librería de apache…]]></description><link>https://contraslash.com/47-a-proposito-de-errores-de-novatos-con-apache-y-dja/</link><guid isPermaLink="false">https://contraslash.com/47-a-proposito-de-errores-de-novatos-con-apache-y-dja/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;A propósito de errores de novatos con Apache y Django&lt;/h1&gt;
 &lt;p&gt;Antes de en serio comenzar con este menaje, no olviden instalar la librería de apache mod-wsgi&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;sudo apt-get install libapache2-mod-wsgi&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;y activarla&lt;/p&gt;
@@ -6256,22 +6269,7 @@ umano SlidingUpPanel para android, no olvides poner el prefijo unabi a todos los
         protected void onPostExecute(String address) {
 
         }
-    }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Problemas subiendo archivos en producción con Django y Apache en Ubuntu]]></title><description><![CDATA[Problemas subiendo archivos en producción con Django y Apache en Ubuntu El tema de la subida de archivos a nuestro servidor siempre es un…]]></description><link>https://contraslash.com/45-problemas-subiendo-archivos-en-produccion-en-djang/</link><guid isPermaLink="false">https://contraslash.com/45-problemas-subiendo-archivos-en-produccion-en-djang/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Problemas subiendo archivos en producción con Django y Apache en Ubuntu&lt;/h1&gt;
-&lt;p&gt;El tema de la subida de archivos a nuestro servidor siempre es un tema delicado, y molesto en muchas ocasiones por el asunto de los permisos.&lt;/p&gt;
-&lt;p&gt;Una solución del tipo &lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;chmod -R 777 /var/www/html&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;es algo que no debe pasarnos por la cabeza&lt;/p&gt;
-&lt;p&gt;un &lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;chown -R www-data:www-data /var/www/html&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;No es tan mala, pero nos mete en serios problemas si secuestran el usuario de apache.&lt;/p&gt;
-&lt;p&gt;Una solución razonable, la encontré en este &lt;a href=&quot;http://stackoverflow.com/questions/21797372/django-errno-13-permission-denied-var-www-media-animals-user-uploads&quot;&gt;post&lt;/a&gt; de StackOverflow&lt;/p&gt;
-&lt;p&gt;Es bastante límpia, creamos un grupo nuevo, añadimos www-data al grupo, definimos el grupo de /var/www/html al nuevo grupo y luego al sistema de carpetas le damos permisos de tipo 770, que termina hacienod un poco mas seguro nuestro sistema&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sudo groupadd varwwwusers
-sudo adduser www-data varwwwusers
-sudo chgrp -R varwwwusers /var/www/html
-sudo chmod -R 770 /var/www/html&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Android Material Tabs]]></title><description><![CDATA[Android Material Tabs https://guides.codepath.com/android/Google-Play-Style-Tabs-using-TabLayout http://www.android4devs.com/2015/01/how-to…]]></description><link>https://contraslash.com/52-android-material-tabs/</link><guid isPermaLink="false">https://contraslash.com/52-android-material-tabs/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Android Material Tabs&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://guides.codepath.com/android/Google-Play-Style-Tabs-using-TabLayout&quot;&gt;https://guides.codepath.com/android/Google-Play-Style-Tabs-using-TabLayout&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.android4devs.com/2015/01/how-to-make-material-design-sliding-tabs.html&quot;&gt;http://www.android4devs.com/2015/01/how-to-make-material-design-sliding-tabs.html&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[NavigationView Android Material]]></title><description><![CDATA[NavigationView Android Material Definitivamente tener una lista de enlaces útiles  que saquen de apuros es algo maravilloso, y este artículo…]]></description><link>https://contraslash.com/51-navigationview-android-material/</link><guid isPermaLink="false">https://contraslash.com/51-navigationview-android-material/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;NavigationView Android Material&lt;/h1&gt;
+    }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[NavigationView Android Material]]></title><description><![CDATA[NavigationView Android Material Definitivamente tener una lista de enlaces útiles  que saquen de apuros es algo maravilloso, y este artículo…]]></description><link>https://contraslash.com/51-navigationview-android-material/</link><guid isPermaLink="false">https://contraslash.com/51-navigationview-android-material/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;NavigationView Android Material&lt;/h1&gt;
 &lt;p&gt;Definitivamente tener una lista de enlaces útiles  que saquen de apuros es algo maravilloso, y &lt;a href=&quot;http://blog.xebia.com/2015/06/09/android-design-support-navigationview/&quot;&gt;este artículo&lt;/a&gt; definitivamente me ha sacado de apuros mas de una vez.&lt;/p&gt;
 &lt;p&gt;Para la definición del layout principal necesitaremos una estructura similar a esta&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;android.support.v4.widget.DrawerLayout
@@ -6420,8 +6418,9 @@ public class MainActivity extends AppCompatActivity implements
     &amp;lt;string name=&amp;quot;close&amp;quot;&amp;gt;Cerrar&amp;lt;/string&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ATENCIÓN: Los snippets anteriores son solo una plantilla, deben ajustarse a la necesidad específica de cada proyecto&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Tutoriales utiles]]></title><description><![CDATA[Tutoriales utiles Verificar  este sitio esta brutal]]></description><link>https://contraslash.com/54-tutoriales-utiles/</link><guid isPermaLink="false">https://contraslash.com/54-tutoriales-utiles/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Tutoriales utiles&lt;/h1&gt;
-&lt;p&gt;Verificar  &lt;a href=&quot;http://tldp.org/&quot;&gt;este sitio&lt;/a&gt; esta brutal&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CSRF Exempt en vistas basadas en clases]]></title><description><![CDATA[CSRF Exempt en vistas basadas en clases Esto es altamente peligroso, cabe aclarar, porque deja al sitio vulnerable a un xss, pero igual para…]]></description><link>https://contraslash.com/53-crf/</link><guid isPermaLink="false">https://contraslash.com/53-crf/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;CSRF Exempt en vistas basadas en clases&lt;/h1&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Android Material Tabs]]></title><description><![CDATA[Android Material Tabs https://guides.codepath.com/android/Google-Play-Style-Tabs-using-TabLayout http://www.android4devs.com/2015/01/how-to…]]></description><link>https://contraslash.com/52-android-material-tabs/</link><guid isPermaLink="false">https://contraslash.com/52-android-material-tabs/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Android Material Tabs&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://guides.codepath.com/android/Google-Play-Style-Tabs-using-TabLayout&quot;&gt;https://guides.codepath.com/android/Google-Play-Style-Tabs-using-TabLayout&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.android4devs.com/2015/01/how-to-make-material-design-sliding-tabs.html&quot;&gt;http://www.android4devs.com/2015/01/how-to-make-material-design-sliding-tabs.html&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CSRF Exempt en vistas basadas en clases]]></title><description><![CDATA[CSRF Exempt en vistas basadas en clases Esto es altamente peligroso, cabe aclarar, porque deja al sitio vulnerable a un xss, pero igual para…]]></description><link>https://contraslash.com/53-crf/</link><guid isPermaLink="false">https://contraslash.com/53-crf/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;CSRF Exempt en vistas basadas en clases&lt;/h1&gt;
 &lt;p&gt;Esto es altamente peligroso, cabe aclarar, porque deja al sitio vulnerable a un &lt;a href=&quot;https://es.wikipedia.org/wiki/Cross-site_scripting&quot;&gt;xss&lt;/a&gt;, pero igual para ambiente de pruebas es útil&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from django.views.generic import View
 from django.views.decorators.csrf import csrf_exempt
@@ -6437,7 +6436,8 @@ class MiVista(View):
 
         ...&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Si lo que están haciendo son peticiones ajax desde un navegador, consideren usar &lt;a href=&quot;https://docs.djangoproject.com/en/1.7/ref/contrib/csrf/#ajax&quot;&gt;esto&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;y si es un api para móviles, en serio, migren a &lt;a href=&quot;http://www.django-rest-framework.org/&quot;&gt;REST Framework&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[pythonPojoGenerator.py]]></title><description><![CDATA[pythonPojoGenerator.py A pesar que no esté bien dicho hablar de un POJO en python, el concepto de encapsulamiento a mi concepto siempre debe…]]></description><link>https://contraslash.com/56-pythonpojogenerator-py/</link><guid isPermaLink="false">https://contraslash.com/56-pythonpojogenerator-py/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;pythonPojoGenerator.py&lt;/h1&gt;
+&lt;p&gt;y si es un api para móviles, en serio, migren a &lt;a href=&quot;http://www.django-rest-framework.org/&quot;&gt;REST Framework&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Tutoriales utiles]]></title><description><![CDATA[Tutoriales utiles Verificar  este sitio esta brutal]]></description><link>https://contraslash.com/54-tutoriales-utiles/</link><guid isPermaLink="false">https://contraslash.com/54-tutoriales-utiles/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Tutoriales utiles&lt;/h1&gt;
+&lt;p&gt;Verificar  &lt;a href=&quot;http://tldp.org/&quot;&gt;este sitio&lt;/a&gt; esta brutal&lt;/p&gt;</content:encoded></item><item><title><![CDATA[pythonPojoGenerator.py]]></title><description><![CDATA[pythonPojoGenerator.py A pesar que no esté bien dicho hablar de un POJO en python, el concepto de encapsulamiento a mi concepto siempre debe…]]></description><link>https://contraslash.com/56-pythonpojogenerator-py/</link><guid isPermaLink="false">https://contraslash.com/56-pythonpojogenerator-py/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;pythonPojoGenerator.py&lt;/h1&gt;
 &lt;p&gt;A pesar que no esté bien dicho hablar de un POJO en python, el concepto de encapsulamiento a mi concepto siempre debe estar presente de la manera que se presenta en esta figura cortesía de Java.&lt;/p&gt;
 &lt;p&gt;Y como mi IDE no me genera mis getters y setters, hice mi propio script, usando python, obviamente.&lt;/p&gt;
 &lt;p&gt;Basta pasarle el nombre de los parámetros que queremos,&lt;/p&gt;
@@ -6571,15 +6571,7 @@ ansible webservers -s -m apt -a “pkg=apache2 state=installed update_cache=true
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;pacman -S enlightenment&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;luego, basta con agregar al ~/.xinitrc exec enligthment_start&lt;/p&gt;
 &lt;p&gt;para matar x &lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;xkill -15 x&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ver SQL de una Migración]]></title><description><![CDATA[Ver SQL de una Migración Definitivamente el ORM de Django es una cosa maravillosa, pero cuando falla, es una mierda. En muchas ocasiones las…]]></description><link>https://contraslash.com/61-ver-sql-de-una-migracion/</link><guid isPermaLink="false">https://contraslash.com/61-ver-sql-de-una-migracion/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Ver SQL de una Migración&lt;/h1&gt;
-&lt;p&gt;Definitivamente el ORM de Django es una cosa maravillosa, pero cuando falla, es una mierda.&lt;/p&gt;
-&lt;p&gt;En muchas ocasiones las personas se ven obligadas a realizar los cambios a mano.&lt;/p&gt;
-&lt;p&gt;Es importante tener estos comandos en mente para solucionar problemas indeseados directamente con nuestro Motor de Base de Datos&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;./manage.py sqlmigration app_label migration_id&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Este comando imprime en consola las sentencias sql de la respectiva migración&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;./manage.py migrate app_label --fake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Si la migración presenta fallas, la omite y continua con las demás migraciones&lt;/p&gt;
-&lt;p&gt;También recomiendan la opcion —fake-initial, pero queda a su juicio&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Subiendo archivos con Django]]></title><description><![CDATA[Subiendo archivos con Django En nuestro archivo de URLs En nuestro archivo de settings Si queremos trabajar con ImageFields y Pillow Antes…]]></description><link>https://contraslash.com/60-subiendo-archivos-con-django/</link><guid isPermaLink="false">https://contraslash.com/60-subiendo-archivos-con-django/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Subiendo archivos con Django&lt;/h1&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;xkill -15 x&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Subiendo archivos con Django]]></title><description><![CDATA[Subiendo archivos con Django En nuestro archivo de URLs En nuestro archivo de settings Si queremos trabajar con ImageFields y Pillow Antes…]]></description><link>https://contraslash.com/60-subiendo-archivos-con-django/</link><guid isPermaLink="false">https://contraslash.com/60-subiendo-archivos-con-django/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Subiendo archivos con Django&lt;/h1&gt;
 &lt;h6&gt;En nuestro archivo de URLs&lt;/h6&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from django.views.static import serve as serve_static_files
 from . import settings
@@ -6600,7 +6592,15 @@ MEDIA_URL = &amp;#39;/media/&amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Estos son los requermientos presentados en la página oficial de Pillow que se pueden consultar &lt;a href=&quot;http://pillow.readthedocs.org/en/3.0.x/installation.html#external-libraries&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Yo estoy usando Trusty 64 y funciona de maravilla&lt;/p&gt;
 &lt;p&gt;Para Xenial recomiendo&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sudo apt install libjpeg-dev libtiff5-dev zlib1g-dev libfreetype6-dev liblcms2-dev libwebp-dev openjpeg-tools&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Content Security Policy en iOS con ionic]]></title><description><![CDATA[Content Security Policy en iOS con ionic Desde la salida de cordova 5.0, el trabajo conectándose a URLs externas es todo un fastidio…]]></description><link>https://contraslash.com/62-content-security-policy-en-ios/</link><guid isPermaLink="false">https://contraslash.com/62-content-security-policy-en-ios/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Content Security Policy en iOS con ionic&lt;/h1&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sudo apt install libjpeg-dev libtiff5-dev zlib1g-dev libfreetype6-dev liblcms2-dev libwebp-dev openjpeg-tools&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Ver SQL de una Migración]]></title><description><![CDATA[Ver SQL de una Migración Definitivamente el ORM de Django es una cosa maravillosa, pero cuando falla, es una mierda. En muchas ocasiones las…]]></description><link>https://contraslash.com/61-ver-sql-de-una-migracion/</link><guid isPermaLink="false">https://contraslash.com/61-ver-sql-de-una-migracion/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Ver SQL de una Migración&lt;/h1&gt;
+&lt;p&gt;Definitivamente el ORM de Django es una cosa maravillosa, pero cuando falla, es una mierda.&lt;/p&gt;
+&lt;p&gt;En muchas ocasiones las personas se ven obligadas a realizar los cambios a mano.&lt;/p&gt;
+&lt;p&gt;Es importante tener estos comandos en mente para solucionar problemas indeseados directamente con nuestro Motor de Base de Datos&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;./manage.py sqlmigration app_label migration_id&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Este comando imprime en consola las sentencias sql de la respectiva migración&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;./manage.py migrate app_label --fake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Si la migración presenta fallas, la omite y continua con las demás migraciones&lt;/p&gt;
+&lt;p&gt;También recomiendan la opcion —fake-initial, pero queda a su juicio&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Content Security Policy en iOS con ionic]]></title><description><![CDATA[Content Security Policy en iOS con ionic Desde la salida de cordova 5.0, el trabajo conectándose a URLs externas es todo un fastidio…]]></description><link>https://contraslash.com/62-content-security-policy-en-ios/</link><guid isPermaLink="false">https://contraslash.com/62-content-security-policy-en-ios/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Content Security Policy en iOS con ionic&lt;/h1&gt;
 &lt;p&gt;Desde la salida de cordova 5.0, el trabajo conectándose a URLs externas es todo un fastidio, sugieren bajar el plugin de &lt;a href=&quot;https://github.com/apache/cordova-plugin-whitelist&quot;&gt;whitelist&lt;/a&gt; y configurarlo como se sugiere en el &lt;em&gt;readme.md&lt;/em&gt;, pero vaya sorpresa, a mi no me funcionó.&lt;/p&gt;
 &lt;p&gt;En primera instancia voy a mencionar varios asuntos importantes que pueden salvarle la vida o no a un desarrollador con este problema.&lt;/p&gt;
 &lt;p&gt;En el documentroot de nuestro proyecto ionic se encuentran varios archivos importantes, entre ellos la carpeta www y el archivo config.xml.&lt;/p&gt;
@@ -6628,7 +6628,8 @@ MEDIA_URL = &amp;#39;/media/&amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     {{ name }} =&amp;gt; {{ value }}
   {% endif %}
 {% endfor %}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Sencillamente monumental&lt;/p&gt;</content:encoded></item><item><title><![CDATA[login_required en Vistas Basadas en Clases]]></title><description><![CDATA[login_required en Vistas Basadas en Clases Tomado de aquí]]></description><link>https://contraslash.com/64-login_required-en-vistas-basadas-en-clases/</link><guid isPermaLink="false">https://contraslash.com/64-login_required-en-vistas-basadas-en-clases/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;login_required en Vistas Basadas en Clases&lt;/h1&gt;
+&lt;p&gt;Sencillamente monumental&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Formset anidados]]></title><description><![CDATA[Formset anidados Debo traducir esto]]></description><link>https://contraslash.com/65-formset-anidados/</link><guid isPermaLink="false">https://contraslash.com/65-formset-anidados/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Formset anidados&lt;/h1&gt;
+&lt;p&gt;Debo traducir &lt;a href=&quot;http://yergler.net/blog/2013/09/03/nested-formsets-redux/&quot;&gt;esto&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[login_required en Vistas Basadas en Clases]]></title><description><![CDATA[login_required en Vistas Basadas en Clases Tomado de aquí]]></description><link>https://contraslash.com/64-login_required-en-vistas-basadas-en-clases/</link><guid isPermaLink="false">https://contraslash.com/64-login_required-en-vistas-basadas-en-clases/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;login_required en Vistas Basadas en Clases&lt;/h1&gt;
 &lt;p&gt;Tomado de &lt;a href=&quot;https://docs.djangoproject.com/en/1.8/topics/class-based-views/intro/#decorating-the-class&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from django.contrib.auth.decorators import login_required
 from django.utils.decorators import method_decorator
@@ -6639,13 +6640,7 @@ class ProtectedView(TemplateView):
 
     @method_decorator(login_required)
     def dispatch(self, *args, **kwargs):
-        return super(ProtectedView, self).dispatch(*args, **kwargs)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Formset anidados]]></title><description><![CDATA[Formset anidados Debo traducir esto]]></description><link>https://contraslash.com/65-formset-anidados/</link><guid isPermaLink="false">https://contraslash.com/65-formset-anidados/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Formset anidados&lt;/h1&gt;
-&lt;p&gt;Debo traducir &lt;a href=&quot;http://yergler.net/blog/2013/09/03/nested-formsets-redux/&quot;&gt;esto&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Grabar audio con Raspberry PI]]></title><description><![CDATA[Grabar audio con Raspberry PI http://www.g7smy.co.uk/?p=283 Cabe aclarar que en Jessie, a diferencia de wheezy el archivo de configuraciones…]]></description><link>https://contraslash.com/67-grabar-audio-con-raspberry-pi/</link><guid isPermaLink="false">https://contraslash.com/67-grabar-audio-con-raspberry-pi/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Grabar audio con Raspberry PI&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.g7smy.co.uk/?p=283&quot;&gt;http://www.g7smy.co.uk/?p=283&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Cabe aclarar que en Jessie, a diferencia de wheezy el archivo de configuraciones de alsa no esta en /etc/modprobe.d/alsa-conf sino en /usr/share/alsa/alsa.conf :D&lt;/p&gt;
-&lt;p&gt;ademas, debemos configurar el archivo ~/asoundrc para configurar los valores por defecto de la tarjeta de audio&lt;/p&gt;
-&lt;p&gt;útil acá&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://superuser.com/questions/989385/alsa-base-conf-missing-in-new-raspberry-pi-raspbian-jesse&quot;&gt;http://superuser.com/questions/989385/alsa-base-conf-missing-in-new-raspberry-pi-raspbian-jesse&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mostrar Mensajes de Django]]></title><description><![CDATA[Mostrar Mensajes de Django]]></description><link>https://contraslash.com/66-mostrar-mensajes-de-django/</link><guid isPermaLink="false">https://contraslash.com/66-mostrar-mensajes-de-django/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Mostrar Mensajes de Django&lt;/h1&gt;
+        return super(ProtectedView, self).dispatch(*args, **kwargs)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Mostrar Mensajes de Django]]></title><description><![CDATA[Mostrar Mensajes de Django]]></description><link>https://contraslash.com/66-mostrar-mensajes-de-django/</link><guid isPermaLink="false">https://contraslash.com/66-mostrar-mensajes-de-django/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Mostrar Mensajes de Django&lt;/h1&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{% if messages %}
 &amp;lt;ul class=&amp;quot;messages&amp;quot;&amp;gt;
     {% for message in messages %}
@@ -6655,7 +6650,12 @@ class ProtectedView(TemplateView):
     &amp;lt;/li&amp;gt;
     {% endfor %}
 &amp;lt;/ul&amp;gt;
-{% endif %}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Docker y con Virtual Host y nGinx]]></title><description><![CDATA[Docker y con Virtual Host y nGinx Este tutorial se ve interesante, pero debo migrarlo a mi mejor amigo Apache]]></description><link>https://contraslash.com/68-docker-y-con-virtual-host-y-nginx/</link><guid isPermaLink="false">https://contraslash.com/68-docker-y-con-virtual-host-y-nginx/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Docker y con Virtual Host y nGinx&lt;/h1&gt;
+{% endif %}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Grabar audio con Raspberry PI]]></title><description><![CDATA[Grabar audio con Raspberry PI http://www.g7smy.co.uk/?p=283 Cabe aclarar que en Jessie, a diferencia de wheezy el archivo de configuraciones…]]></description><link>https://contraslash.com/67-grabar-audio-con-raspberry-pi/</link><guid isPermaLink="false">https://contraslash.com/67-grabar-audio-con-raspberry-pi/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Grabar audio con Raspberry PI&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.g7smy.co.uk/?p=283&quot;&gt;http://www.g7smy.co.uk/?p=283&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cabe aclarar que en Jessie, a diferencia de wheezy el archivo de configuraciones de alsa no esta en /etc/modprobe.d/alsa-conf sino en /usr/share/alsa/alsa.conf :D&lt;/p&gt;
+&lt;p&gt;ademas, debemos configurar el archivo ~/asoundrc para configurar los valores por defecto de la tarjeta de audio&lt;/p&gt;
+&lt;p&gt;útil acá&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://superuser.com/questions/989385/alsa-base-conf-missing-in-new-raspberry-pi-raspbian-jesse&quot;&gt;http://superuser.com/questions/989385/alsa-base-conf-missing-in-new-raspberry-pi-raspbian-jesse&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Docker y con Virtual Host y nGinx]]></title><description><![CDATA[Docker y con Virtual Host y nGinx Este tutorial se ve interesante, pero debo migrarlo a mi mejor amigo Apache]]></description><link>https://contraslash.com/68-docker-y-con-virtual-host-y-nginx/</link><guid isPermaLink="false">https://contraslash.com/68-docker-y-con-virtual-host-y-nginx/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Docker y con Virtual Host y nGinx&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;http://tech.mybuilder.com/virtual-hosts-with-docker/&quot;&gt;Este tutorial&lt;/a&gt; se ve interesante, pero debo migrarlo a mi mejor amigo Apache &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mejoramiento de MySQL]]></title><description><![CDATA[Mejoramiento de MySQL Buscando como mejorar el rendimiento de mis servidores de bases de datos me encontré con esta belleza de script Bueno…]]></description><link>https://contraslash.com/69-mejoramiento-de-mysql/</link><guid isPermaLink="false">https://contraslash.com/69-mejoramiento-de-mysql/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Mejoramiento de MySQL&lt;/h1&gt;
 &lt;p&gt;Buscando como mejorar el rendimiento de mis servidores de bases de datos me encontré con esta &lt;a href=&quot;https://raw.githubusercontent.com/major/MySQLTuner-perl/master/mysqltuner.pl&quot;&gt;belleza de script&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bueno, está en Perl, que sintácticamente me parece hediondo, pero es muy util&lt;/p&gt;
@@ -6673,7 +6673,12 @@ sdl init failure reason is no available video device android&lt;/p&gt;
 &lt;p&gt;Seguir el &lt;a href=&quot;http://cmusphinx.sourceforge.net/wiki/tutoriallm&quot;&gt;tutorial oficial&lt;/a&gt; de CMU Sphinx&lt;/p&gt;
 &lt;p&gt;Hay que descargar la ultima versión de &lt;a href=&quot;http://sourceforge.net/projects/cmusphinx/files/cmuclmtk/0.7/&quot;&gt;CMULMTK&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Una herramienta util es &lt;a href=&quot;http://espeak.sourceforge.net/&quot;&gt;espeak&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Que se puede usar como dice &lt;a href=&quot;http://stackoverflow.com/questions/11911028/python-arpabet-phonetic-transcription&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Django y Bower]]></title><description><![CDATA[Django y Bower Este post está tomado de aquí Primero debemos tener instalado bower Luego instalamos el wrapper de django para bower Luego en…]]></description><link>https://contraslash.com/72-django-y-bower/</link><guid isPermaLink="false">https://contraslash.com/72-django-y-bower/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Django y Bower&lt;/h1&gt;
+&lt;p&gt;Que se puede usar como dice &lt;a href=&quot;http://stackoverflow.com/questions/11911028/python-arpabet-phonetic-transcription&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Cambiar el charset de una base de datos MySQL]]></title><description><![CDATA[Cambiar el charset de una base de datos MySQL Para cambiar toda la base de datos Para cambiar cada tabla Y luego ejecutar el resultado como…]]></description><link>https://contraslash.com/71-cambiar-el-charset-de-una-base-de-datos-mysql/</link><guid isPermaLink="false">https://contraslash.com/71-cambiar-el-charset-de-una-base-de-datos-mysql/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Cambiar el charset de una base de datos MySQL&lt;/h1&gt;
+&lt;p&gt;Para cambiar toda la base de datos&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;alter database  DATABASE_NAME character set latin1 collate latin1_swedish_ci;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Para cambiar cada tabla&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;SELECT CONCAT(  &amp;quot;ALTER TABLE &amp;quot;, TABLE_NAME,  &amp;quot; CONVERT TO CHARACTER SET latin1 COLLATE latin1_swedish_ci;&amp;quot; ) AS ExecuteTheString FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA =  &amp;quot;DATABASE_NAME&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Y luego ejecutar el resultado como código SQL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Django y Bower]]></title><description><![CDATA[Django y Bower Este post está tomado de aquí Primero debemos tener instalado bower Luego instalamos el wrapper de django para bower Luego en…]]></description><link>https://contraslash.com/72-django-y-bower/</link><guid isPermaLink="false">https://contraslash.com/72-django-y-bower/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Django y Bower&lt;/h1&gt;
 &lt;p&gt;Este post está tomado de &lt;a href=&quot;https://django-bower.readthedocs.org/en/latest/installation.html&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Primero debemos tener instalado bower&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm install -g bower&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -6693,23 +6698,7 @@ sdl init failure reason is no available video device android&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;BOWER_INSTALLED_APPS = (
 )&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Por último, para sincronizar nuestras aplicaciones de bower usamos&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;./manage.py bower install&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Cambiar el charset de una base de datos MySQL]]></title><description><![CDATA[Cambiar el charset de una base de datos MySQL Para cambiar toda la base de datos Para cambiar cada tabla Y luego ejecutar el resultado como…]]></description><link>https://contraslash.com/71-cambiar-el-charset-de-una-base-de-datos-mysql/</link><guid isPermaLink="false">https://contraslash.com/71-cambiar-el-charset-de-una-base-de-datos-mysql/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Cambiar el charset de una base de datos MySQL&lt;/h1&gt;
-&lt;p&gt;Para cambiar toda la base de datos&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;alter database  DATABASE_NAME character set latin1 collate latin1_swedish_ci;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Para cambiar cada tabla&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;SELECT CONCAT(  &amp;quot;ALTER TABLE &amp;quot;, TABLE_NAME,  &amp;quot; CONVERT TO CHARACTER SET latin1 COLLATE latin1_swedish_ci;&amp;quot; ) AS ExecuteTheString FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA =  &amp;quot;DATABASE_NAME&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Y luego ejecutar el resultado como código SQL&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalar Apache Cordova e Ionic en Ubuntu 14.04]]></title><description><![CDATA[Instalar Apache Cordova e Ionic en Ubuntu 14.04 Al grano Primero instalamos NodeJS
-Luego instalamos NPM
-Y luego instalamos cordova e ionic…]]></description><link>https://contraslash.com/74-instalar-apache-cordova-e-ionic-en-ubuntu-14-04/</link><guid isPermaLink="false">https://contraslash.com/74-instalar-apache-cordova-e-ionic-en-ubuntu-14-04/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalar Apache Cordova e Ionic en Ubuntu 14.04&lt;/h1&gt;
-&lt;p&gt;Al grano&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
-sudo apt-get install -y nodejs
-curl -L https://npmjs.org/install.sh | sudo sh
-sudo npm install -g cordova ionic&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Primero instalamos NodeJS
-Luego instalamos NPM
-Y luego instalamos cordova e ionic.&lt;/p&gt;
-&lt;p&gt;Fácil uh?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Montar NTFS en Mac]]></title><description><![CDATA[Montar NTFS en Mac Taked from here Quickly mount a NTFS disk read/write on all recent OS X (including Yosemite, El Capitan): Open…]]></description><link>https://contraslash.com/73-un/</link><guid isPermaLink="false">https://contraslash.com/73-un/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Montar NTFS en Mac&lt;/h1&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;./manage.py bower install&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Montar NTFS en Mac]]></title><description><![CDATA[Montar NTFS en Mac Taked from here Quickly mount a NTFS disk read/write on all recent OS X (including Yosemite, El Capitan): Open…]]></description><link>https://contraslash.com/73-un/</link><guid isPermaLink="false">https://contraslash.com/73-un/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Montar NTFS en Mac&lt;/h1&gt;
 &lt;p&gt;Taked from &lt;a href=&quot;http://apple.stackexchange.com/a/170011&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Quickly mount a NTFS disk read/write on all recent OS X (including Yosemite, El Capitan):&lt;/p&gt;
 &lt;p&gt;Open Application -&gt; Utilities -&gt; Terminal
@@ -6730,7 +6719,18 @@ Run sudo vifs and paste in the output from the previous 2 lines. To do this pres
 &lt;p&gt;sudo umount /Volumes/$DEVICE
 sudo diskutil mountDisk $DEVICE
 sudo open &lt;code class=&quot;language-text&quot;&gt;mount | grep $DEVICE | awk &amp;#39;{print $3}&amp;#39;&lt;/code&gt;
-Note: The device will no longer automatically open a window when you attach it. To access it open a Finder window and select the Go -&gt; Go to Folder to /Volumes&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Crear proyecto de Android desde consola]]></title><description><![CDATA[Crear proyecto de Android desde consola Pero por supuesto que es posible crear un proyecto de android desde consola, primero debemos definir…]]></description><link>https://contraslash.com/8-crear-proyecto-de-android-desde-consola/</link><guid isPermaLink="false">https://contraslash.com/8-crear-proyecto-de-android-desde-consola/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Crear proyecto de Android desde consola&lt;/h1&gt;
+Note: The device will no longer automatically open a window when you attach it. To access it open a Finder window and select the Go -&gt; Go to Folder to /Volumes&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Instalar Apache Cordova e Ionic en Ubuntu 14.04]]></title><description><![CDATA[Instalar Apache Cordova e Ionic en Ubuntu 14.04 Al grano Primero instalamos NodeJS
+Luego instalamos NPM
+Y luego instalamos cordova e ionic…]]></description><link>https://contraslash.com/74-instalar-apache-cordova-e-ionic-en-ubuntu-14-04/</link><guid isPermaLink="false">https://contraslash.com/74-instalar-apache-cordova-e-ionic-en-ubuntu-14-04/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Instalar Apache Cordova e Ionic en Ubuntu 14.04&lt;/h1&gt;
+&lt;p&gt;Al grano&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
+sudo apt-get install -y nodejs
+curl -L https://npmjs.org/install.sh | sudo sh
+sudo npm install -g cordova ionic&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Primero instalamos NodeJS
+Luego instalamos NPM
+Y luego instalamos cordova e ionic.&lt;/p&gt;
+&lt;p&gt;Fácil uh?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Crear proyecto de Android desde consola]]></title><description><![CDATA[Crear proyecto de Android desde consola Pero por supuesto que es posible crear un proyecto de android desde consola, primero debemos definir…]]></description><link>https://contraslash.com/8-crear-proyecto-de-android-desde-consola/</link><guid isPermaLink="false">https://contraslash.com/8-crear-proyecto-de-android-desde-consola/</guid><pubDate>Fri, 29 Jan 2016 06:42:23 GMT</pubDate><content:encoded>&lt;h1&gt;Crear proyecto de Android desde consola&lt;/h1&gt;
 &lt;p&gt;Pero por supuesto que es posible crear un proyecto de android desde consola, primero debemos definir algunas variables de entorno&lt;/p&gt;
 &lt;p&gt; &lt;code class=&quot;language-text&quot;&gt;ANDROID_HOME=/ruta/al/android/sdk&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt; regularmente el sdk, se coloca en &lt;code class=&quot;language-text&quot;&gt;/home/nombredeusuario/Android/Sdk&lt;/code&gt;
